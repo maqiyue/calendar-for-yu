@@ -1,0 +1,2879 @@
+{
+	"approved" : true,
+	"contentrating" : "Everyone",
+	"description" : "Original values are optimized for 1920x1080 but I tried to make enough options for you to adjust it to your screen size.\r\n\r\n2AM Wallpaper with integrated system clock, customizable skyscraper text and 48FPS video\r\nVisualizer: VU Meter by Squee: https://steamcommunity.com/sharedfiles/filedetails/?id=786782443\r\nOriginal VU Meter Preset by FЯΣΛK': https://steamcommunity.com/sharedfiles/filedetails/?id=1733287454\r\nOriginal artwork by Tony Skeor: https://www.artstation.com/skeor\r\nIdea by zaeboba: https://steamcommunity.com/id/Mask_RF",
+	"file" : "index.html",
+	"general" : 
+	{
+		"localization" : 
+		{
+			"ar-sa" : 
+			{
+				"ui_led7_ledbarCount_opt_i_1" : "8",
+				"ui_led7_ledbarCount_opt_i_2" : "16",
+				"ui_led7_ledbarCount_opt_i_3" : "32",
+				"ui_led7_ledbarCount_opt_i_4" : "64",
+				"ui_translation_contributors" : ""
+			},
+			"bg-bg" : 
+			{
+				"ui_led7_ledbarCount_opt_i_1" : "8",
+				"ui_led7_ledbarCount_opt_i_2" : "16",
+				"ui_led7_ledbarCount_opt_i_3" : "32",
+				"ui_led7_ledbarCount_opt_i_4" : "64",
+				"ui_translation_contributors" : ""
+			},
+			"cs-cz" : 
+			{
+				"ui_adjustAmplitude" : "Přizpůsobit amplitudu",
+				"ui_blending_opt_s_color" : "Barva",
+				"ui_blending_opt_s_luminosity" : "Jas",
+				"ui_blending_opt_s_screen" : "obrazovka",
+				"ui_blur" : "Rozmazání",
+				"ui_colorRotationSkip" : "Přeskočení rotace ( deg )",
+				"ui_colorRotationSpeed" : "Rychlost rotace (&#x2030;)",
+				"ui_colorRotationUse" : "Použij rotaci barev",
+				"ui_hideWhenSilent" : "Když je ticho",
+				"ui_hideWhenSilent_opt_b_false" : "Nic nedělej",
+				"ui_hideWhenSilent_opt_i_1" : "Animuj",
+				"ui_led0_b0_backgroundColor" : "Barva pozadí 1",
+				"ui_led0_b0_backgroundImage" : "Obrázek pozadí",
+				"ui_led0_b0_backgroundSize_opt_s_cover" : "Pokryj obrazovku",
+				"ui_led0_b1_backgroundColor" : "Barva pozadí 2",
+				"ui_led0_b2_backgroundColor" : "Barva pozadí 3",
+				"ui_led0_b3_backgroundColorCount" : "Použít # barvy na pozadí",
+				"ui_led0_b4_backgroundHorizontal_opt_s_linear_left" : "Horizontální",
+				"ui_led0_b4_backgroundHorizontal_opt_s_radial_center_center_ellipse_cover" : "Elipsa",
+				"ui_led3_ledOpacity" : "Neprůhlednost",
+				"ui_led4_peakOpacity" : "Hranice neprůhlednosti",
+				"ui_led5_dropRate" : "Míra poklesu indikátoru",
+				"ui_led6_orientation" : "Orientace",
+				"ui_led6_orientation_opt_i_1" : "spodní strana",
+				"ui_led6_orientation_opt_i_2" : "nahoře",
+				"ui_led6_orientation_opt_i_3" : "Levá/Pravá",
+				"ui_led6_orientation_opt_i_4" : "středně vysoko",
+				"ui_led6_orientation_opt_i_5" : "Středně široko",
+				"ui_led7_ledStroke" : "Styl renderování",
+				"ui_led7_ledStroke_opt_i_0" : "pevný",
+				"ui_led7_ledStroke_opt_i_1" : "obrys",
+				"ui_led7_ledType_opt_i_1" : "obdélník",
+				"ui_led7_ledType_opt_i_2" : "elipsa",
+				"ui_led7_ledbarCount_opt_i_1" : "8",
+				"ui_led7_ledbarCount_opt_i_2" : "16",
+				"ui_led7_ledbarCount_opt_i_3" : "32",
+				"ui_led7_ledbarCount_opt_i_4" : "64",
+				"ui_led7_ledsizeRatio" : "poměr velikosti",
+				"ui_reverseAudioData" : "Prohoď frekvence",
+				"ui_schemecolor" : "Barva motivu",
+				"ui_slideshowFolder" : "Složka obrázku",
+				"ui_slideshowInterval" : "Interval obrázku",
+				"ui_slideshowIntervalMultiplier" : "Jednotka intervalu obrázku",
+				"ui_slideshowIntervalMultiplier_opt_i_1" : "sekund",
+				"ui_slideshowIntervalMultiplier_opt_i_3600" : "hodin",
+				"ui_slideshowShowTransitions" : "Vyber přechody",
+				"ui_slideshowTransFade" : "slábnout",
+				"ui_slideshowTransMoveBottom" : "Pohni zdola",
+				"ui_slideshowTransMoveLeft" : "Pohni zleva",
+				"ui_slideshowTransMoveRight" : "Pohni zprava",
+				"ui_slideshowTransMoveTop" : "Pohni shora",
+				"ui_slideshowTransShuffleBottom" : "Posuň zdola",
+				"ui_slideshowTransShuffleRight" : "Posuň zprava",
+				"ui_slideshowTransShuffleTop" : "Posuň shora",
+				"ui_slideshowTransZoomIn" : "Přiblížit",
+				"ui_slideshowTransZoomOut" : "Oddálit",
+				"ui_slideshowTransZoomVertOut" : "Oddálit vertikálně",
+				"ui_slideshowTransitionDuration" : "Trvání přechodu",
+				"ui_smoothingFactor_opt_i_0" : "Bez vyhlazování",
+				"ui_tr2_bl_x" : "Vlevo dole X (px)",
+				"ui_tr2_br_x" : "Vpravo dole X (px)",
+				"ui_tr2_br_y" : "Vpravo dole Y (px)",
+				"ui_tr_tl_y" : "levé horní Y (&#x2030;)",
+				"ui_translation_contributors" : "<h4>Translation Contributors</h4> Translations were made possible, among others, by: palo10"
+			},
+			"da-dk" : 
+			{
+				"ui_led7_ledbarCount_opt_i_1" : "8",
+				"ui_led7_ledbarCount_opt_i_2" : "16",
+				"ui_led7_ledbarCount_opt_i_3" : "32",
+				"ui_led7_ledbarCount_opt_i_4" : "64",
+				"ui_translation_contributors" : ""
+			},
+			"de-de" : 
+			{
+				"ui_adjustAmplitude" : "Amplitude anpassen",
+				"ui_background_Label" : "<h3>Hintergrund</h3>",
+				"ui_blending" : "Mischmodus",
+				"ui_blending_opt_s_color" : "Farbe",
+				"ui_blending_opt_s_color_burn" : "Faser mischen",
+				"ui_blending_opt_s_color_dodge" : "Farbausweichung",
+				"ui_blending_opt_s_darken" : "Verdunkeln",
+				"ui_blending_opt_s_difference" : "Unterschied",
+				"ui_blending_opt_s_exclusion" : "Ausschluss",
+				"ui_blending_opt_s_hard_light" : "hartes Licht",
+				"ui_blending_opt_s_hue" : "Farbton",
+				"ui_blending_opt_s_lighten" : "aufhellen",
+				"ui_blending_opt_s_luminosity" : "Leuchtkraft",
+				"ui_blending_opt_s_multiply" : "multiplizieren",
+				"ui_blending_opt_s_normal" : "Normal",
+				"ui_blending_opt_s_overlay" : "Overlay",
+				"ui_blending_opt_s_saturation" : "Sättigung",
+				"ui_blending_opt_s_screen" : "Bildschirm",
+				"ui_blending_opt_s_soft_light" : "Sanftes-Licht",
+				"ui_blur" : "Blur",
+				"ui_blurLabel" : "<h3>Weitere</h3>",
+				"ui_colorRotation" : "<h4>Farbrotation</h4><small>Farbrotationen können sehr CPU lastig sein. Jedes mal wenn die Farbe wechselt wird die CPU Auslastung kurz ansteigen. Man kann die Farbrotationsgeschwindigkeit verändern, indem man den Rotations Übergangs Wert verändert. Desto langsamer die Rotation, desto reibungsloser werden die Übergänge.</small>",
+				"ui_colorRotationSkip" : "Rotationsübergang ( deg )",
+				"ui_colorRotationSpeed" : "Rotationsgeschwindigkeit (&#x2030;)",
+				"ui_colorRotationUse" : "Farbrotation benutzen",
+				"ui_disableNormalizing" : "Normalisierung ausschalten",
+				"ui_hideWhenSilent" : "Wenn Lautlos",
+				"ui_hideWhenSilentThreshold" : "Stille Lautstärke",
+				"ui_hideWhenSilent_opt_b_false" : "Nichts tun",
+				"ui_hideWhenSilent_opt_b_true" : "Alle verstecken",
+				"ui_hideWhenSilent_opt_i_1" : "Animieren",
+				"ui_led0_b0_backgroundColor" : "Hintergrundfarbe 1",
+				"ui_led0_b0_backgroundColor_" : "<h4>Hintergrundfarben</h4>",
+				"ui_led0_b0_backgroundImage" : "Hintergrund Bild",
+				"ui_led0_b0_backgroundImage_" : "<h4>Hintergrundbild</h4>",
+				"ui_led0_b0_backgroundSize" : "Hintergrund Größe",
+				"ui_led0_b0_backgroundSize_opt_s_contain" : "Passend",
+				"ui_led0_b0_backgroundSize_opt_s_cover" : "Deckbildschirm",
+				"ui_led0_b0_backgroundSource" : "Hintergrund Quelle",
+				"ui_led0_b0_backgroundSource_opt_s_" : "[Auswählen]",
+				"ui_led0_b0_backgroundSource_opt_s_image" : "Bild",
+				"ui_led0_b0_backgroundSource_opt_s_none" : "Nur Farben",
+				"ui_led0_b0_backgroundSource_opt_s_slideshow" : "Diashow",
+				"ui_led0_b0_backgroundSource_opt_s_video" : "Einzelnes Video",
+				"ui_led0_b0_backgroundV" : "<h4>Hintergrundvideo<br><small>- Muss Webm oder ogv Format sein.<br>- Die CPU-Nutzung wird je nach Videoqualität zunehmen. </small></h4>",
+				"ui_led0_b0_backgroundVideo" : "Hintergrundvideo",
+				"ui_led0_b0_backgroundVideoVolume" : "Hintergrund-video Lautstärke",
+				"ui_led0_b1_backgroundColor" : "Hintergrundfarbe 2",
+				"ui_led0_b2_backgroundColor" : "Hintergrundfarbe 3",
+				"ui_led0_b3_backgroundColorCount" : "Benutze # Hintergrund Farben",
+				"ui_led0_b4_backgroundHorizontal" : "Hintergrund Farbverlauf Horizontal",
+				"ui_led0_b4_backgroundHorizontal_opt_s_linear_left" : "horizontal",
+				"ui_led0_b4_backgroundHorizontal_opt_s_linear_top" : "Vertikal",
+				"ui_led0_b4_backgroundHorizontal_opt_s_radial_center_center_circle_cover" : "Kreis",
+				"ui_led0_b4_backgroundHorizontal_opt_s_radial_center_center_ellipse_cover" : "Ellipse",
+				"ui_led1_startColor" : "Startfarbe des Verlaufes",
+				"ui_led1_startColor_Label" : "<h3>Led Einstellungen</h3>",
+				"ui_led2_endColor" : "Enfarbe des Farbverlaufes",
+				"ui_led3_ledOpacity" : "Deckkraft",
+				"ui_led3_startColor" : "Startfarbe des Farbverlaufes 2",
+				"ui_led4_endColor" : "Endfarbe des Farbverlaufes 2",
+				"ui_led4_peakOpacity" : "Spitzendeckkraft",
+				"ui_led5_dropRate" : "Abfallrate des Spitzenindikators",
+				"ui_led6_orientation" : "Orientierung",
+				"ui_led6_orientation_opt_i_1" : "Unten",
+				"ui_led6_orientation_opt_i_2" : "Oben",
+				"ui_led6_orientation_opt_i_3" : "Links/rechts",
+				"ui_led6_orientation_opt_i_4" : "Mitte Vertikal",
+				"ui_led6_orientation_opt_i_5" : "Mitte Horizontal",
+				"ui_led6_orientation_opt_i_6" : "Oben/Unten",
+				"ui_led6_orientation_opt_i_7" : "Links",
+				"ui_led6_orientation_opt_i_8" : "Rechts",
+				"ui_led7_ledStroke" : "Renderstil",
+				"ui_led7_ledStroke_opt_i_0" : "solide",
+				"ui_led7_ledStroke_opt_i_1" : "Umriss",
+				"ui_led7_ledType" : "Typ<br><small>( alles außer Rechtecken kann die CPU auslastung drastisch erhöhen )</small>",
+				"ui_led7_ledType_opt_i_1" : "Rechteck",
+				"ui_led7_ledType_opt_i_2" : "Ellipse",
+				"ui_led7_ledType_opt_i_3" : "Sechseck",
+				"ui_led7_ledType_opt_i_4" : "Trapez",
+				"ui_led7_ledType_opt_i_5" : "Ungekehrtes Trapez",
+				"ui_led7_ledbarCount" : "Balken<br><small>pro Audio Kanal</small>",
+				"ui_led7_ledbarCount_opt_i_1" : "8",
+				"ui_led7_ledbarCount_opt_i_2" : "16",
+				"ui_led7_ledbarCount_opt_i_3" : "32",
+				"ui_led7_ledbarCount_opt_i_4" : "64",
+				"ui_led7_ledsizeRatio" : "Größenverhältnis",
+				"ui_led_use4Colors" : "4 Farbstufen<br><small> Wenn ausgeschaltet, dann werden nur die ersten 2 Farben verwendet</small>",
+				"ui_marginBottom" : "Unterer Rand",
+				"ui_marginLeft" : "Rand Links",
+				"ui_marginRight" : "Rand rechts",
+				"ui_marginTop" : "Rand oben",
+				"ui_reverseAudioData" : "Frequenzen invertieren",
+				"ui_schemecolor" : "Schema Farbe",
+				"ui_slideshow" : "<h4>Hintergrund-Diashow</h4><small>Die Diashow ist nicht mit der Methode zur Positionierung des Bildschirmzentrums kompatibel.</small>",
+				"ui_slideshowFolder" : "Bildordner",
+				"ui_slideshowInterval" : "Bildintervall",
+				"ui_slideshowIntervalMultiplier" : "Bildintervall Einheiten",
+				"ui_slideshowIntervalMultiplier_opt_i_1" : "Sekunden",
+				"ui_slideshowIntervalMultiplier_opt_i_3600" : "Stunden",
+				"ui_slideshowIntervalMultiplier_opt_i_60" : "Minuten",
+				"ui_slideshowShowTransitions" : "Übergang wählen",
+				"ui_slideshowTransFade" : "Ausblenden",
+				"ui_slideshowTransMoveBottom" : "Von unten bewegen",
+				"ui_slideshowTransMoveLeft" : "Von links bewegen",
+				"ui_slideshowTransMoveRight" : "Von rechts bewegen",
+				"ui_slideshowTransMoveTop" : "Von oben bewegen",
+				"ui_slideshowTransShuffleBottom" : "Von unten mischen",
+				"ui_slideshowTransShuffleLeft" : "Von links mischen",
+				"ui_slideshowTransShuffleRight" : "Von rechts mischen",
+				"ui_slideshowTransShuffleTop" : "Von oben mischen",
+				"ui_slideshowTransZoomHorzIn" : "Hereinzoomen horizontal",
+				"ui_slideshowTransZoomHorzOut" : "Herauszoomen horizontal",
+				"ui_slideshowTransZoomIn" : "Hereinzoomen",
+				"ui_slideshowTransZoomOut" : "herauszoomen",
+				"ui_slideshowTransZoomVertIn" : "Hereinzoomen vertikal",
+				"ui_slideshowTransZoomVertOut" : "Herauszoomen vertikal",
+				"ui_slideshowTrans_" : "<h4><small>Wenn man eine Animation einschaltet, wird diese für den nächsten Übergang verwendet.</small></h4>",
+				"ui_slideshowTransitionDuration" : "Übergangsdauer",
+				"ui_slideshowUseTransitions" : "Übergänge verwenden<br><small>Erhöht CPU/GPU-Auslastung ein wenig für die Dauer eines Übergangs.</small>",
+				"ui_smoothingFactor" : "Glättungsfaktor",
+				"ui_smoothingFactor_opt_i_0" : "Keine Glättung",
+				"ui_smoothingFactor_opt_i_1" : "Tief",
+				"ui_smoothingFactor_opt_i_2" : "Med",
+				"ui_smoothingFactor_opt_i_3" : "Hoch",
+				"ui_tr2_bl_x" : "Unten Links X (px)",
+				"ui_tr2_bl_y" : "Unten links Y (px)",
+				"ui_tr2_br_x" : "Unten rechts X (px)",
+				"ui_tr2_br_y" : "Unten Rechts Y (px)",
+				"ui_tr2_tl_x" : "Oben Links X (px)",
+				"ui_tr2_tl_y" : "Oben links Y (px)",
+				"ui_tr2_tr_x" : "Oben rechts X (px)",
+				"ui_tr2_tr_y" : "Oben rechts Y (px)",
+				"ui_tr_bl_x" : "Unten Links X (&#x2030;)",
+				"ui_tr_bl_y" : "Unten links Y (&#x2030;)",
+				"ui_tr_br_x" : "Unten rechts X (&#x2030;)",
+				"ui_tr_br_y" : "Unten rechts Y(&#x2030;)",
+				"ui_tr_showPositionIndicator" : "Flash-Bereich beim Einstellen der Position",
+				"ui_tr_switch" : "Positioniersystem",
+				"ui_tr_switch_opt_i_0" : "Kantenversatz",
+				"ui_tr_switch_opt_i_1" : "Bildschirmmitte",
+				"ui_tr_switch_opt_i_2" : "Ränder",
+				"ui_tr_tl_0" : "<h3>Positionierung</h3><small>Sie können das VU Meter mithilfe einer dieser Positionierungsoptionen neu positionieren. Optionen:<ul><li>Rand: Verwenden Sie diese Option, um die Größe anzupassen, damit es sich nicht hinter der Taskleiste versteckt</li><li>Kantenversatz: Positionierung ausgehend von den Ecken des Bildschirms.</ li><li>Bildschirmmitte: Positionierung von der Mitte des Bildschirms aus.</li></ul></small>",
+				"ui_tr_tl_01" : "<small>Ich schlage vor, die Option \"Bildschirmmitte\" zu verwenden, da sie genauer ist und diese Einstellungen besser auf einen anderen Computer mit einer anderen Bildschirmgröße kopiert werden können. Ich konnte das nicht als Standard festlegen denn das Hintergrundbild würde beim ersten Start seltsam aussehen. Das liegt daran, dass ich die Werte nicht im Voraus an Ihre Bildschirmgröße anpassen kann.</small>",
+				"ui_tr_tl_1" : "<h4>Kantenversatz</h4><small>Diese werden verwendet, wenn \"Positionssystem\" auf \"Kantenversatz\" eingestellt ist. Diese Werte basieren auf den Ecken und ihre Werte sind Promille ( &#x2030;, Wie Prozentsätze aber 1&#x2030; ist gleich 1/1000 wenn 1% gleich 1/100 ist) der Bildschirmbreite oder Bildschirmhöhe.<br><br><b>Verwenden Sie die Pfeiltasten zur Feinabstimmung des Wertes</b></small>",
+				"ui_tr_tl_2" : "<h4> Bildschirmmitte </h4><small> Diese werden verwendet, wenn \"Position System\" auf \"Screen Center\" eingestellt ist. Koordinate 0,0 ist die Mitte des Hintergrundbildes. Dies ermöglicht bessere Ergebnisse beim Kopieren von Einstellungen auf einen anderen Computer. Wenn ein Hintergrundbild festgelegt wird, wird der Wert so skaliert, dass er den Pixelkoordinaten des Bildes entspricht. <br><br> Verwenden Sie die Pfeiltasten zur Feinabstimmung des Wertes </b></small>",
+				"ui_tr_tl_x" : "Oben Links X (&#x2030;)",
+				"ui_tr_tl_y" : "Oben Links Y (&#x2030;)",
+				"ui_tr_tr_x" : "Oben Rechts X (&#x2030;)",
+				"ui_tr_tr_y" : "Oben rechts Y (&#x2030;)",
+				"ui_translation_contributors" : "<h4>Übersetzer</h4> Die Übersetzung wurde ermöglicht von, unter anderem: NaxeyOffman_GER, T-mo, Thore, Tobias, WoisderAlkohol, Wubba Lubba Sub Sub, blackback1・ブラックバッ, leon"
+			},
+			"el-gr" : 
+			{
+				"ui_led7_ledbarCount_opt_i_1" : "8",
+				"ui_led7_ledbarCount_opt_i_2" : "16",
+				"ui_led7_ledbarCount_opt_i_3" : "32",
+				"ui_led7_ledbarCount_opt_i_4" : "64",
+				"ui_translation_contributors" : ""
+			},
+			"en-us" : 
+			{
+				"ui_adjustAmplitude" : "Adjust Amplitude (%)",
+				"ui_background_Label" : "<h3>Background</h3>",
+				"ui_blending" : "Blend Mode",
+				"ui_blending_opt_s_color" : "color",
+				"ui_blending_opt_s_color_burn" : "color-burn",
+				"ui_blending_opt_s_color_dodge" : "color-dodge",
+				"ui_blending_opt_s_darken" : "darken",
+				"ui_blending_opt_s_difference" : "difference",
+				"ui_blending_opt_s_exclusion" : "exclusion",
+				"ui_blending_opt_s_hard_light" : "hard-light",
+				"ui_blending_opt_s_hue" : "hue",
+				"ui_blending_opt_s_lighten" : "lighten",
+				"ui_blending_opt_s_luminosity" : "luminosity",
+				"ui_blending_opt_s_multiply" : "multiply",
+				"ui_blending_opt_s_normal" : "normal",
+				"ui_blending_opt_s_overlay" : "overlay",
+				"ui_blending_opt_s_saturation" : "saturation",
+				"ui_blending_opt_s_screen" : "screen",
+				"ui_blending_opt_s_soft_light" : "soft-light",
+				"ui_blur" : "Blur",
+				"ui_blurLabel" : "<h3>Other</h3>",
+				"ui_colorRotation" : "<h4>Color Rotation</h4><small>Color rotation can be very CPU intensive. Each time the color gets update the cpu usage will peak. You can lower the times the color updates by raising the rotation skip value. The slower the rotation, the lower the skip can be creating a smoother transition.</small>",
+				"ui_colorRotationSkip" : "Rotation Skip ( deg )",
+				"ui_colorRotationSpeed" : "Rotation Speed (&#x2030;)",
+				"ui_colorRotationUse" : "Use Color Rotation",
+				"ui_disableNormalizing" : "Disable Normalisation",
+				"ui_hideWhenSilent" : "When Silent",
+				"ui_hideWhenSilentThreshold" : "Silence Threshold",
+				"ui_hideWhenSilent_opt_b_false" : "Do Nothing",
+				"ui_hideWhenSilent_opt_b_true" : "Hide All",
+				"ui_hideWhenSilent_opt_i_1" : "Animate",
+				"ui_led0_b0_backgroundColor" : "Background Color 1",
+				"ui_led0_b0_backgroundColor_" : "<h4>Background Colors</h4>",
+				"ui_led0_b0_backgroundImage" : "Background image",
+				"ui_led0_b0_backgroundImage_" : "<h4>Background Image</h4>",
+				"ui_led0_b0_backgroundSize" : "Background Size",
+				"ui_led0_b0_backgroundSize_opt_s_contain" : "Fit Screen",
+				"ui_led0_b0_backgroundSize_opt_s_cover" : "Cover Screen",
+				"ui_led0_b0_backgroundSource" : "Background Source",
+				"ui_led0_b0_backgroundSource_opt_s_" : "[Select One]",
+				"ui_led0_b0_backgroundSource_opt_s_image" : "Single Image",
+				"ui_led0_b0_backgroundSource_opt_s_none" : "Only Colors",
+				"ui_led0_b0_backgroundSource_opt_s_slideshow" : "Slide Show",
+				"ui_led0_b0_backgroundSource_opt_s_video" : "Single Video",
+				"ui_led0_b0_backgroundV" : "<h4>Background Video<br><small>- Must be webm or ogv format.<br>- CPU usage will increase depending on video quality. </small></h4>",
+				"ui_led0_b0_backgroundVideo" : "Background Video",
+				"ui_led0_b0_backgroundVideoVolume" : "Background Video Volume",
+				"ui_led0_b1_backgroundColor" : "Background Color 2",
+				"ui_led0_b2_backgroundColor" : "Background Color 3",
+				"ui_led0_b3_backgroundColorCount" : "Use # Background Colors",
+				"ui_led0_b4_backgroundHorizontal" : "Background Gradient Horizontal",
+				"ui_led0_b4_backgroundHorizontal_opt_s_linear_left" : "horizontal",
+				"ui_led0_b4_backgroundHorizontal_opt_s_linear_top" : "vertical",
+				"ui_led0_b4_backgroundHorizontal_opt_s_radial_center_center_circle_cover" : "circle",
+				"ui_led0_b4_backgroundHorizontal_opt_s_radial_center_center_ellipse_cover" : "ellipse",
+				"ui_led1_startColor" : "Gradient Start Color",
+				"ui_led1_startColor_Label" : "<h3>Led Settings</h3>",
+				"ui_led2_endColor" : "Gradient End Color",
+				"ui_led3_ledOpacity" : "Opacity ",
+				"ui_led3_startColor" : "Gradient Start Color 2",
+				"ui_led4_endColor" : "Gradient End Color 2",
+				"ui_led4_peakOpacity" : "Peak Opacity",
+				"ui_led5_dropRate" : "Peak Indicator Drop Rate",
+				"ui_led6_orientation" : "Orientation",
+				"ui_led6_orientation_opt_i_1" : "Bottom",
+				"ui_led6_orientation_opt_i_2" : "Top",
+				"ui_led6_orientation_opt_i_3" : "Left/Right",
+				"ui_led6_orientation_opt_i_4" : "Mid Vertical",
+				"ui_led6_orientation_opt_i_5" : "Mid Horizontal",
+				"ui_led6_orientation_opt_i_6" : "Top/Bottom",
+				"ui_led6_orientation_opt_i_7" : "Left",
+				"ui_led6_orientation_opt_i_8" : "Right",
+				"ui_led7_ledStroke" : "Render Style ",
+				"ui_led7_ledStroke_opt_i_0" : "Solid",
+				"ui_led7_ledStroke_opt_i_1" : "Outline",
+				"ui_led7_ledType" : "Type <br><small>( anything except Retangles can increase cpu usage drastically )</small>",
+				"ui_led7_ledType_opt_i_1" : "Rectangle",
+				"ui_led7_ledType_opt_i_2" : "Ellipse",
+				"ui_led7_ledType_opt_i_3" : "Hexagon",
+				"ui_led7_ledType_opt_i_4" : "Trapezoid ",
+				"ui_led7_ledType_opt_i_5" : "Trapezoid Reversed",
+				"ui_led7_ledbarCount" : "Bars<br><small>per audio channel</small>",
+				"ui_led7_ledbarCount_opt_i_1" : "8",
+				"ui_led7_ledbarCount_opt_i_2" : "16",
+				"ui_led7_ledbarCount_opt_i_3" : "32",
+				"ui_led7_ledbarCount_opt_i_4" : "64",
+				"ui_led7_ledsizeRatio" : "Size Ratio",
+				"ui_led_use4Colors" : "4 Color Gradient<br><small>If disabled only the first 2 colors will be used</small>",
+				"ui_marginBottom" : "Margin Bottom",
+				"ui_marginLeft" : "Margin Left",
+				"ui_marginRight" : "Margin Right",
+				"ui_marginTop" : "Margin Top",
+				"ui_margins" : "<h3>Margins</h3><small>This is meant to be used to adjust the area to not fall behind the toolbar. For any other purposes use the positioning system and leave these to 0.</small>",
+				"ui_reverseAudioData" : "Reverse Frequencies",
+				"ui_schemecolor" : "Scheme color",
+				"ui_slideshow" : "<h4>Background Slideshow</h4><small>The slideshow incompatible with the screen center positioning method.</small>",
+				"ui_slideshowFolder" : "Image Folder",
+				"ui_slideshowInterval" : "Image Interval",
+				"ui_slideshowIntervalMultiplier" : "Image Interval Units",
+				"ui_slideshowIntervalMultiplier_opt_i_1" : "seconds",
+				"ui_slideshowIntervalMultiplier_opt_i_3600" : "hour",
+				"ui_slideshowIntervalMultiplier_opt_i_60" : "minutes",
+				"ui_slideshowShowTransitions" : "Choose Transitions",
+				"ui_slideshowTransFade" : "Fade",
+				"ui_slideshowTransMoveBottom" : "Move From Bottom",
+				"ui_slideshowTransMoveLeft" : "Move From Left",
+				"ui_slideshowTransMoveRight" : "Move From Right",
+				"ui_slideshowTransMoveTop" : "Move From Top",
+				"ui_slideshowTransShuffleBottom" : "Shuffle From Bottom",
+				"ui_slideshowTransShuffleLeft" : "Shuffle From Left",
+				"ui_slideshowTransShuffleRight" : "Shuffle From Right",
+				"ui_slideshowTransShuffleTop" : "Shuffle From Top",
+				"ui_slideshowTransZoomHorzIn" : "Zoom Horz In",
+				"ui_slideshowTransZoomHorzOut" : "Zoom Horz Out",
+				"ui_slideshowTransZoomIn" : "Zoom In",
+				"ui_slideshowTransZoomOut" : "Zoom Out",
+				"ui_slideshowTransZoomVertIn" : "Zoom Vert In",
+				"ui_slideshowTransZoomVertOut" : "Zoom Vert Out",
+				"ui_slideshowTrans_" : "<h4><small>If you toggle an animation on, it will be used for the next transition.</small></h4>",
+				"ui_slideshowTransitionDuration" : "Transition Duration",
+				"ui_slideshowUseTransitions" : "Use Transitions<br><small>Will increase cpu/gpu usage a little for the duration of each transition.</small>",
+				"ui_smoothingFactor" : "Smoothing Factor",
+				"ui_smoothingFactor_opt_i_0" : "No Smoothing",
+				"ui_smoothingFactor_opt_i_1" : "Low",
+				"ui_smoothingFactor_opt_i_2" : "Med",
+				"ui_smoothingFactor_opt_i_3" : "High",
+				"ui_tr2_bl_x" : "Bottom Left X (px)",
+				"ui_tr2_bl_y" : "Bottom Left Y (px)",
+				"ui_tr2_br_x" : "Bottom Right X (px)",
+				"ui_tr2_br_y" : "Bottom Right Y  (px)",
+				"ui_tr2_tl_x" : "Top Left X (px)",
+				"ui_tr2_tl_y" : "Top Left Y (px)",
+				"ui_tr2_tr_x" : "Top Right X (px)",
+				"ui_tr2_tr_y" : "Top Right Y (px)",
+				"ui_tr_bl_x" : "Bottom Left X (&#x2030;)",
+				"ui_tr_bl_y" : "Bottom Left Y (&#x2030;)",
+				"ui_tr_br_x" : "Bottom Right X (&#x2030;)",
+				"ui_tr_br_y" : "Bottom Right Y  (&#x2030;)",
+				"ui_tr_showPositionIndicator" : "Flash area when adjusting position",
+				"ui_tr_switch" : "Positioning System",
+				"ui_tr_switch_opt_i_0" : "Edge Offset",
+				"ui_tr_switch_opt_i_1" : "Screen Center",
+				"ui_tr_switch_opt_i_2" : "Margins",
+				"ui_tr_tl_0" : "<h3>Positioning</h3><small>You can reposition the vu meter using one of these positioning options.<br>Options:<ul><li>Margin: use to adjust size so it does not hide behind the taskbar</li><li>Edge Offset: Positioning based off the corners of your screen.</li><li>Screen Center: Positioning from the center of your screen.</li></ul></small>",
+				"ui_tr_tl_01" : "<small>I suggest using the 'screen center' option as it has more accuracy and those settings copy better to a different computer with a different screensize. I was not able to set that as a default or the wallpaper would look weird when starting it up for the first time. That is because I can't set the values to match your screensize in advance.</small>",
+				"ui_tr_tl_1" : "<h4>Edge Offset</h4><small>These are used when 'Position System' is set to 'Edge Offset'. These values are based on the corners and their values are promille ( &#x2030;, Like percentages but 1&#x2030; equals 1/1000 where 1% equals 1/100 ) of screen width or screen height.<br><br><b>Use arrow keys for finetuning the value</b></small>",
+				"ui_tr_tl_2" : "<h4>Screen Center</h4><small>These are used when 'Position System' is set to 'Screen Center'. Coordinate 0,0 is the center of the wallpaper. This allows better results when copying settings to a different computer.<br><br> If an background image is set then the value will scale to match the pixel coordinates of the image.<br><br><b>Use arrow keys for finetuning the value</b></small>",
+				"ui_tr_tl_x" : "Top Left X (&#x2030;)",
+				"ui_tr_tl_y" : "Top Left Y (&#x2030;)",
+				"ui_tr_tr_x" : "Top Right X (&#x2030;)",
+				"ui_tr_tr_y" : "Top Right Y (&#x2030;)",
+				"ui_translation_contributors" : ""
+			},
+			"es-es" : 
+			{
+				"ui_adjustAmplitude" : "Ajustar Amplitud (%)",
+				"ui_background_Label" : "<h3>Fondo</h3>",
+				"ui_blending" : "Modo de Mezclado",
+				"ui_blending_opt_s_color" : "Color",
+				"ui_blending_opt_s_color_burn" : "Quemar Color",
+				"ui_blending_opt_s_color_dodge" : "Sobreexponer Color",
+				"ui_blending_opt_s_darken" : "Oscurecer",
+				"ui_blending_opt_s_difference" : "Diferiencia",
+				"ui_blending_opt_s_exclusion" : "Exclusión",
+				"ui_blending_opt_s_hard_light" : "Luz Dura",
+				"ui_blending_opt_s_hue" : "Tono",
+				"ui_blending_opt_s_lighten" : "Aclarar",
+				"ui_blending_opt_s_luminosity" : "Luminosidad",
+				"ui_blending_opt_s_multiply" : "Multiplicar",
+				"ui_blending_opt_s_normal" : "normal",
+				"ui_blending_opt_s_overlay" : "Superponer",
+				"ui_blending_opt_s_saturation" : "Saturación",
+				"ui_blending_opt_s_screen" : "Pantalla",
+				"ui_blending_opt_s_soft_light" : "Luz Tenue",
+				"ui_blur" : "Difuminación",
+				"ui_blurLabel" : "<h3>Otro</h3>",
+				"ui_colorRotation" : "<h4>Rotacion de color</h4><small>La Rotacion de color puede utilizar mucha CPU. Cada vez que el color se actualice, el uso de CPU se elevará. Puedes reducir los tiempos de actualización de color aumentando el valor del salto de rotación. Cuanto más lenta sea la rotación, menor podrá ser el salto creando una transición más suave.</small>",
+				"ui_colorRotationSkip" : "Salto de Rotación (deg)",
+				"ui_colorRotationSpeed" : "Velocidad de Rotación (&#x2030;)",
+				"ui_colorRotationUse" : "Utilizar Rotación de color",
+				"ui_disableNormalizing" : "Deshabilitar Normalización",
+				"ui_hideWhenSilent" : "Cuando no haya sonido",
+				"ui_hideWhenSilentThreshold" : "Umbral de silencio",
+				"ui_hideWhenSilent_opt_b_false" : "No Hacer Nada",
+				"ui_hideWhenSilent_opt_b_true" : "Ocultar Todo",
+				"ui_hideWhenSilent_opt_i_1" : "Animar",
+				"ui_led0_b0_backgroundColor" : "Color de Fondo 1",
+				"ui_led0_b0_backgroundColor_" : "<h4>Colores de fondo</h4>",
+				"ui_led0_b0_backgroundImage" : "Imagen de Fondo",
+				"ui_led0_b0_backgroundImage_" : "<h4>Imagen de fondo</h4>",
+				"ui_led0_b0_backgroundSize" : "Tamaño del Fondo",
+				"ui_led0_b0_backgroundSize_opt_s_contain" : "Ajustar a la pantalla",
+				"ui_led0_b0_backgroundSize_opt_s_cover" : "Cubrir Pantalla",
+				"ui_led0_b0_backgroundSource" : "Directorio del fondo",
+				"ui_led0_b0_backgroundSource_opt_s_" : "[Selecciona uno]",
+				"ui_led0_b0_backgroundSource_opt_s_image" : "Imagen Simple",
+				"ui_led0_b0_backgroundSource_opt_s_none" : "Solo Colores",
+				"ui_led0_b0_backgroundSource_opt_s_slideshow" : "Presentación",
+				"ui_led0_b0_backgroundSource_opt_s_video" : "Video Simple",
+				"ui_led0_b0_backgroundV" : "<h4>Video de Fondo<br><small>- Debe ser Formato .ogv o .webm.<br>- El uso del CPU de incrementará dependiendo de la calidad del video. </small></h4>",
+				"ui_led0_b0_backgroundVideo" : "Video de Fondo",
+				"ui_led0_b0_backgroundVideoVolume" : "Volumen del Video de Fondo",
+				"ui_led0_b1_backgroundColor" : "Color de Fondo 2",
+				"ui_led0_b2_backgroundColor" : "Color de Fondo 3",
+				"ui_led0_b3_backgroundColorCount" : "Usar # Colores de Fondo",
+				"ui_led0_b4_backgroundHorizontal" : "Fondo Degradado Horizontal",
+				"ui_led0_b4_backgroundHorizontal_opt_s_linear_left" : "Horizontal",
+				"ui_led0_b4_backgroundHorizontal_opt_s_linear_top" : "Vertical",
+				"ui_led0_b4_backgroundHorizontal_opt_s_radial_center_center_circle_cover" : "Círculo",
+				"ui_led0_b4_backgroundHorizontal_opt_s_radial_center_center_ellipse_cover" : "Elipse",
+				"ui_led1_startColor" : "Color Inicial del Degradado",
+				"ui_led1_startColor_Label" : "<h3>Configuraciones de Led</h3>",
+				"ui_led2_endColor" : "Color Final del Degradado",
+				"ui_led3_ledOpacity" : "Opacidad",
+				"ui_led3_startColor" : "Color Inicial 2 del degradado",
+				"ui_led4_endColor" : "Color Final 2 del Degradado",
+				"ui_led4_peakOpacity" : "Opacidad Máxima",
+				"ui_led5_dropRate" : "Índice de caída del indicador máximo",
+				"ui_led6_orientation" : "Orientación",
+				"ui_led6_orientation_opt_i_1" : "Parte Inferior",
+				"ui_led6_orientation_opt_i_2" : "Parte Superior",
+				"ui_led6_orientation_opt_i_3" : "Izquierda/Derecha",
+				"ui_led6_orientation_opt_i_4" : "Centro Vertical",
+				"ui_led6_orientation_opt_i_5" : "Centro Horizontal",
+				"ui_led6_orientation_opt_i_6" : "Superior/Inferior",
+				"ui_led6_orientation_opt_i_7" : "Izquierda",
+				"ui_led6_orientation_opt_i_8" : "Derecha",
+				"ui_led7_ledStroke" : "Estilo de Renderizado",
+				"ui_led7_ledStroke_opt_i_0" : "Solido",
+				"ui_led7_ledStroke_opt_i_1" : "Contorno",
+				"ui_led7_ledType" : "Tipo <br><small>( Cualquiera excepto los rectángulos pueden incrementar el uso de cpu drasticamente )</small>",
+				"ui_led7_ledType_opt_i_1" : "Rectángulo",
+				"ui_led7_ledType_opt_i_2" : "Elipse",
+				"ui_led7_ledType_opt_i_3" : "Hexágono",
+				"ui_led7_ledType_opt_i_4" : "Trapezoide",
+				"ui_led7_ledType_opt_i_5" : "Trapecio Inverso",
+				"ui_led7_ledbarCount" : "Barras<br><small>por canal de audio</small>",
+				"ui_led7_ledbarCount_opt_i_1" : "8",
+				"ui_led7_ledbarCount_opt_i_2" : "16",
+				"ui_led7_ledbarCount_opt_i_3" : "32",
+				"ui_led7_ledbarCount_opt_i_4" : "64",
+				"ui_led7_ledsizeRatio" : "Rango de Tamaño",
+				"ui_led_use4Colors" : "4 Color Degradado<br><small>Si es deshabilitado, solo los 2 primeros colores serán utilizados</small>",
+				"ui_marginBottom" : "Margen Inferior",
+				"ui_marginLeft" : "Margen Izquierdo",
+				"ui_marginRight" : "Margen Derecho",
+				"ui_marginTop" : "Margen Superior",
+				"ui_margins" : "<h3>Márgenes</h3><small>Esto está destinado a ser utilizado para ajustar el área para que no caiga detrás de la barra de herramientas. Para otros propósitos usa el Sistema de Posicionamiento y deja esto en 0.</small>",
+				"ui_reverseAudioData" : "Frecuencias Inversas",
+				"ui_schemecolor" : "Esquema de Color",
+				"ui_slideshow" : "<h4>Presentación de Fondo</h4><small>La presentación es incompatible con el método de posición centrada.</small>",
+				"ui_slideshowFolder" : "Carpeta de Imágenes",
+				"ui_slideshowInterval" : "Intervalo de Imagen",
+				"ui_slideshowIntervalMultiplier" : "Unidades de Intervalo de Imagen",
+				"ui_slideshowIntervalMultiplier_opt_i_1" : "Segundos",
+				"ui_slideshowIntervalMultiplier_opt_i_3600" : "Hora",
+				"ui_slideshowIntervalMultiplier_opt_i_60" : "Minutos",
+				"ui_slideshowShowTransitions" : "Elegir Transiciones",
+				"ui_slideshowTransFade" : "Atenuación",
+				"ui_slideshowTransMoveBottom" : "Mover Desde Abajo",
+				"ui_slideshowTransMoveLeft" : "Mover Desde la Izquierda",
+				"ui_slideshowTransMoveRight" : "Mover Desde la Derecha",
+				"ui_slideshowTransMoveTop" : "Mover Desde Arriba",
+				"ui_slideshowTransShuffleBottom" : "Aleatorio Desde Abajo",
+				"ui_slideshowTransShuffleLeft" : "Aleatorio Desde la Izquierda",
+				"ui_slideshowTransShuffleRight" : "Aleatorio Desde la Derecha",
+				"ui_slideshowTransShuffleTop" : "Aleatorio Desde Arriba",
+				"ui_slideshowTransZoomHorzIn" : "Acercar Horizontalmente",
+				"ui_slideshowTransZoomHorzOut" : "Alejar Horizontalmente",
+				"ui_slideshowTransZoomIn" : "Acercar",
+				"ui_slideshowTransZoomOut" : "Alejar",
+				"ui_slideshowTransZoomVertIn" : "Acercar Verticalmente",
+				"ui_slideshowTransZoomVertOut" : "Alejar Verticalmente",
+				"ui_slideshowTrans_" : "<h4><small>Si activas una animación, será usada para la siguiente transisión.</small></h4>",
+				"ui_slideshowTransitionDuration" : "Duración de la Transición",
+				"ui_slideshowUseTransitions" : "Utilizar Transiciones<br><small>Incrementarán el uso de cpu/gpu un poco por la duración de cada transición.</small>",
+				"ui_smoothingFactor" : "Factor de Suavizado",
+				"ui_smoothingFactor_opt_i_0" : "Sin Suavizado",
+				"ui_smoothingFactor_opt_i_1" : "Bajo",
+				"ui_smoothingFactor_opt_i_2" : "Medio",
+				"ui_smoothingFactor_opt_i_3" : "Alto",
+				"ui_tr2_bl_x" : "Inferior Izquierdo X (px)",
+				"ui_tr2_bl_y" : "Inferior Izquierdo Y (px)",
+				"ui_tr2_br_x" : "Inferior Derecho X(px)",
+				"ui_tr2_br_y" : "Inferior Derecho Y (px)",
+				"ui_tr2_tl_x" : "Superior Izquierdo X (px)",
+				"ui_tr2_tl_y" : "Superior Izquierdo Y (px)",
+				"ui_tr2_tr_x" : "Superior Derecho X (px)",
+				"ui_tr2_tr_y" : "Superior Derecho Y (px)",
+				"ui_tr_bl_x" : "Inferior Izquierdo X (&#x2030;)",
+				"ui_tr_bl_y" : "Inferior Izquierdo Y (&#x2030;)",
+				"ui_tr_br_x" : "Inferior Derecha X (&#x2030;)",
+				"ui_tr_br_y" : "Inferior Derecho Y (&#x2030;)",
+				"ui_tr_showPositionIndicator" : "Destellar área cuando se ajuste la posición",
+				"ui_tr_switch" : "Sistema de posicionamiento",
+				"ui_tr_switch_opt_i_0" : "Desplazamiento del Borde",
+				"ui_tr_switch_opt_i_1" : "Centro de la pantalla",
+				"ui_tr_switch_opt_i_2" : "Márgenes",
+				"ui_tr_tl_0" : "<h3>Posicionamiento</h3><small>Puedes reposicionar el Vumetro usando una de estas opciones de posicionamiento.<br>Opciones:<ul><li>Margen: utilízalo para ajustar el tamaño, así no se ocultará detrás de la barra de tareas</li><li>Desplazamiento del borde: Posicionamiento basado en las esquinas de tu pantalla.</li><li>Centro de la pantalla: Posicionamineto desde el centro de tu pantalla.</li></ul></small>",
+				"ui_tr_tl_01" : "<small>Sugiero utilizar la opción 'Centro de la pantalla' ya que tiene mayor precisión y esas configuraciones se copian mejor a una computadora diferente con un tamaño de pantalla diferente. No puedo establecer ese por defecto o el fondo se vería raro cuando lo iniciaras por primera vez. Eso es porque no puedo establecer de antemano los valores que coinciden con el tamaño de tu pantalla.</small>",
+				"ui_tr_tl_1" : "<h4>Desplazamiento del borde</h4><small>Estos se utilizan cuando 'Sistema de posicionamiento' está ajustado como 'Desplazamiento del borde'. Estos valores están basados en las esquinas sus sus valores son por mil ( &#x2030;, Como porcentaje, pero 1&#x2030; es igual 1/1000 donde 1% equivale a 1/100 ) del ancho o alto de la pantalla.<br><br><b>Usa las teclas de flecha para ajustar el valor</b></small>",
+				"ui_tr_tl_2" : "<h4>Centro de la Pantalla</h4><small>Estos se utilizan cuando 'Sistema de posicionamiento' está ajustado como 'Centro de la pantalla'. La coordenada 0,0 es el centro del wallpaper. Esto permite mejores resultados cuando se copian las configuraciones a una computadora diferente.<br><br> Si una Imagen de fondo está establecida entonces el valor se escalará para concordar con las cordenadas de pixel de la imagen.<br><br><b>Usa las teclas de valor para ajustar el valor</b></small>",
+				"ui_tr_tl_x" : "Superior Izquierda X (&#x2030;)",
+				"ui_tr_tl_y" : "Superior Izquierda Y (&#x2030;)",
+				"ui_tr_tr_x" : "Superior Derecha X (&#x2030;)",
+				"ui_tr_tr_y" : "Superior Derecha Y (&#x2030;)",
+				"ui_translation_contributors" : "<h4>Translation Contributors</h4> Translations were made possible, among others, by: Eofloyd, Lemon"
+			},
+			"et-ee" : 
+			{
+				"ui_translation_contributors" : ""
+			},
+			"eu-es" : 
+			{
+				"ui_translation_contributors" : ""
+			},
+			"fa-ir" : 
+			{
+				"ui_translation_contributors" : ""
+			},
+			"fi-fi" : 
+			{
+				"ui_led7_ledbarCount_opt_i_1" : "8",
+				"ui_led7_ledbarCount_opt_i_2" : "16",
+				"ui_led7_ledbarCount_opt_i_3" : "32",
+				"ui_led7_ledbarCount_opt_i_4" : "64",
+				"ui_translation_contributors" : ""
+			},
+			"fr-fr" : 
+			{
+				"ui_adjustAmplitude" : "Ajuster l'amplitude (%)",
+				"ui_background_Label" : "<h3>Fond</h3>",
+				"ui_blending" : "Mode Mixeur",
+				"ui_blending_opt_s_color" : "couleur",
+				"ui_blending_opt_s_color_burn" : "Couleur brûler",
+				"ui_blending_opt_s_color_dodge" : "Couleur du dodge",
+				"ui_blending_opt_s_darken" : "Assombrire",
+				"ui_blending_opt_s_difference" : "différence",
+				"ui_blending_opt_s_exclusion" : "exclusion",
+				"ui_blending_opt_s_hue" : "teinte",
+				"ui_blending_opt_s_lighten" : "alléger",
+				"ui_blending_opt_s_luminosity" : "luminausité",
+				"ui_blending_opt_s_multiply" : "multiplier",
+				"ui_blending_opt_s_normal" : "normal",
+				"ui_blending_opt_s_overlay" : "superposition",
+				"ui_blending_opt_s_saturation" : "saturation",
+				"ui_blending_opt_s_screen" : "écran",
+				"ui_blending_opt_s_soft_light" : "lumière douce",
+				"ui_blur" : "Flou",
+				"ui_blurLabel" : "<h3>Autre</h3>",
+				"ui_colorRotation" : "<h4>Changement de couleur</h4><small>Le changement de couleur peut être très demandant en ressources. Chaque fois que la couleur change, le CPU va être très utilisé. Vous pouvez diminuer le nombre de changements en augmentant la valeur du nombre de rotations sautées. Plus la rotation sera lente, plus le saut sera lent et créera un transition harmonieuse. Les rotations de couleurs peuvent utiliser fortement le CPU.</small>",
+				"ui_colorRotationSkip" : "Saut de rotation ( deg )",
+				"ui_colorRotationSpeed" : "Vitesse de rotation (&#x2030;)",
+				"ui_colorRotationUse" : "Utilier le saut de rotation",
+				"ui_disableNormalizing" : "Désactiver la normalisation",
+				"ui_hideWhenSilent" : "En absence de son",
+				"ui_hideWhenSilentThreshold" : "Seuil du silence",
+				"ui_hideWhenSilent_opt_b_false" : "Ne rien faire",
+				"ui_hideWhenSilent_opt_b_true" : "Tout cacher",
+				"ui_hideWhenSilent_opt_i_1" : "Animer",
+				"ui_led0_b0_backgroundColor" : "Couleur de fond 1",
+				"ui_led0_b0_backgroundColor_" : "<h4>Couleur de fond</h4>",
+				"ui_led0_b0_backgroundImage" : "Image de fond",
+				"ui_led0_b0_backgroundImage_" : "<h4>Image de fond</h4>",
+				"ui_led0_b0_backgroundSize" : "Taille de l'arrière-plan",
+				"ui_led0_b0_backgroundSize_opt_s_contain" : "Ajuster à l‘écran",
+				"ui_led0_b0_backgroundSize_opt_s_cover" : "Couvrir l‘écran",
+				"ui_led0_b0_backgroundSource" : "Source de l‘arrière-plan",
+				"ui_led0_b0_backgroundSource_opt_s_" : "[Sélectionner un]",
+				"ui_led0_b0_backgroundSource_opt_s_image" : "Image seule",
+				"ui_led0_b0_backgroundSource_opt_s_none" : "Juste les couleurs",
+				"ui_led0_b0_backgroundSource_opt_s_slideshow" : "Diaporama",
+				"ui_led0_b0_backgroundSource_opt_s_video" : "Vidéo Unique",
+				"ui_led0_b0_backgroundV" : "<h4>Vidéo d'arrière plan<br><small>- Doit être format .webm ou .ogv.<br>- L'utilisation du CPU dépend de la qualité de la vidéo. </small></h4>",
+				"ui_led0_b0_backgroundVideo" : "Arrière-plan Vidéo",
+				"ui_led0_b0_backgroundVideoVolume" : "Volume de l'arrière-plan vidéo",
+				"ui_led0_b1_backgroundColor" : "Couleur d'arrière-plan n°2",
+				"ui_led0_b2_backgroundColor" : "Couleur de fond 3",
+				"ui_led0_b3_backgroundColorCount" : "Utiliser # couleurs de fond",
+				"ui_led0_b4_backgroundHorizontal" : "Dégradé horizontal de fond",
+				"ui_led0_b4_backgroundHorizontal_opt_s_linear_left" : "horizontal",
+				"ui_led0_b4_backgroundHorizontal_opt_s_linear_top" : "vertical",
+				"ui_led0_b4_backgroundHorizontal_opt_s_radial_center_center_circle_cover" : "cercle",
+				"ui_led0_b4_backgroundHorizontal_opt_s_radial_center_center_ellipse_cover" : "éllipse",
+				"ui_led1_startColor" : "Couleur de commencement du dégradé",
+				"ui_led1_startColor_Label" : "<h3>Paramètres des leds</h3>",
+				"ui_led2_endColor" : "Couleur de fin du dégradé",
+				"ui_led3_ledOpacity" : "Opacité",
+				"ui_led3_startColor" : "Couleur de début du dégradé 2",
+				"ui_led4_endColor" : "Couleur de fin du dégradé 2",
+				"ui_led4_peakOpacity" : "Opacité du maximum",
+				"ui_led5_dropRate" : "Indicateur en cas de pique du pourcentage de perte",
+				"ui_led6_orientation" : "Orientation",
+				"ui_led6_orientation_opt_i_1" : "Bas",
+				"ui_led6_orientation_opt_i_2" : "Haut",
+				"ui_led6_orientation_opt_i_3" : "Gauche/Droite",
+				"ui_led6_orientation_opt_i_4" : "Milieu vertical",
+				"ui_led6_orientation_opt_i_5" : "Milieu horizontal",
+				"ui_led6_orientation_opt_i_6" : "Haut/Bas",
+				"ui_led6_orientation_opt_i_7" : "Gauche",
+				"ui_led6_orientation_opt_i_8" : "Droite",
+				"ui_led7_ledStroke" : "Type de rendu",
+				"ui_led7_ledStroke_opt_i_0" : "Solid",
+				"ui_led7_ledStroke_opt_i_1" : "Contour",
+				"ui_led7_ledType" : "Type <br><small> Tout sauf Rectangles augmentera fortement l'utilisation du CPU </small>",
+				"ui_led7_ledType_opt_i_1" : "Rectangle",
+				"ui_led7_ledType_opt_i_2" : "Éllipse",
+				"ui_led7_ledType_opt_i_3" : "Héxagone",
+				"ui_led7_ledType_opt_i_4" : "Trapèze",
+				"ui_led7_ledType_opt_i_5" : "Trapèze renversé",
+				"ui_led7_ledbarCount" : "Barres<br><small>par canal audio</small>",
+				"ui_led7_ledbarCount_opt_i_1" : "8",
+				"ui_led7_ledbarCount_opt_i_2" : "16",
+				"ui_led7_ledbarCount_opt_i_3" : "32",
+				"ui_led7_ledbarCount_opt_i_4" : "64",
+				"ui_led7_ledsizeRatio" : "Ratio de taille",
+				"ui_led_use4Colors" : "Dégradé de 4 couleurs<br><small>Désactivez pour n'utiliser que 2 couleurs</small>",
+				"ui_marginBottom" : "Marge du bas",
+				"ui_marginLeft" : "Marge de gauche",
+				"ui_marginRight" : "Marge de droite",
+				"ui_marginTop" : "Marge en Haut",
+				"ui_margins" : "<h3>Marges</h3><small>Les marges servent à ajuster les limites du papier-peint pour qu'il ne soit pas caché par la barre des tâches. Pour toute autres utilisations utilisez un autre système de position et laissez les valeurs à 0.</small>",
+				"ui_reverseAudioData" : "Inverser les fréquences",
+				"ui_schemecolor" : "Schéma de couleur",
+				"ui_slideshow" : "<h4>Panorama en fond</h4><small>Le mode diaporama est incompatible avec la méthode de positionnement centrale de l’écran.</small>",
+				"ui_slideshowFolder" : "Dossier des images",
+				"ui_slideshowInterval" : "Intervale entre les images",
+				"ui_slideshowIntervalMultiplier" : "Unité d‘intervale entre les images",
+				"ui_slideshowIntervalMultiplier_opt_i_1" : "secondes",
+				"ui_slideshowIntervalMultiplier_opt_i_3600" : "heures",
+				"ui_slideshowIntervalMultiplier_opt_i_60" : "minutes",
+				"ui_slideshowShowTransitions" : "Choisir la transition",
+				"ui_slideshowTransFade" : "Fondu",
+				"ui_slideshowTransMoveBottom" : "Bouger depuis le bas",
+				"ui_slideshowTransMoveLeft" : "Déplacer depuis la gauche",
+				"ui_slideshowTransMoveRight" : "Bouger depuis la droite",
+				"ui_slideshowTransMoveTop" : "Bouger depuis le haut",
+				"ui_slideshowTransShuffleBottom" : "Modifier depuis le bas",
+				"ui_slideshowTransShuffleLeft" : "Mélanger depuis la gauche",
+				"ui_slideshowTransShuffleRight" : "Mélanger depuis la droite",
+				"ui_slideshowTransShuffleTop" : "Modifier depuis le haut",
+				"ui_slideshowTransZoomHorzIn" : "Zoom Horz",
+				"ui_slideshowTransZoomHorzOut" : "Dézoomer Horz",
+				"ui_slideshowTransZoomIn" : "Zoomer",
+				"ui_slideshowTransZoomOut" : "Dézoomer",
+				"ui_slideshowTransZoomVertIn" : "Zoom Vert",
+				"ui_slideshowTransZoomVertOut" : "Dézoomer Vert",
+				"ui_slideshowTrans_" : "<h4><small>Si vous activez une animation, elle sera utilisée pour la prochaine transition.</small></h4>",
+				"ui_slideshowTransitionDuration" : "Durée de transition",
+				"ui_slideshowUseTransitions" : "Utiliser des transitions<br><small>Augmentera légèrement l'utilisation du CPU/GPU à chaque transition.</small>",
+				"ui_smoothingFactor" : "Facteur de lissage",
+				"ui_smoothingFactor_opt_i_0" : "Pas de lissage",
+				"ui_smoothingFactor_opt_i_1" : "Faible",
+				"ui_smoothingFactor_opt_i_2" : "Moyen",
+				"ui_smoothingFactor_opt_i_3" : "Fort",
+				"ui_tr2_bl_x" : "Bas gauche X (px)",
+				"ui_tr2_bl_y" : "Bas gauche Y (px)",
+				"ui_tr2_br_x" : "Bas droit X (px)",
+				"ui_tr2_br_y" : "Bas droit Y (px)",
+				"ui_tr2_tl_x" : "Haut gauche X (px)",
+				"ui_tr2_tl_y" : "Haut gauche Y (px)",
+				"ui_tr2_tr_x" : "Haut droit X (px)",
+				"ui_tr2_tr_y" : "Haut droit Y (px)",
+				"ui_tr_bl_x" : "Bas gauche X (&#x2030;)",
+				"ui_tr_bl_y" : "Bas gauche Y (&#x2030;)",
+				"ui_tr_br_x" : "Bas droit X (&#x2030;)",
+				"ui_tr_br_y" : "Bas droit Y  (&#x2030;)",
+				"ui_tr_showPositionIndicator" : "Zone de flash lors du réglage de la position",
+				"ui_tr_switch" : "Système de positionnement",
+				"ui_tr_switch_opt_i_0" : "Décalage du bord",
+				"ui_tr_switch_opt_i_1" : "Centre de l‘écran",
+				"ui_tr_switch_opt_i_2" : "Marges",
+				"ui_tr_tl_0" : "<h3>Positionnement</h3><small>Vous pouvez repositionner le vu meter en utilisant une de ces options de positionnement. <br>Options:<ul><li>Marge: à utiliser pour ajuster la taille pour que ça ne cache pas la barre des taches</li><li>Compensation du bord: Positionnement basé sur les coins de l’écran.</li><li>Centre de l’écran: Positionnement à partir du centre de l’écran.</li></ul></small>",
+				"ui_tr_tl_1" : "<h4>Décalage du bord</h4><small>Utilisé quand le système de position est défini sur \"Décalage du bord\". Ces valeurs sont basés sur les coins et leurs valeurs sont en pour mille ( &#x2030;, Comme des pourcentages mais 1&#x2030; égale 1/1000 où 1% égale 1/100 ) pour la hauteur et la largeur de l‘écran.<br><br><b>Utilisez les flèches pour ajuster les valeurs plus précisément</b></small>",
+				"ui_tr_tl_2" : "<h4>Centre de l'écran</h4><small>Utilisé quand le système de position est défini à \"Centre de l'écran\". Les coordonnées 0,0 correspondent au centre du papier peint. Cela donne de meilleurs résultats lors de la copie des paramètres vers un ordinateur différent.<br> <br> Si une image de fond est défini, les valeurs s'ajusteront aux coordonnées en pixel de l'image.<br> <br> <b>Utilisez les flèches du clavier pour ajuster les valeurs plus précisément</b> </small>",
+				"ui_tr_tl_x" : "Haut gauche X (&#x2030;)",
+				"ui_tr_tl_y" : "Haut gauche Y (&#x2030;)",
+				"ui_tr_tr_x" : "Haut droit X (&#x2030;)",
+				"ui_tr_tr_y" : "Haut droit Y (&#x2030;)",
+				"ui_translation_contributors" : "<h4>Contributeurs aux traductions</h4> Les traductions ont été possibles grâce à: BIG BROTHER, Ectalite, LightD31 [FR], Voltali92"
+			},
+			"he-il" : 
+			{
+				"ui_translation_contributors" : ""
+			},
+			"hr-hr" : 
+			{
+				"ui_translation_contributors" : ""
+			},
+			"hu-hu" : 
+			{
+				"ui_led7_ledbarCount_opt_i_1" : "8",
+				"ui_led7_ledbarCount_opt_i_2" : "16",
+				"ui_led7_ledbarCount_opt_i_3" : "32",
+				"ui_led7_ledbarCount_opt_i_4" : "64",
+				"ui_translation_contributors" : ""
+			},
+			"id-id" : 
+			{
+				"ui_translation_contributors" : ""
+			},
+			"it-it" : 
+			{
+				"ui_adjustAmplitude" : "Regola Ampiezza (%)",
+				"ui_blending" : "Modalità di fusione",
+				"ui_blending_opt_s_hard_light" : "luce-dura",
+				"ui_blending_opt_s_hue" : "colore",
+				"ui_blending_opt_s_normal" : "normale",
+				"ui_blending_opt_s_overlay" : "sovrapposizione",
+				"ui_blending_opt_s_screen" : "schermo",
+				"ui_hideWhenSilent_opt_b_true" : "Nascondi Tutto",
+				"ui_led0_b0_backgroundColor" : "Colore Sfondo 1",
+				"ui_led0_b0_backgroundColor_" : "<h4>Colori Sfondo</h4>",
+				"ui_led0_b0_backgroundSize_opt_s_contain" : "Adatta allo Schermo",
+				"ui_led0_b0_backgroundSize_opt_s_cover" : "Copri Sfondo",
+				"ui_led0_b0_backgroundSource_opt_s_none" : "Solo Colori",
+				"ui_led0_b0_backgroundV" : "<h4>Video di sfondo<br><small>- Dev'essere in formato webm oppure ogv.<br>- L'utilizzo della CPU aumenterà in base alla qualità del video.</small></ h4>",
+				"ui_led0_b0_backgroundVideo" : "Video Sfondo",
+				"ui_led0_b4_backgroundHorizontal" : "Sfumatura di sfondo orizzontale",
+				"ui_led0_b4_backgroundHorizontal_opt_s_radial_center_center_circle_cover" : "cerchio",
+				"ui_led4_peakOpacity" : "Opacità massima",
+				"ui_led6_orientation_opt_i_1" : "In basso",
+				"ui_led6_orientation_opt_i_4" : "In mezzo verticalmente",
+				"ui_led7_ledbarCount_opt_i_1" : "8",
+				"ui_led7_ledbarCount_opt_i_2" : "16",
+				"ui_led7_ledbarCount_opt_i_3" : "32",
+				"ui_led7_ledbarCount_opt_i_4" : "64",
+				"ui_led_use4Colors" : "Sfumatura a 4 colori<br><small>Se disabilitata solo i primi due colori verranno usati</small>",
+				"ui_marginBottom" : "Margine in basso",
+				"ui_marginLeft" : "Margine sinistro",
+				"ui_marginTop" : "Margine in alto",
+				"ui_schemecolor" : "Colore schema",
+				"ui_slideshowTransFade" : "Dissolvenza",
+				"ui_slideshowTransShuffleBottom" : "Mischia dal basso",
+				"ui_slideshowTransZoomIn" : "Ingrandisci",
+				"ui_slideshowTransZoomVertIn" : "Ingrandisci verticalmente",
+				"ui_smoothingFactor_opt_i_1" : "Basso",
+				"ui_smoothingFactor_opt_i_3" : "Alto",
+				"ui_tr2_br_y" : "In basso a destra Y (px)",
+				"ui_tr2_tl_x" : "In alto a sinistra X (px)",
+				"ui_tr2_tr_x" : "In alto a destra X (px)",
+				"ui_tr2_tr_y" : "In alto a destra Y (px)",
+				"ui_tr_br_x" : "In basso a destra X (&#x2030;)",
+				"ui_tr_switch" : "Sistema di posizione",
+				"ui_tr_switch_opt_i_1" : "Centro dello Schermo",
+				"ui_tr_tl_01" : "<small>Suggerisco di usare l'opzione \"Centro Schermo\" in quanto ha una maggiore precisione e quelle impostazioni si adattano meglio a un altro computer con una schermata diversa. Non ero in grado di impostarlo come predefinito o lo sfondo sarebbe sembrato strano quando lo avvii per la prima volta. Questo perché non posso impostare i valori in modo che corrispondano alla tua schermata in anticipo.</small>",
+				"ui_tr_tl_2" : "<h4>Centro schermo</h4><small>Questi sono usati quando \"Sistema di posizione\" è impostato su \"Centro schermo\". Coordinate 0,0 è il centro dello sfondo. Ciò consente risultati migliori quando si copiano le impostazioni su un altro computer.<br><br> Se è impostata un'immagine di sfondo, il valore verrà ridimensionato per corrispondere alle coordinate pixel dell'immagine. <br><br><b>Usa i tasti freccia per ottimizzare il valore</ b></ small>",
+				"ui_tr_tl_x" : "In alto a sinistra X (&#x2030;)",
+				"ui_translation_contributors" : "<h4>Translation Contributors</h4> Translations were made possible, among others, by: >_<"
+			},
+			"ja-jp" : 
+			{
+				"ui_led7_ledbarCount_opt_i_1" : "8",
+				"ui_led7_ledbarCount_opt_i_2" : "16",
+				"ui_led7_ledbarCount_opt_i_3" : "32",
+				"ui_led7_ledbarCount_opt_i_4" : "64",
+				"ui_translation_contributors" : ""
+			},
+			"ko-kr" : 
+			{
+				"ui_led7_ledbarCount_opt_i_1" : "8",
+				"ui_led7_ledbarCount_opt_i_2" : "16",
+				"ui_led7_ledbarCount_opt_i_3" : "32",
+				"ui_led7_ledbarCount_opt_i_4" : "64",
+				"ui_translation_contributors" : ""
+			},
+			"lt-lt" : 
+			{
+				"ui_translation_contributors" : ""
+			},
+			"nl-nl" : 
+			{
+				"ui_adjustAmplitude" : "Amplitude (%)",
+				"ui_background_Label" : "<h3>Achtergrond</h3>",
+				"ui_blending" : "Kleuren mengen",
+				"ui_blending_opt_s_color" : "kleur",
+				"ui_blending_opt_s_color_burn" : "kleur-inbranden",
+				"ui_blending_opt_s_darken" : "verdonkeren",
+				"ui_blending_opt_s_difference" : "verschil",
+				"ui_blending_opt_s_exclusion" : "uitsluiting",
+				"ui_blending_opt_s_hard_light" : "hard-licht",
+				"ui_blending_opt_s_hue" : "tint",
+				"ui_blending_opt_s_lighten" : "verlichten",
+				"ui_blending_opt_s_luminosity" : "helderheid",
+				"ui_blending_opt_s_multiply" : "vermenigvuldigen",
+				"ui_blending_opt_s_normal" : "normaal",
+				"ui_blending_opt_s_overlay" : "overlappen",
+				"ui_blending_opt_s_saturation" : "verzadiging",
+				"ui_blur" : "Vervagen",
+				"ui_blurLabel" : "<h3>Overig</h3>",
+				"ui_colorRotation" : "<h4>Kleur Rotatie</h4><small>Kleur rotatie is erg CPU intensief. Om dit te compenseren kan je updates overslaan obv hoeveel de kleur veranderd is. </small>",
+				"ui_colorRotationSkip" : "Rotatie overslaan (deg)",
+				"ui_colorRotationSpeed" : "Rotatie Snelheid (&#x2030;)",
+				"ui_colorRotationUse" : "Kleuren Roteren",
+				"ui_disableNormalizing" : "Normalisatie uitzetten",
+				"ui_hideWhenSilent" : "Wanneer er geen geluid is",
+				"ui_hideWhenSilentThreshold" : "Stilte Volume",
+				"ui_hideWhenSilent_opt_b_false" : "Niets doen",
+				"ui_hideWhenSilent_opt_b_true" : "Niets Tonen",
+				"ui_hideWhenSilent_opt_i_1" : "Animeren",
+				"ui_led0_b0_backgroundColor" : "Achterground Kleur 1",
+				"ui_led0_b0_backgroundColor_" : "<h4>Achtergrond Kleuren</h4>",
+				"ui_led0_b0_backgroundImage" : "Achtergrond Afbeelding",
+				"ui_led0_b0_backgroundImage_" : "<h4>Achtergrond Afbeelding</h4>",
+				"ui_led0_b0_backgroundSize" : "Achtergrond Afmeting",
+				"ui_led0_b0_backgroundSize_opt_s_contain" : "Pas op Scherm",
+				"ui_led0_b0_backgroundSize_opt_s_cover" : "Scherm dekkend",
+				"ui_led0_b0_backgroundSource" : "Achtergrond Bron",
+				"ui_led0_b0_backgroundSource_opt_s_" : "[Selecteer Optie]",
+				"ui_led0_b0_backgroundSource_opt_s_image" : "Een Foto",
+				"ui_led0_b0_backgroundSource_opt_s_none" : "Alleen Kleuren",
+				"ui_led0_b0_backgroundSource_opt_s_slideshow" : "Diavoorstelling",
+				"ui_led0_b0_backgroundSource_opt_s_video" : "Een Video",
+				"ui_led0_b0_backgroundV" : "<h4>Achtergrond Video<br><small>- Moet webm of ogv formaat hebben.<br>- CPU verbruik verhoogt afhankelijk van video kwaliteit</small></h4>",
+				"ui_led0_b0_backgroundVideo" : "Achtergrond Video",
+				"ui_led0_b0_backgroundVideoVolume" : "Achtergrond Video Volume",
+				"ui_led0_b1_backgroundColor" : "Achterground Kleur 2",
+				"ui_led0_b2_backgroundColor" : "Achterground Kleur 3",
+				"ui_led0_b3_backgroundColorCount" : "Gebruik # Achtergrond Kleuren",
+				"ui_led0_b4_backgroundHorizontal" : "Achtergrond Kleurverloop Horizontaal",
+				"ui_led0_b4_backgroundHorizontal_opt_s_linear_left" : "horizontaal",
+				"ui_led0_b4_backgroundHorizontal_opt_s_linear_top" : "vertikaal",
+				"ui_led0_b4_backgroundHorizontal_opt_s_radial_center_center_circle_cover" : "cirkel",
+				"ui_led0_b4_backgroundHorizontal_opt_s_radial_center_center_ellipse_cover" : "ellips",
+				"ui_led1_startColor" : "Verloop Start Kleur",
+				"ui_led1_startColor_Label" : "<h3>Led Instellingen</h3>",
+				"ui_led2_endColor" : "Verloop Eind kleur",
+				"ui_led3_ledOpacity" : "Ondoorzichtigheid",
+				"ui_led3_startColor" : "Verloop Start Kleur 2",
+				"ui_led4_endColor" : "Verloop Eind Kleur 2",
+				"ui_led4_peakOpacity" : "Piek Ondoorzichtigheid",
+				"ui_led5_dropRate" : "Piek Indicator Val Snelheid",
+				"ui_led6_orientation" : "Orientatie",
+				"ui_led6_orientation_opt_i_1" : "Onderin",
+				"ui_led6_orientation_opt_i_2" : "Bovenin",
+				"ui_led6_orientation_opt_i_3" : "Links/Rechts",
+				"ui_led6_orientation_opt_i_4" : "Midden Vertikaal",
+				"ui_led6_orientation_opt_i_5" : "Midden Horizontaal",
+				"ui_led6_orientation_opt_i_6" : "Bovenin/Onderin",
+				"ui_led6_orientation_opt_i_7" : "Links",
+				"ui_led6_orientation_opt_i_8" : "Rechts",
+				"ui_led7_ledStroke" : "Tekenstijl",
+				"ui_led7_ledStroke_opt_i_0" : "Vullend",
+				"ui_led7_ledStroke_opt_i_1" : "Uitlijnen",
+				"ui_led7_ledType" : "Type <br><small>Alles behalve rechthoek zal CPU verbruik aanzienlijk verhogen.</small>",
+				"ui_led7_ledType_opt_i_1" : "Rechthoek",
+				"ui_led7_ledType_opt_i_2" : "Ellips",
+				"ui_led7_ledType_opt_i_3" : "Zeshoek",
+				"ui_led7_ledType_opt_i_4" : "Trapezium",
+				"ui_led7_ledType_opt_i_5" : "Omgekeerd Trapezium",
+				"ui_led7_ledbarCount" : "Kolomen<br><small>per audio kanaal</small>",
+				"ui_led7_ledbarCount_opt_i_1" : "8",
+				"ui_led7_ledbarCount_opt_i_2" : "16",
+				"ui_led7_ledbarCount_opt_i_3" : "32",
+				"ui_led7_ledbarCount_opt_i_4" : "64",
+				"ui_led7_ledsizeRatio" : "Afmetings Verhouding",
+				"ui_led_use4Colors" : "4 kleuren verloop<br><small>2 Kleuren worden gebruikt als dit uitstaat.</small>",
+				"ui_marginBottom" : "Marge Onderkant",
+				"ui_marginLeft" : "Marge Links",
+				"ui_marginRight" : "Marge Rechts",
+				"ui_marginTop" : "Marge Boven",
+				"ui_margins" : "<h3>Marges</h3><small>Dit is bedoeld om te voorkomen dat de achtergrond achter de taakbalk valt. Wil je om andere redenen de positionering aanpassen gebruik dan een van de andere positioneringssystemen en laat deze waarden op 0.</small>",
+				"ui_reverseAudioData" : "Keer frequenties om",
+				"ui_schemecolor" : "Schema Kleur",
+				"ui_slideshow" : "<h4>Diavoorstelling </h4><small>De diavoorstelling is niet compatibel met de positioneringsmethode obv van het centrum van 't scherm </small>",
+				"ui_slideshowFolder" : "Map met afbeeldingen",
+				"ui_slideshowInterval" : "Afbeelding Interval",
+				"ui_slideshowIntervalMultiplier" : "Afbeelding Interval Eenheid",
+				"ui_slideshowIntervalMultiplier_opt_i_1" : "seconden",
+				"ui_slideshowIntervalMultiplier_opt_i_3600" : "Uren",
+				"ui_slideshowIntervalMultiplier_opt_i_60" : "minuten",
+				"ui_slideshowShowTransitions" : "Selecteer Overgangen",
+				"ui_slideshowTransFade" : "Vervagen",
+				"ui_slideshowTransMoveBottom" : "Schuif Vanaf Onderin",
+				"ui_slideshowTransMoveLeft" : "Schuif vanaf Links",
+				"ui_slideshowTransMoveRight" : "Schuif vanaf Rechts",
+				"ui_slideshowTransMoveTop" : "Schuif vanaf Boven",
+				"ui_slideshowTransShuffleBottom" : "Schud van Onder",
+				"ui_slideshowTransShuffleLeft" : "Schud van Links",
+				"ui_slideshowTransShuffleRight" : "Schud van rechts",
+				"ui_slideshowTransShuffleTop" : "Schud van Boven",
+				"ui_slideshowTransZoomHorzIn" : "Zoom Horz In",
+				"ui_slideshowTransZoomHorzOut" : "Zoom Horz Uit",
+				"ui_slideshowTransZoomIn" : "Inzoomen",
+				"ui_slideshowTransZoomOut" : "Uitzoomen",
+				"ui_slideshowTransZoomVertIn" : "Zoom Vert In",
+				"ui_slideshowTransZoomVertOut" : "Zoom Vert Uit",
+				"ui_slideshowTrans_" : "<h4><small>Als je een animatie aan zet zal deze bij de volgende transitie gebruikt worden.</small></h4>",
+				"ui_slideshowTransitionDuration" : "Overgangsduur",
+				"ui_slideshowUseTransitions" : "Gebruik Transities<br><small>CPU/GPU verbruik zal wat stijgen tijdens een transitie.</small>",
+				"ui_smoothingFactor" : "Afvlakkings Factor",
+				"ui_smoothingFactor_opt_i_0" : "Geen afvlakking",
+				"ui_smoothingFactor_opt_i_1" : "Laag",
+				"ui_smoothingFactor_opt_i_2" : "Mid",
+				"ui_smoothingFactor_opt_i_3" : "Hoog",
+				"ui_tr2_bl_x" : "Linksonder X (px)",
+				"ui_tr2_bl_y" : "Linksonder Y (px)",
+				"ui_tr2_br_x" : "Rechtsonder X (px)",
+				"ui_tr2_br_y" : "Rechtsonder Y (px)",
+				"ui_tr2_tl_x" : "Linksboven X (px)",
+				"ui_tr2_tl_y" : "Linksboven Y (px)",
+				"ui_tr2_tr_x" : "Rechtsboven X (px)",
+				"ui_tr2_tr_y" : "Rechtsboven Y (px)",
+				"ui_tr_bl_x" : "Linksonder X (&#x2030;)",
+				"ui_tr_bl_y" : "Linksonder Y (&#x2030;)",
+				"ui_tr_br_x" : "Rechtsonder X (&#x2030;)",
+				"ui_tr_br_y" : "Rechtsonder Y (&#x2030;)",
+				"ui_tr_showPositionIndicator" : "Knipper tekenvlak wanneer de positie veranderd",
+				"ui_tr_switch" : "Positioneringssysteem",
+				"ui_tr_switch_opt_i_0" : "Afstand van Hoeken",
+				"ui_tr_switch_opt_i_1" : "Midden van scherm",
+				"ui_tr_switch_opt_i_2" : "Marges",
+				"ui_tr_tl_0" : "<h3>Positionering</h3><small>Je kan de vu-meter verschuiven m.b.v. een van de volgende positioneringssystemen.<br>Opties:<ul><li>Marge: om te voorkomen dat  de vu meter achter de taakbalk valt</li><li>Afstand van hoeken:  Posities obv de hoeken van je scherm.</li><li>Midden van scherm: Positionering dat begint in 't midden van 't scherm.</li></ul></small>",
+				"ui_tr_tl_01" : "<small>Ik raad de \"midden van scherm\" optie aan. Door limitaties kon ik deze niet als standaard waarde instellen omdat ik vooraf niet de instelling op je scherm formaat kan afstellen.</small>",
+				"ui_tr_tl_1" : "<h4>Afstand van Hoeken</h4><small>Deze waarden zijn gebaseerd op de afstand van de scherm hoeken. De waarde is in promille ( &#x2030; ) van scherm breedte en hoogte. <br><br><b>Gebruik pijltjes toetsen om de waarden accuraat in te stellen.</b></small>",
+				"ui_tr_tl_2" : "<h4>Midden van Scherm</h4><small>Deze posities worden gebruikt als 'Position System'  op 'Midden van scherm staat'. In dat geval is de coordinaat 0,0 het midden van de achtergrond. Dit resulteer in betere resultaten als je de instellingen kopieer naar een andere computer.<br><br>Als er een achtergrond plaatje gebruikt is zal de coordinaten relatief aan deze plaatjes zijn.<br><br><b>Gebruik de pijltjes toetsen om het precies in te stellen.</b></small>",
+				"ui_tr_tl_x" : "Linksboven X (&#x2030;)",
+				"ui_tr_tl_y" : "Linksboven Y (&#x2030;)",
+				"ui_tr_tr_x" : "Rechtsboven X (&#x2030;)",
+				"ui_tr_tr_y" : "Rechtsboven Y (&#x2030;)",
+				"ui_translation_contributors" : ""
+			},
+			"nn-no" : 
+			{
+				"ui_led7_ledbarCount_opt_i_1" : "8",
+				"ui_led7_ledbarCount_opt_i_2" : "16",
+				"ui_led7_ledbarCount_opt_i_3" : "32",
+				"ui_led7_ledbarCount_opt_i_4" : "64",
+				"ui_translation_contributors" : ""
+			},
+			"pl-pl" : 
+			{
+				"ui_led7_ledbarCount_opt_i_1" : "8",
+				"ui_led7_ledbarCount_opt_i_2" : "16",
+				"ui_led7_ledbarCount_opt_i_3" : "32",
+				"ui_led7_ledbarCount_opt_i_4" : "64",
+				"ui_translation_contributors" : ""
+			},
+			"pt-br" : 
+			{
+				"ui_led7_ledbarCount_opt_i_1" : "8",
+				"ui_led7_ledbarCount_opt_i_2" : "16",
+				"ui_led7_ledbarCount_opt_i_3" : "32",
+				"ui_led7_ledbarCount_opt_i_4" : "64",
+				"ui_translation_contributors" : ""
+			},
+			"pt-pt" : 
+			{
+				"ui_led7_ledbarCount_opt_i_1" : "8",
+				"ui_led7_ledbarCount_opt_i_2" : "16",
+				"ui_led7_ledbarCount_opt_i_3" : "32",
+				"ui_led7_ledbarCount_opt_i_4" : "64",
+				"ui_translation_contributors" : ""
+			},
+			"ro-ro" : 
+			{
+				"ui_led7_ledbarCount_opt_i_1" : "8",
+				"ui_led7_ledbarCount_opt_i_2" : "16",
+				"ui_led7_ledbarCount_opt_i_3" : "32",
+				"ui_led7_ledbarCount_opt_i_4" : "64",
+				"ui_translation_contributors" : ""
+			},
+			"ru-ru" : 
+			{
+				"ui_adjustAmplitude" : "Коррекция амплитуды (%)",
+				"ui_background_Label" : "<h3>Фон</h3>",
+				"ui_blending" : "Цветовой фильтр",
+				"ui_blending_opt_s_color" : "цвет",
+				"ui_blending_opt_s_color_burn" : "выжигание",
+				"ui_blending_opt_s_color_dodge" : "разница цвета",
+				"ui_blending_opt_s_darken" : "затемнение",
+				"ui_blending_opt_s_difference" : "разница",
+				"ui_blending_opt_s_exclusion" : "исключение",
+				"ui_blending_opt_s_hard_light" : "контрастный",
+				"ui_blending_opt_s_hue" : "оттенок",
+				"ui_blending_opt_s_lighten" : "выцветание",
+				"ui_blending_opt_s_luminosity" : "яркость",
+				"ui_blending_opt_s_multiply" : "множитель",
+				"ui_blending_opt_s_normal" : "нормальный",
+				"ui_blending_opt_s_overlay" : "наложение",
+				"ui_blending_opt_s_saturation" : "насыщенность",
+				"ui_blending_opt_s_screen" : "экран",
+				"ui_blending_opt_s_soft_light" : "смягчение",
+				"ui_blur" : "Размытие графика",
+				"ui_blurLabel" : "<h3>Прочее</h3>",
+				"ui_colorRotation" : "<h4>Переливание цветов</h4><small>Переливание цветов может сильно влиять на CPU. Каждую смену цвета использование CPU подскакивает. Вы можете снизить скорость смены цветов, увеличив значение пропуска кадров. Чем медленнее переливание, тем меньше заметно увеличение пропуска кадров.</small>",
+				"ui_colorRotationSkip" : "Пропуск кадров (степень)",
+				"ui_colorRotationSpeed" : "Скорость переливания (&#x2030;)",
+				"ui_colorRotationUse" : "Использовать переливание цветов",
+				"ui_disableNormalizing" : "Отключить нормализацию",
+				"ui_hideWhenSilent" : "Когда нет музыки",
+				"ui_hideWhenSilentThreshold" : "Порог тишины",
+				"ui_hideWhenSilent_opt_b_false" : "Ничего не делать",
+				"ui_hideWhenSilent_opt_b_true" : "Скрыть всё",
+				"ui_hideWhenSilent_opt_i_1" : "Анимация",
+				"ui_led0_b0_backgroundColor" : "Цвет Фона 1",
+				"ui_led0_b0_backgroundColor_" : "<h4>Фоновые цвета</h4>",
+				"ui_led0_b0_backgroundImage" : "Фоновое изображение",
+				"ui_led0_b0_backgroundImage_" : "<h4>Фоновое изображение</h4>",
+				"ui_led0_b0_backgroundSize" : "Размер фона",
+				"ui_led0_b0_backgroundSize_opt_s_contain" : "Растянуть",
+				"ui_led0_b0_backgroundSize_opt_s_cover" : "Наложение",
+				"ui_led0_b0_backgroundSource" : "Вид фона",
+				"ui_led0_b0_backgroundSource_opt_s_" : "[Выберите значение]",
+				"ui_led0_b0_backgroundSource_opt_s_image" : "Одно фото",
+				"ui_led0_b0_backgroundSource_opt_s_none" : "Только цвета",
+				"ui_led0_b0_backgroundSource_opt_s_slideshow" : "Слайдшоу",
+				"ui_led0_b0_backgroundSource_opt_s_video" : "Одно видео",
+				"ui_led0_b0_backgroundV" : "<h4>Фоновое видео<br><small>- Только формат webm или ogv.<br>- Нагрузка CPU зависит от качества видео. </small></h4>",
+				"ui_led0_b0_backgroundVideo" : "Фоновое видео",
+				"ui_led0_b0_backgroundVideoVolume" : "Громкость фонового видео",
+				"ui_led0_b1_backgroundColor" : "Цвет Фона 2",
+				"ui_led0_b2_backgroundColor" : "Цвет Фона 3",
+				"ui_led0_b3_backgroundColorCount" : "Количество фоновых цветов",
+				"ui_led0_b4_backgroundHorizontal" : "Форма градиента",
+				"ui_led0_b4_backgroundHorizontal_opt_s_linear_left" : "горизонтальный",
+				"ui_led0_b4_backgroundHorizontal_opt_s_linear_top" : "вертикальный",
+				"ui_led0_b4_backgroundHorizontal_opt_s_radial_center_center_circle_cover" : "круг",
+				"ui_led0_b4_backgroundHorizontal_opt_s_radial_center_center_ellipse_cover" : "овал",
+				"ui_led1_startColor" : "Начальный цвет Градиент",
+				"ui_led1_startColor_Label" : "<h3>Эквалайзер</h3>",
+				"ui_led2_endColor" : "Конечный цвет Градиент",
+				"ui_led3_ledOpacity" : "Непрозрачность",
+				"ui_led3_startColor" : "Начальный цвет Градиент 2",
+				"ui_led4_endColor" : "Конечный цвет Градиент 2",
+				"ui_led4_peakOpacity" : "Прозрачность границы",
+				"ui_led5_dropRate" : "Скорость падения границы",
+				"ui_led6_orientation" : "Ориентация",
+				"ui_led6_orientation_opt_i_1" : "Снизу",
+				"ui_led6_orientation_opt_i_2" : "Сверху",
+				"ui_led6_orientation_opt_i_3" : "Слева/Справа",
+				"ui_led6_orientation_opt_i_4" : "По центру вертикально",
+				"ui_led6_orientation_opt_i_5" : "По центру горизонтально",
+				"ui_led6_orientation_opt_i_6" : "Сверху/Снизу",
+				"ui_led6_orientation_opt_i_7" : "Слева",
+				"ui_led6_orientation_opt_i_8" : "Справа",
+				"ui_led7_ledStroke" : "Стиль отображения",
+				"ui_led7_ledStroke_opt_i_0" : "Заливка",
+				"ui_led7_ledStroke_opt_i_1" : "Контуры",
+				"ui_led7_ledType" : "Тип фигур<br><small>( все фигуры кроме прямоугольников могут значительно увеличить нагрузку на ЦП )</small>",
+				"ui_led7_ledType_opt_i_1" : "Прямоугольники",
+				"ui_led7_ledType_opt_i_2" : "Овалы",
+				"ui_led7_ledType_opt_i_3" : "Шестиугольники",
+				"ui_led7_ledType_opt_i_4" : "Трапеции",
+				"ui_led7_ledType_opt_i_5" : "Обратные трапеции",
+				"ui_led7_ledbarCount" : "Столбцы<br><small>на каждый аудио канал</small>",
+				"ui_led7_ledbarCount_opt_i_1" : "8",
+				"ui_led7_ledbarCount_opt_i_2" : "16",
+				"ui_led7_ledbarCount_opt_i_3" : "32",
+				"ui_led7_ledbarCount_opt_i_4" : "64",
+				"ui_led7_ledsizeRatio" : "Размер",
+				"ui_led_use4Colors" : "Четырёхцветный градиент<br><small>Если отключено, используется только два цвета</small>",
+				"ui_marginBottom" : "Отступ Снизу",
+				"ui_marginLeft" : "Отступ Слева",
+				"ui_marginRight" : "Отступ Справа",
+				"ui_marginTop" : "Отступ Сверху",
+				"ui_margins" : "<h3>Точный отступ</h3><small>Это используется для настройки зоны, чтобы эквалайзер не падал за панель задач. Для всего остального используйте систему позиционирования и оставьте значение на 0.</small>",
+				"ui_reverseAudioData" : "Обратить график",
+				"ui_schemecolor" : "Цвет схемы",
+				"ui_slideshow" : "<h4>Фоновое слайдшоу</h4><small>Слайдшоу не может работать с методом позиционирования 'центр экрана'.</small>",
+				"ui_slideshowFolder" : "Выбрать изображение",
+				"ui_slideshowInterval" : "Частота смены изображений",
+				"ui_slideshowIntervalMultiplier" : "Значение частоты смены",
+				"ui_slideshowIntervalMultiplier_opt_i_1" : "Секунды",
+				"ui_slideshowIntervalMultiplier_opt_i_3600" : "Часы",
+				"ui_slideshowIntervalMultiplier_opt_i_60" : "Минуты",
+				"ui_slideshowShowTransitions" : "Выберите переходы",
+				"ui_slideshowTransFade" : "Затемнение",
+				"ui_slideshowTransMoveBottom" : "Отступ Сверху",
+				"ui_slideshowTransMoveLeft" : "Отступ Слева",
+				"ui_slideshowTransMoveRight" : "Отступ Справа",
+				"ui_slideshowTransMoveTop" : "Отступ Сверху",
+				"ui_slideshowTransShuffleBottom" : "Тасование снизу",
+				"ui_slideshowTransShuffleLeft" : "Тасование слева",
+				"ui_slideshowTransShuffleRight" : "Тасование справа",
+				"ui_slideshowTransShuffleTop" : "Тасование сверху",
+				"ui_slideshowTransZoomHorzIn" : "Горизонтальное приближение",
+				"ui_slideshowTransZoomHorzOut" : "Горизонтальное отдаление",
+				"ui_slideshowTransZoomIn" : "Приблизить",
+				"ui_slideshowTransZoomOut" : "Уменьшить",
+				"ui_slideshowTransZoomVertIn" : "Вертикальное приближение",
+				"ui_slideshowTransZoomVertOut" : "Вертикальное отдаление",
+				"ui_slideshowTrans_" : "<h4><small>Если вы включите анимацию, она будет использоваться для следующего перехода.</small></h4>",
+				"ui_slideshowTransitionDuration" : "Продолжительность перехода",
+				"ui_slideshowUseTransitions" : "Использовать переходы<br><small>Будет немного увеличиваться использование ЦП / ГП в течение каждого перехода.</small>",
+				"ui_smoothingFactor" : "Сглаживание графика",
+				"ui_smoothingFactor_opt_i_0" : "Без сглаживания",
+				"ui_smoothingFactor_opt_i_1" : "Низкий",
+				"ui_smoothingFactor_opt_i_2" : "Средний",
+				"ui_smoothingFactor_opt_i_3" : "Высокий",
+				"ui_tr2_bl_x" : "Низ Слева X (пикс.)",
+				"ui_tr2_bl_y" : "Низ Слева Y (пикс.)",
+				"ui_tr2_br_x" : "Низ Справа X (пикс.)",
+				"ui_tr2_br_y" : "Низ Справа Y (пикс.)",
+				"ui_tr2_tl_x" : "Верх Слева X (пикс.)",
+				"ui_tr2_tl_y" : "Верх Слева Y (пикс.)",
+				"ui_tr2_tr_x" : "Верх Справа X (пикс.)",
+				"ui_tr2_tr_y" : "Верх Справа Y (пикс.)",
+				"ui_tr_bl_x" : "Низ Слева X (&#x2030;)",
+				"ui_tr_bl_y" : "Низ Слева Y (&#x2030;)",
+				"ui_tr_br_x" : "Низ Справа X (&#x2030;)",
+				"ui_tr_br_y" : "Низ Справа Y (&#x2030;)",
+				"ui_tr_showPositionIndicator" : "Мерцать при изменении позиции",
+				"ui_tr_switch" : "Система позиционирования",
+				"ui_tr_switch_opt_i_0" : "Относительный отступ",
+				"ui_tr_switch_opt_i_1" : "Центр экрана",
+				"ui_tr_switch_opt_i_2" : "Точный отступ",
+				"ui_tr_tl_0" : "<h3>Позиционирование</h3><small>Вы можете перемещать vu meter, используя одну из предложенных опций.<br>Опции:<ul><li>Точный отступ: используется для изменения размера, чтобы эквалайзер не скрывался за панелью задач</li><li>Относительный отступ: Позиционирование на основе краёв экрана.</li><li>Центр экрана: Позиционирование от центра экрана.</li></ul></small>",
+				"ui_tr_tl_01" : "<small>Рекомендуется использовать 'центр экрана', т.к. он наиболее точный и лучше работает с разными компьютерами и разрешениями. Я не смог сделать эту опцию по умолчанию, т.к. фоновое изображение иногда выглядит странно при первом запуске. Это случается, потому что я не могу назначить размер вашего экрана заранее.</small>",
+				"ui_tr_tl_1" : "<h4>Относительный отступ</h4><small>Используется, если 'Система позицинирования' установлена на значении 'Относительный отступ'. Значения ведутся от краев экрана и указываются в промилле ( &#x2030;, Как проценты, но 1&#x2030; равняется 1/1000 где 1% равняется 1/100 ) ширины и высоты экрана.<br><br><b>Используйте стрелки для настройки значения</b></small>",
+				"ui_tr_tl_2" : "<h4>Центр экрана</h4><small>Эта опция используется, если 'Система позиционирования' выбрана как 'Центр экрана'. Координата 0,0 является центром изображения. Эта опция хороша при копировании настроек на другой компьютер.<br><br>Если фоновое изображение выбрано, значение смасштабируется под координаты изображения.<br><br><b>Используйте стрелки для коррекции значения</b></small>",
+				"ui_tr_tl_x" : "Верх Слева X (&#x2030;)",
+				"ui_tr_tl_y" : "Верх Слева Y (&#x2030;)",
+				"ui_tr_tr_x" : "Верх Справа X (&#x2030;)",
+				"ui_tr_tr_y" : "Верх Справа Y (&#x2030;)",
+				"ui_translation_contributors" : "<h4>Авторы перевода</h4> Локализация на других языках стала доступна, помимо остальных, благодаря: AR̬̬̂̂GÔ̬̬̬̬̂̂̂RÛ̬̬̂S, Beatrice Santello, Vieron, aluxix"
+			},
+			"sk-sk" : 
+			{
+				"ui_blending_opt_s_saturation" : "saturácia",
+				"ui_led0_b0_backgroundColor_" : "Farby pozadia",
+				"ui_led0_b0_backgroundSource_opt_s_" : "[Vyber možnosť]",
+				"ui_led0_b0_backgroundSource_opt_s_image" : "Obrázok",
+				"ui_led0_b0_backgroundSource_opt_s_slideshow" : "Prezentácia",
+				"ui_led0_b0_backgroundSource_opt_s_video" : "Video",
+				"ui_led6_orientation" : "Orientácia",
+				"ui_led7_ledType_opt_i_1" : "Obdĺžnik",
+				"ui_led7_ledType_opt_i_2" : "Elipsa",
+				"ui_schemecolor" : "Farebná schéma",
+				"ui_slideshowShowTransitions" : "Vybrať prechody",
+				"ui_tr_showPositionIndicator" : "Zvýrazniť plochu počas úpravy pozície",
+				"ui_translation_contributors" : "<h4>Translation Contributors</h4> Translations were made possible, among others, by: Spiriťák"
+			},
+			"sl-si" : 
+			{
+				"ui_translation_contributors" : ""
+			},
+			"sr-sr" : 
+			{
+				"ui_translation_contributors" : ""
+			},
+			"sv-se" : 
+			{
+				"ui_blending_opt_s_exclusion" : "Uteslutning",
+				"ui_blending_opt_s_hard_light" : "hård-ljus",
+				"ui_blending_opt_s_multiply" : "multiplicera",
+				"ui_blending_opt_s_soft_light" : "mjuk-ljus",
+				"ui_colorRotationSkip" : "Rotation Skippa ( deg )",
+				"ui_colorRotationUse" : "Använd färgrotation",
+				"ui_hideWhenSilentThreshold" : "Tystnadströskel",
+				"ui_hideWhenSilent_opt_b_false" : "Gör Ingenting",
+				"ui_led0_b0_backgroundSource_opt_s_none" : "Endast Färger",
+				"ui_led0_b3_backgroundColorCount" : "Använd # Bakgrundsfärger",
+				"ui_led2_endColor" : "Lutning Slutfärg",
+				"ui_led3_ledOpacity" : "opacitet",
+				"ui_led4_peakOpacity" : "Toppdispersibilitet",
+				"ui_led6_orientation_opt_i_2" : "Topp",
+				"ui_led7_ledStroke_opt_i_0" : "Fast",
+				"ui_led7_ledType" : "Skriv <br><liten>( vad som helst förutom Rektanglar kan öka påfrestningen på din cpu drastiskt )</liten>",
+				"ui_led7_ledbarCount_opt_i_1" : "8",
+				"ui_led7_ledbarCount_opt_i_2" : "16",
+				"ui_led7_ledbarCount_opt_i_3" : "32",
+				"ui_led7_ledbarCount_opt_i_4" : "64",
+				"ui_slideshowIntervalMultiplier_opt_i_60" : "Minuter",
+				"ui_slideshowTransMoveBottom" : "Flytta Från Botten",
+				"ui_slideshowTransMoveRight" : "Flytta från höger",
+				"ui_slideshowTransZoomHorzOut" : "Zooma Horz Ut",
+				"ui_slideshowTransZoomIn" : "Zooma in",
+				"ui_tr2_bl_y" : "Vänster Botten Y (px)",
+				"ui_tr2_tr_x" : "Höger Topp X (px)",
+				"ui_tr_bl_y" : "Vänster Botten Y (&#x2030;)",
+				"ui_tr_switch_opt_i_1" : "Skärmcenter",
+				"ui_translation_contributors" : "<h4>Översättning Bidragsgivare</h4> Översättningar gjordes möjliga, bland många andra, genom: Shack Oneille"
+			},
+			"th-th" : 
+			{
+				"ui_led7_ledbarCount_opt_i_1" : "8",
+				"ui_led7_ledbarCount_opt_i_2" : "16",
+				"ui_led7_ledbarCount_opt_i_3" : "32",
+				"ui_led7_ledbarCount_opt_i_4" : "64",
+				"ui_translation_contributors" : ""
+			},
+			"tr-tr" : 
+			{
+				"ui_blending_opt_s_color" : "renk",
+				"ui_blending_opt_s_normal" : "normal",
+				"ui_blending_opt_s_screen" : "ekran",
+				"ui_blur" : "Bulanıklık",
+				"ui_led0_b0_backgroundImage" : "Arkaplan resmi",
+				"ui_led0_b0_backgroundSource_opt_s_" : "[Birini Seçin]",
+				"ui_led0_b0_backgroundSource_opt_s_none" : "Sadece Renkler",
+				"ui_led0_b0_backgroundVideo" : "Arkaplan Videosu",
+				"ui_led0_b0_backgroundVideoVolume" : "Arkaplan Videosu Ses Seviyesi",
+				"ui_led0_b4_backgroundHorizontal_opt_s_linear_left" : "yatay",
+				"ui_led0_b4_backgroundHorizontal_opt_s_radial_center_center_circle_cover" : "daire",
+				"ui_led3_ledOpacity" : "Şeffaflık",
+				"ui_led6_orientation" : "Yön",
+				"ui_led6_orientation_opt_i_1" : "Alt",
+				"ui_led6_orientation_opt_i_2" : "Üst",
+				"ui_led6_orientation_opt_i_3" : "Sol/Sağ",
+				"ui_led6_orientation_opt_i_7" : "Sol",
+				"ui_led6_orientation_opt_i_8" : "Sağ",
+				"ui_led7_ledbarCount_opt_i_1" : "8",
+				"ui_led7_ledbarCount_opt_i_2" : "16",
+				"ui_led7_ledbarCount_opt_i_3" : "32",
+				"ui_led7_ledbarCount_opt_i_4" : "64",
+				"ui_led7_ledsizeRatio" : "Boyut Oranı",
+				"ui_schemecolor" : "Şema rengi",
+				"ui_slideshowFolder" : "Resim Klasörü",
+				"ui_slideshowIntervalMultiplier_opt_i_1" : "saniye",
+				"ui_slideshowIntervalMultiplier_opt_i_3600" : "saat",
+				"ui_slideshowIntervalMultiplier_opt_i_60" : "dakika",
+				"ui_slideshowTransZoomIn" : "Yakınlaştır",
+				"ui_slideshowTransZoomOut" : "Uzaklaştır",
+				"ui_smoothingFactor_opt_i_1" : "Düşük",
+				"ui_smoothingFactor_opt_i_3" : "Yüksek",
+				"ui_translation_contributors" : "<h4>Translation Contributors</h4> Translations were made possible, among others, by: Weknox"
+			},
+			"uk-ua" : 
+			{
+				"ui_led7_ledbarCount_opt_i_1" : "8",
+				"ui_led7_ledbarCount_opt_i_2" : "16",
+				"ui_led7_ledbarCount_opt_i_3" : "32",
+				"ui_led7_ledbarCount_opt_i_4" : "64",
+				"ui_translation_contributors" : ""
+			},
+			"vi-vn" : 
+			{
+				"ui_translation_contributors" : ""
+			},
+			"zh-chs" : 
+			{
+				"ui_adjustAmplitude" : "跳动幅度 (%)",
+				"ui_background_Label" : "<h3>背景</h3>",
+				"ui_blending" : "混合模式",
+				"ui_blending_opt_s_color" : "颜色",
+				"ui_blending_opt_s_color_burn" : "颜色加深",
+				"ui_blending_opt_s_color_dodge" : "颜色减淡",
+				"ui_blending_opt_s_darken" : "变暗",
+				"ui_blending_opt_s_difference" : "差值",
+				"ui_blending_opt_s_exclusion" : "排除",
+				"ui_blending_opt_s_hard_light" : "强光",
+				"ui_blending_opt_s_hue" : "色相",
+				"ui_blending_opt_s_lighten" : "变亮",
+				"ui_blending_opt_s_luminosity" : "亮度",
+				"ui_blending_opt_s_multiply" : "正片叠底",
+				"ui_blending_opt_s_normal" : "正常",
+				"ui_blending_opt_s_overlay" : "叠加",
+				"ui_blending_opt_s_saturation" : "饱和度",
+				"ui_blending_opt_s_screen" : "滤色",
+				"ui_blending_opt_s_soft_light" : "柔光",
+				"ui_blur" : "模糊度",
+				"ui_blurLabel" : "<h3>其他设置</h3>",
+				"ui_colorRotation" : "<h4>颜色变换</h4><small>开启颜色变换能让颗粒不间断的变换各种颜色，但这会提高CPU使用率，通过提高'颜色过渡速度'的值可适度降低CPU使用率</small",
+				"ui_colorRotationSkip" : "颜色过渡速度 (度)",
+				"ui_colorRotationSpeed" : "颜色变换速度 (&#x2030;)",
+				"ui_colorRotationUse" : "开启颜色变换",
+				"ui_disableNormalizing" : "禁用正常化<br><small>(降低CPU使用率)</small>",
+				"ui_hideWhenSilent" : "静音时隐藏颗粒",
+				"ui_hideWhenSilentThreshold" : "沉默音量",
+				"ui_hideWhenSilent_opt_b_false" : "不隐藏",
+				"ui_hideWhenSilent_opt_b_true" : "全部隐藏",
+				"ui_hideWhenSilent_opt_i_1" : "隐藏动画",
+				"ui_led0_b0_backgroundColor" : "背景颜色 1",
+				"ui_led0_b0_backgroundColor_" : "<h4>背景颜色</h4>",
+				"ui_led0_b0_backgroundImage" : "背景图像",
+				"ui_led0_b0_backgroundImage_" : "<h4>背景图像</h4>",
+				"ui_led0_b0_backgroundSize" : "图片契合度",
+				"ui_led0_b0_backgroundSize_opt_s_contain" : "适应",
+				"ui_led0_b0_backgroundSize_opt_s_cover" : "填充",
+				"ui_led0_b0_backgroundSource" : "背景源",
+				"ui_led0_b0_backgroundSource_opt_s_" : "选择一个",
+				"ui_led0_b0_backgroundSource_opt_s_image" : "单张图像",
+				"ui_led0_b0_backgroundSource_opt_s_none" : "仅颜色",
+				"ui_led0_b0_backgroundSource_opt_s_slideshow" : "幻灯片",
+				"ui_led0_b0_backgroundSource_opt_s_video" : "单个视频",
+				"ui_led0_b0_backgroundV" : "<h4>背景视频<br><small>- 视频必须是webm或ogv格式。<br>- CPU使用率将随视频质量而增加。 </small></h4>",
+				"ui_led0_b0_backgroundVideo" : "背景视频",
+				"ui_led0_b0_backgroundVideoVolume" : "背景视频音量",
+				"ui_led0_b1_backgroundColor" : "背景颜色 2",
+				"ui_led0_b2_backgroundColor" : "背景颜色 3",
+				"ui_led0_b3_backgroundColorCount" : "使用多少种背景颜色",
+				"ui_led0_b4_backgroundHorizontal" : "背景颜色渐变风格",
+				"ui_led0_b4_backgroundHorizontal_opt_s_linear_left" : "横向",
+				"ui_led0_b4_backgroundHorizontal_opt_s_linear_top" : "垂直",
+				"ui_led0_b4_backgroundHorizontal_opt_s_radial_center_center_circle_cover" : "圆圈",
+				"ui_led0_b4_backgroundHorizontal_opt_s_radial_center_center_ellipse_cover" : "椭圆",
+				"ui_led1_startColor" : "渐变开始颜色 1",
+				"ui_led1_startColor_Label" : "<h3>LED显示设置</h3>",
+				"ui_led2_endColor" : "渐变结束颜色 1",
+				"ui_led3_ledOpacity" : "颗粒不透明度",
+				"ui_led3_startColor" : "渐变开始颜色 2",
+				"ui_led4_endColor" : "渐变结束颜色 2",
+				"ui_led4_peakOpacity" : "顶点颗粒不透明度",
+				"ui_led5_dropRate" : "顶点颗粒下落速度",
+				"ui_led6_orientation" : "方向",
+				"ui_led6_orientation_opt_i_1" : "底部",
+				"ui_led6_orientation_opt_i_2" : "顶部",
+				"ui_led6_orientation_opt_i_3" : "左/右",
+				"ui_led6_orientation_opt_i_4" : "垂直居中",
+				"ui_led6_orientation_opt_i_5" : "横向居中",
+				"ui_led6_orientation_opt_i_6" : "上/下",
+				"ui_led6_orientation_opt_i_7" : "左",
+				"ui_led6_orientation_opt_i_8" : "右",
+				"ui_led7_ledStroke" : "着色风格",
+				"ui_led7_ledStroke_opt_i_0" : "实心",
+				"ui_led7_ledStroke_opt_i_1" : "轮廓",
+				"ui_led7_ledType" : "颗粒形状 <br><small>( 除了方形，所有其他形状都会增加CPU使用率 )</small>",
+				"ui_led7_ledType_opt_i_1" : "方形",
+				"ui_led7_ledType_opt_i_2" : "椭圆",
+				"ui_led7_ledType_opt_i_3" : "六角",
+				"ui_led7_ledType_opt_i_4" : "梯形",
+				"ui_led7_ledType_opt_i_5" : "反向梯形",
+				"ui_led7_ledbarCount" : "颗粒数量<br><small>每个音频通道的数量</small>",
+				"ui_led7_ledbarCount_opt_i_1" : "8",
+				"ui_led7_ledbarCount_opt_i_2" : "16",
+				"ui_led7_ledbarCount_opt_i_3" : "32",
+				"ui_led7_ledbarCount_opt_i_4" : "64",
+				"ui_led7_ledsizeRatio" : "颗粒大小",
+				"ui_led_use4Colors" : "4色渐变<br><small>不勾选将只显示下方前两种颜色<br>勾选则显示所有四种颜色</small>",
+				"ui_marginBottom" : "底部边距",
+				"ui_marginLeft" : "左侧边距",
+				"ui_marginRight" : "右侧边距",
+				"ui_marginTop" : "顶部边距",
+				"ui_margins" : "<h3>边距</h3><small>通过调整边距能让颗粒不被桌面上的任务栏或图标挡住, 如果您是想调整位置, 请前往下方的'调整位置'</small>",
+				"ui_reverseAudioData" : "反向频率",
+				"ui_schemecolor" : "状态栏配色",
+				"ui_slideshow" : "<h4>幻灯片背景</h4><small>幻灯片背景能让您指定的文件夹内的所有图片作为背景并进行幻灯片放映, 但幻灯片背景无法与'屏幕中心'的定位系统进行位置匹配</small>",
+				"ui_slideshowFolder" : "图片文件夹",
+				"ui_slideshowInterval" : "图片切换间隔",
+				"ui_slideshowIntervalMultiplier" : "图片间隔单位",
+				"ui_slideshowIntervalMultiplier_opt_i_1" : "秒钟",
+				"ui_slideshowIntervalMultiplier_opt_i_3600" : "小时",
+				"ui_slideshowIntervalMultiplier_opt_i_60" : "分钟",
+				"ui_slideshowShowTransitions" : "选择转场",
+				"ui_slideshowTransFade" : "褪色",
+				"ui_slideshowTransMoveBottom" : "从底部滑动",
+				"ui_slideshowTransMoveLeft" : "从左侧滑动",
+				"ui_slideshowTransMoveRight" : "从右侧滑动",
+				"ui_slideshowTransMoveTop" : "从顶部滑动",
+				"ui_slideshowTransShuffleBottom" : "从底部伸展",
+				"ui_slideshowTransShuffleLeft" : "从左侧伸展",
+				"ui_slideshowTransShuffleRight" : "从右侧伸展",
+				"ui_slideshowTransShuffleTop" : "从顶部伸展",
+				"ui_slideshowTransZoomHorzIn" : "水平放大",
+				"ui_slideshowTransZoomHorzOut" : "水平缩小",
+				"ui_slideshowTransZoomIn" : "放大",
+				"ui_slideshowTransZoomOut" : "缩小",
+				"ui_slideshowTransZoomVertIn" : "垂直放大",
+				"ui_slideshowTransZoomVertOut" : "垂直缩小",
+				"ui_slideshowTrans_" : "<h4><small>如果你开启动画，它将会用于下一次转场。</small></h4>",
+				"ui_slideshowTransitionDuration" : "图片过渡时间",
+				"ui_slideshowUseTransitions" : "开启过渡效果<br><small>开启后能让背景图片切换时变得更加美观, 但在过渡期间会略微增加您的CPU和GPU的使用率</small>",
+				"ui_smoothingFactor" : "抗锯齿",
+				"ui_smoothingFactor_opt_i_0" : "关",
+				"ui_smoothingFactor_opt_i_1" : "低",
+				"ui_smoothingFactor_opt_i_2" : "中",
+				"ui_smoothingFactor_opt_i_3" : "高",
+				"ui_tr2_bl_x" : "左下 X (px)",
+				"ui_tr2_bl_y" : "左下 Y (px)",
+				"ui_tr2_br_x" : "右下 X (px)",
+				"ui_tr2_br_y" : "右下 Y  (px)",
+				"ui_tr2_tl_x" : "左上 X (px)",
+				"ui_tr2_tl_y" : "左上 Y (px)",
+				"ui_tr2_tr_x" : "右上 X (px)",
+				"ui_tr2_tr_y" : "右上 Y (px)",
+				"ui_tr_bl_x" : "左下 X (&#x2030;)",
+				"ui_tr_bl_y" : "左下 Y (&#x2030;)",
+				"ui_tr_br_x" : "右下 X (&#x2030;)",
+				"ui_tr_br_y" : "右下 Y  (&#x2030;)",
+				"ui_tr_showPositionIndicator" : "调整位置时动画区域",
+				"ui_tr_switch" : "定位系统",
+				"ui_tr_switch_opt_i_0" : "边偏移",
+				"ui_tr_switch_opt_i_1" : "屏幕中心",
+				"ui_tr_switch_opt_i_2" : "边距",
+				"ui_tr_tl_0" : "<h3>调整位置</h3><small>在调整位置之前, 您需要先选择一个'定位系统', 再调整您指定的'定位系统'处的值</small>",
+				"ui_tr_tl_01" : "<small>偏移值: 可以简单直观的调整波形频谱的位置<br>屏幕中心: 可以更精确且可以更好的复制参数到其他具有不同屏幕大小的电脑上</small>",
+				"ui_tr_tl_1" : "<h4>边偏移</h4><small>此处设置仅应用于'偏移值', 使用这些设置之前, 先将'定位系统'选择为'边偏移'。此处位置的值是基于您的屏幕宽度和高度的角点</b><br>您现在可以使用键盘上的箭头方向键调整各个值</small>",
+				"ui_tr_tl_2" : "<h4>屏幕中心</h4><small>此处设置仅应用于'屏幕中心', 使用这些设置之前, 先将'定位系统'选择为'屏幕中心'。默认值为0时, 波形频谱在屏幕正中心, 这会看起来不是很美观, 但'屏幕中心'的参数值更加精确, 适合复制他人的参数或复制参数给他人<br><br> 如果背景是图片, 那么此值会缩放以匹配背景图片的像素坐标<br><br><b>您现在可以使用键盘上的箭头方向键调整各个值</b></small>",
+				"ui_tr_tl_x" : "左上 X (&#x2030;)",
+				"ui_tr_tl_y" : "左上 Y (&#x2030;)",
+				"ui_tr_tr_x" : "右上 X (&#x2030;)",
+				"ui_tr_tr_y" : "右上 Y (&#x2030;)",
+				"ui_translation_contributors" : "<h4>翻译贡献者</h4>在以下帮助下，翻译成为可能：: Haruhi."
+			},
+			"zh-cht" : 
+			{
+				"ui_adjustAmplitude" : "跳动幅度 (%)",
+				"ui_background_Label" : "<h3>背景</h3>",
+				"ui_blending" : "混合模式",
+				"ui_blending_opt_s_color" : "颜色",
+				"ui_blending_opt_s_color_burn" : "颜色加深",
+				"ui_blending_opt_s_color_dodge" : "颜色减淡",
+				"ui_blending_opt_s_darken" : "变暗",
+				"ui_blending_opt_s_difference" : "差值",
+				"ui_blending_opt_s_exclusion" : "排除",
+				"ui_blending_opt_s_hard_light" : "强光",
+				"ui_blending_opt_s_hue" : "色相",
+				"ui_blending_opt_s_lighten" : "变亮",
+				"ui_blending_opt_s_luminosity" : "亮度",
+				"ui_blending_opt_s_multiply" : "正片叠底",
+				"ui_blending_opt_s_normal" : "正常",
+				"ui_blending_opt_s_overlay" : "叠加",
+				"ui_blending_opt_s_saturation" : "饱和度",
+				"ui_blending_opt_s_screen" : "滤色",
+				"ui_blending_opt_s_soft_light" : "柔光",
+				"ui_blur" : "模糊度",
+				"ui_blurLabel" : "<h3>其他设置</h3>",
+				"ui_colorRotation" : "<h4>颜色变换</h4><small>开启颜色变换能让颗粒不间断的变换各种颜色，但这会提高CPU使用率，通过提高'颜色过渡速度'的值可适度降低CPU使用率</small",
+				"ui_colorRotationSkip" : "颜色过渡速度 (度)",
+				"ui_colorRotationSpeed" : "颜色变换速度 (&#x2030;)",
+				"ui_colorRotationUse" : "开启颜色变换",
+				"ui_disableNormalizing" : "禁用正常化<br><small>(降低CPU使用率)</small>",
+				"ui_hideWhenSilent" : "静音时隐藏颗粒",
+				"ui_hideWhenSilentThreshold" : "沉默音量",
+				"ui_hideWhenSilent_opt_b_false" : "不隐藏",
+				"ui_hideWhenSilent_opt_b_true" : "全部隐藏",
+				"ui_hideWhenSilent_opt_i_1" : "隐藏动画",
+				"ui_led0_b0_backgroundColor" : "背景颜色 1",
+				"ui_led0_b0_backgroundColor_" : "<h4>背景颜色</h4>",
+				"ui_led0_b0_backgroundImage" : "背景图像",
+				"ui_led0_b0_backgroundImage_" : "<h4>背景图像</h4>",
+				"ui_led0_b0_backgroundSize" : "图片契合度",
+				"ui_led0_b0_backgroundSize_opt_s_contain" : "适应",
+				"ui_led0_b0_backgroundSize_opt_s_cover" : "填充",
+				"ui_led0_b0_backgroundSource" : "背景源",
+				"ui_led0_b0_backgroundSource_opt_s_" : "选择一个",
+				"ui_led0_b0_backgroundSource_opt_s_image" : "单张图像",
+				"ui_led0_b0_backgroundSource_opt_s_none" : "仅颜色",
+				"ui_led0_b0_backgroundSource_opt_s_slideshow" : "幻灯片",
+				"ui_led0_b0_backgroundSource_opt_s_video" : "单个视频",
+				"ui_led0_b0_backgroundV" : "<h4>背景视频<br><small>- 视频必须是webm或ogv格式。<br>- CPU使用率将随视频质量而增加。 </small></h4>",
+				"ui_led0_b0_backgroundVideo" : "背景视频",
+				"ui_led0_b0_backgroundVideoVolume" : "背景视频音量",
+				"ui_led0_b1_backgroundColor" : "背景颜色 2",
+				"ui_led0_b2_backgroundColor" : "背景颜色 3",
+				"ui_led0_b3_backgroundColorCount" : "使用多少种背景颜色",
+				"ui_led0_b4_backgroundHorizontal" : "背景颜色渐变风格",
+				"ui_led0_b4_backgroundHorizontal_opt_s_linear_left" : "横向",
+				"ui_led0_b4_backgroundHorizontal_opt_s_linear_top" : "垂直",
+				"ui_led0_b4_backgroundHorizontal_opt_s_radial_center_center_circle_cover" : "圆圈",
+				"ui_led0_b4_backgroundHorizontal_opt_s_radial_center_center_ellipse_cover" : "椭圆",
+				"ui_led1_startColor" : "渐变开始颜色 1",
+				"ui_led1_startColor_Label" : "<h3>LED显示设置</h3>",
+				"ui_led2_endColor" : "渐变结束颜色 1",
+				"ui_led3_ledOpacity" : "颗粒不透明度",
+				"ui_led3_startColor" : "渐变开始颜色 2",
+				"ui_led4_endColor" : "渐变结束颜色 2",
+				"ui_led4_peakOpacity" : "顶点颗粒不透明度",
+				"ui_led5_dropRate" : "顶点颗粒下落速度",
+				"ui_led6_orientation" : "方向",
+				"ui_led6_orientation_opt_i_1" : "底部",
+				"ui_led6_orientation_opt_i_2" : "顶部",
+				"ui_led6_orientation_opt_i_3" : "左/右",
+				"ui_led6_orientation_opt_i_4" : "垂直居中",
+				"ui_led6_orientation_opt_i_5" : "横向居中",
+				"ui_led6_orientation_opt_i_6" : "上/下",
+				"ui_led6_orientation_opt_i_7" : "左",
+				"ui_led6_orientation_opt_i_8" : "右",
+				"ui_led7_ledStroke" : "着色风格",
+				"ui_led7_ledStroke_opt_i_0" : "实心",
+				"ui_led7_ledStroke_opt_i_1" : "轮廓",
+				"ui_led7_ledType" : "颗粒形状 <br><small>( 除了方形，所有其他形状都会增加CPU使用率 )</small>",
+				"ui_led7_ledType_opt_i_1" : "方形",
+				"ui_led7_ledType_opt_i_2" : "椭圆",
+				"ui_led7_ledType_opt_i_3" : "六角",
+				"ui_led7_ledType_opt_i_4" : "梯形",
+				"ui_led7_ledType_opt_i_5" : "反向梯形",
+				"ui_led7_ledbarCount" : "颗粒数量<br><small>每个音频通道的数量</small>",
+				"ui_led7_ledbarCount_opt_i_1" : "8",
+				"ui_led7_ledbarCount_opt_i_2" : "16",
+				"ui_led7_ledbarCount_opt_i_3" : "32",
+				"ui_led7_ledbarCount_opt_i_4" : "64",
+				"ui_led7_ledsizeRatio" : "颗粒大小",
+				"ui_led_use4Colors" : "4色渐变<br><small>不勾选将只显示下方前两种颜色<br>勾选则显示所有四种颜色</small>",
+				"ui_marginBottom" : "底部边距",
+				"ui_marginLeft" : "左侧边距",
+				"ui_marginRight" : "右侧边距",
+				"ui_marginTop" : "顶部边距",
+				"ui_margins" : "<h3>边距</h3><small>通过调整边距能让颗粒不被桌面上的任务栏或图标挡住, 如果您是想调整位置, 请前往下方的'调整位置'</small>",
+				"ui_reverseAudioData" : "反向频率",
+				"ui_schemecolor" : "状态栏配色",
+				"ui_slideshow" : "<h4>幻灯片背景</h4><small>幻灯片背景能让您指定的文件夹内的所有图片作为背景并进行幻灯片放映, 但幻灯片背景无法与'屏幕中心'的定位系统进行位置匹配</small>",
+				"ui_slideshowFolder" : "图片文件夹",
+				"ui_slideshowInterval" : "图片切换间隔",
+				"ui_slideshowIntervalMultiplier" : "图片间隔单位",
+				"ui_slideshowIntervalMultiplier_opt_i_1" : "秒钟",
+				"ui_slideshowIntervalMultiplier_opt_i_3600" : "小时",
+				"ui_slideshowIntervalMultiplier_opt_i_60" : "分钟",
+				"ui_slideshowShowTransitions" : "选择转场",
+				"ui_slideshowTransFade" : "褪色",
+				"ui_slideshowTransMoveBottom" : "从底部滑动",
+				"ui_slideshowTransMoveLeft" : "从左侧滑动",
+				"ui_slideshowTransMoveRight" : "从右侧滑动",
+				"ui_slideshowTransMoveTop" : "从顶部滑动",
+				"ui_slideshowTransShuffleBottom" : "从底部伸展",
+				"ui_slideshowTransShuffleLeft" : "从左侧伸展",
+				"ui_slideshowTransShuffleRight" : "从右侧伸展",
+				"ui_slideshowTransShuffleTop" : "从顶部伸展",
+				"ui_slideshowTransZoomHorzIn" : "水平放大",
+				"ui_slideshowTransZoomHorzOut" : "水平缩小",
+				"ui_slideshowTransZoomIn" : "放大",
+				"ui_slideshowTransZoomOut" : "缩小",
+				"ui_slideshowTransZoomVertIn" : "垂直放大",
+				"ui_slideshowTransZoomVertOut" : "垂直缩小",
+				"ui_slideshowTrans_" : "<h4><small>如果你开启动画，它将会用于下一次转场。</small></h4>",
+				"ui_slideshowTransitionDuration" : "图片过渡时间",
+				"ui_slideshowUseTransitions" : "开启过渡效果<br><small>开启后能让背景图片切换时变得更加美观, 但在过渡期间会略微增加您的CPU和GPU的使用率</small>",
+				"ui_smoothingFactor" : "抗锯齿",
+				"ui_smoothingFactor_opt_i_0" : "关",
+				"ui_smoothingFactor_opt_i_1" : "低",
+				"ui_smoothingFactor_opt_i_2" : "中",
+				"ui_smoothingFactor_opt_i_3" : "高",
+				"ui_tr2_bl_x" : "左下 X (px)",
+				"ui_tr2_bl_y" : "左下 Y (px)",
+				"ui_tr2_br_x" : "右下 X (px)",
+				"ui_tr2_br_y" : "右下 Y  (px)",
+				"ui_tr2_tl_x" : "左上 X (px)",
+				"ui_tr2_tl_y" : "左上 Y (px)",
+				"ui_tr2_tr_x" : "右上 X (px)",
+				"ui_tr2_tr_y" : "右上 Y (px)",
+				"ui_tr_bl_x" : "左下 X (&#x2030;)",
+				"ui_tr_bl_y" : "左下 Y (&#x2030;)",
+				"ui_tr_br_x" : "右下 X (&#x2030;)",
+				"ui_tr_br_y" : "右下 Y  (&#x2030;)",
+				"ui_tr_showPositionIndicator" : "调整位置时动画区域",
+				"ui_tr_switch" : "定位系统",
+				"ui_tr_switch_opt_i_0" : "边偏移",
+				"ui_tr_switch_opt_i_1" : "屏幕中心",
+				"ui_tr_switch_opt_i_2" : "边距",
+				"ui_tr_tl_0" : "<h3>调整位置</h3><small>在调整位置之前, 您需要先选择一个'定位系统', 再调整您指定的'定位系统'处的值</small>",
+				"ui_tr_tl_01" : "<small>偏移值: 可以简单直观的调整波形频谱的位置<br>屏幕中心: 可以更精确且可以更好的复制参数到其他具有不同屏幕大小的电脑上</small>",
+				"ui_tr_tl_1" : "<h4>边偏移</h4><small>此处设置仅应用于'偏移值', 使用这些设置之前, 先将'定位系统'选择为'边偏移'。此处位置的值是基于您的屏幕宽度和高度的角点</b><br>您现在可以使用键盘上的箭头方向键调整各个值</small>",
+				"ui_tr_tl_2" : "<h4>屏幕中心</h4><small>此处设置仅应用于'屏幕中心', 使用这些设置之前, 先将'定位系统'选择为'屏幕中心'。默认值为0时, 波形频谱在屏幕正中心, 这会看起来不是很美观, 但'屏幕中心'的参数值更加精确, 适合复制他人的参数或复制参数给他人<br><br> 如果背景是图片, 那么此值会缩放以匹配背景图片的像素坐标<br><br><b>您现在可以使用键盘上的箭头方向键调整各个值</b></small>",
+				"ui_tr_tl_x" : "左上 X (&#x2030;)",
+				"ui_tr_tl_y" : "左上 Y (&#x2030;)",
+				"ui_tr_tr_x" : "右上 X (&#x2030;)",
+				"ui_tr_tr_y" : "右上 Y (&#x2030;)",
+				"ui_translation_contributors" : "<h4>翻译贡献者</h4>在以下帮助下，翻译成为可能：: Haruhi."
+			}
+		},
+		"properties" : 
+		{
+			"adjustAmplitude" : 
+			{
+				"max" : 400,
+				"min" : 1,
+				"order" : 151,
+				"text" : "ui_adjustAmplitude",
+				"type" : "slider",
+				"value" : 100
+			},
+			"background-Label" : 
+			{
+				"order" : 104,
+				"text" : "ui_background_Label",
+				"type" : "text",
+				"value" : false
+			},
+			"blending" : 
+			{
+				"options" : 
+				[
+					{
+						"label" : "ui_blending_opt_s_normal",
+						"value" : "normal"
+					},
+					{
+						"label" : "ui_blending_opt_s_multiply",
+						"value" : "multiply"
+					},
+					{
+						"label" : "ui_blending_opt_s_screen",
+						"value" : "screen"
+					},
+					{
+						"label" : "ui_blending_opt_s_overlay",
+						"value" : "overlay"
+					},
+					{
+						"label" : "ui_blending_opt_s_darken",
+						"value" : "darken"
+					},
+					{
+						"label" : "ui_blending_opt_s_lighten",
+						"value" : "lighten"
+					},
+					{
+						"label" : "ui_blending_opt_s_color_dodge",
+						"value" : "color-dodge"
+					},
+					{
+						"label" : "ui_blending_opt_s_color_burn",
+						"value" : "color-burn"
+					},
+					{
+						"label" : "ui_blending_opt_s_hard_light",
+						"value" : "hard-light"
+					},
+					{
+						"label" : "ui_blending_opt_s_soft_light",
+						"value" : "soft-light"
+					},
+					{
+						"label" : "ui_blending_opt_s_difference",
+						"value" : "difference"
+					},
+					{
+						"label" : "ui_blending_opt_s_exclusion",
+						"value" : "exclusion"
+					},
+					{
+						"label" : "ui_blending_opt_s_hue",
+						"value" : "hue"
+					},
+					{
+						"label" : "ui_blending_opt_s_saturation",
+						"value" : "saturation"
+					},
+					{
+						"label" : "ui_blending_opt_s_color",
+						"value" : "color"
+					},
+					{
+						"label" : "ui_blending_opt_s_luminosity",
+						"value" : "luminosity"
+					}
+				],
+				"order" : 161,
+				"text" : "ui_blending",
+				"type" : "combo",
+				"value" : "normal"
+			},
+			"blur" : 
+			{
+				"max" : 10,
+				"min" : 0,
+				"order" : 160,
+				"text" : "ui_blur",
+				"type" : "slider",
+				"value" : 0
+			},
+			"blurLabel" : 
+			{
+				"order" : 159,
+				"text" : "ui_blurLabel",
+				"type" : "text",
+				"value" : false
+			},
+			"colorRotation" : 
+			{
+				"order" : 155,
+				"text" : "ui_colorRotation",
+				"type" : "text"
+			},
+			"colorRotationSkip" : 
+			{
+				"condition" : "colorRotationUse.value == true",
+				"max" : 60,
+				"min" : 1,
+				"order" : 158,
+				"text" : "ui_colorRotationSkip",
+				"type" : "slider",
+				"value" : 10
+			},
+			"colorRotationSpeed" : 
+			{
+				"condition" : "colorRotationUse.value == true",
+				"max" : 1000,
+				"min" : 1,
+				"order" : 157,
+				"text" : "ui_colorRotationSpeed",
+				"type" : "slider",
+				"value" : 100
+			},
+			"colorRotationUse" : 
+			{
+				"order" : 156,
+				"text" : "ui_colorRotationUse",
+				"type" : "bool",
+				"value" : false
+			},
+			"disableNormalizing" : 
+			{
+				"order" : 150,
+				"text" : "ui_disableNormalizing",
+				"type" : "bool",
+				"value" : true
+			},
+			"hideWhenSilent" : 
+			{
+				"options" : 
+				[
+					{
+						"label" : "ui_hideWhenSilent_opt_b_false",
+						"value" : false
+					},
+					{
+						"label" : "ui_hideWhenSilent_opt_b_true",
+						"value" : true
+					},
+					{
+						"label" : "ui_hideWhenSilent_opt_i_1",
+						"value" : 1
+					}
+				],
+				"order" : 153,
+				"text" : "ui_hideWhenSilent",
+				"type" : "combo",
+				"value" : 1
+			},
+			"hideWhenSilentThreshold" : 
+			{
+				"max" : 100,
+				"min" : 1,
+				"order" : 154,
+				"text" : "ui_hideWhenSilentThreshold",
+				"type" : "slider",
+				"value" : 1
+			},
+			"led0_b0_backgroundColor" : 
+			{
+				"order" : 131,
+				"text" : "ui_led0_b0_backgroundColor",
+				"type" : "color",
+				"value" : "0 0 0.125"
+			},
+			"led0_b0_backgroundColor_" : 
+			{
+				"order" : 129,
+				"text" : "ui_led0_b0_backgroundColor_",
+				"type" : "text"
+			},
+			"led0_b0_backgroundSize" : 
+			{
+				"condition" : "led0_b0_backgroundSource.value == '' || led0_b0_backgroundSource.value == 'video' || led0_b0_backgroundSource.value == 'image' || led0_b0_backgroundSource.value == 'slideshow'",
+				"options" : 
+				[
+					{
+						"label" : "ui_led0_b0_backgroundSize_opt_s_cover",
+						"value" : "cover"
+					},
+					{
+						"label" : "ui_led0_b0_backgroundSize_opt_s_contain",
+						"value" : "contain"
+					}
+				],
+				"order" : 105,
+				"text" : "ui_led0_b0_backgroundSize",
+				"type" : "combo",
+				"value" : "cover"
+			},
+			"led0_b0_backgroundSource" : 
+			{
+				"options" : 
+				[
+					{
+						"label" : "ui_led0_b0_backgroundSource_opt_s_",
+						"value" : ""
+					},
+					{
+						"label" : "ui_led0_b0_backgroundSource_opt_s_none",
+						"value" : "none"
+					},
+					{
+						"label" : "ui_led0_b0_backgroundSource_opt_s_image",
+						"value" : "image"
+					},
+					{
+						"label" : "ui_led0_b0_backgroundSource_opt_s_video",
+						"value" : "video"
+					},
+					{
+						"label" : "ui_led0_b0_backgroundSource_opt_s_slideshow",
+						"value" : "slideshow"
+					}
+				],
+				"order" : 100,
+				"text" : "ui_led0_b0_backgroundSource",
+				"type" : "combo",
+				"value" : ""
+			},
+			"led0_b0_backgroundV" : 
+			{
+				"condition" : "led0_b0_backgroundSource.value == '' || led0_b0_backgroundSource.value == 'video'",
+				"order" : 101,
+				"text" : "ui_led0_b0_backgroundV",
+				"type" : "text"
+			},
+			"led0_b0_backgroundVideo" : 
+			{
+				"condition" : "led0_b0_backgroundSource.value == '' || led0_b0_backgroundSource.value == 'video'",
+				"fileType" : "video",
+				"order" : 102,
+				"text" : "ui_led0_b0_backgroundVideo",
+				"type" : "file",
+				"value" : ""
+			},
+			"led0_b0_backgroundVideoVolume" : 
+			{
+				"condition" : "led0_b0_backgroundSource.value == '' || led0_b0_backgroundSource.value == 'video'",
+				"max" : 100,
+				"min" : 0,
+				"order" : 103,
+				"text" : "ui_led0_b0_backgroundVideoVolume",
+				"type" : "slider",
+				"value" : 0
+			},
+			"led0_b1_backgroundColor" : 
+			{
+				"condition" : "led0_b3_backgroundColorCount.value > 1",
+				"order" : 132,
+				"text" : "ui_led0_b1_backgroundColor",
+				"type" : "color",
+				"value" : "0.125 0 0.125"
+			},
+			"led0_b2_backgroundColor" : 
+			{
+				"condition" : "led0_b3_backgroundColorCount.value > 2",
+				"order" : 133,
+				"text" : "ui_led0_b2_backgroundColor",
+				"type" : "color",
+				"value" : "0 0 0.125"
+			},
+			"led0_b3_backgroundColorCount" : 
+			{
+				"max" : 3,
+				"min" : 1,
+				"order" : 130,
+				"text" : "ui_led0_b3_backgroundColorCount",
+				"type" : "slider",
+				"value" : 1
+			},
+			"led0_b4_backgroundHorizontal" : 
+			{
+				"condition" : "led0_b3_backgroundColorCount.value > 1",
+				"options" : 
+				[
+					{
+						"label" : "ui_led0_b4_backgroundHorizontal_opt_s_linear_left",
+						"value" : "linear,left"
+					},
+					{
+						"label" : "ui_led0_b4_backgroundHorizontal_opt_s_linear_top",
+						"value" : "linear,top"
+					},
+					{
+						"label" : "ui_led0_b4_backgroundHorizontal_opt_s_radial_center_center_circle_cover",
+						"value" : "radial,center center,circle cover"
+					},
+					{
+						"label" : "ui_led0_b4_backgroundHorizontal_opt_s_radial_center_center_ellipse_cover",
+						"value" : "radial,center center,ellipse cover"
+					}
+				],
+				"order" : 134,
+				"text" : "ui_led0_b4_backgroundHorizontal",
+				"type" : "combo",
+				"value" : "linear,top"
+			},
+			"led1_startColor" : 
+			{
+				"order" : 137,
+				"text" : "ui_led1_startColor",
+				"type" : "color",
+				"value" : "0.792156862745098 0.5019607843137255 0.8823529411764706"
+			},
+			"led1_startColor-Label" : 
+			{
+				"order" : 135,
+				"text" : "ui_led1_startColor_Label",
+				"type" : "text",
+				"value" : false
+			},
+			"led2_endColor" : 
+			{
+				"order" : 138,
+				"text" : "ui_led2_endColor",
+				"type" : "color",
+				"value" : "0.2901960784313726 0.4235294117647059 0.9333333333333333"
+			},
+			"led3_ledOpacity" : 
+			{
+				"max" : 100,
+				"min" : 0,
+				"order" : 141,
+				"text" : "ui_led3_ledOpacity",
+				"type" : "slider",
+				"value" : 70
+			},
+			"led3_startColor" : 
+			{
+				"condition" : "led_use4Colors.value == true",
+				"order" : 139,
+				"text" : "ui_led3_startColor",
+				"type" : "color",
+				"value" : "0.24705882352941178 0.8156862745098039 0.7411764705882353"
+			},
+			"led4_endColor" : 
+			{
+				"condition" : "led_use4Colors.value == true",
+				"order" : 140,
+				"text" : "ui_led4_endColor",
+				"type" : "color",
+				"value" : "0.6470588235294118 0.11764705882352941 0.32941176470588235"
+			},
+			"led4_peakOpacity" : 
+			{
+				"max" : 100,
+				"min" : 0,
+				"order" : 142,
+				"text" : "ui_led4_peakOpacity",
+				"type" : "slider",
+				"value" : 0
+			},
+			"led5_dropRate" : 
+			{
+				"max" : 500,
+				"min" : 10,
+				"order" : 143,
+				"text" : "ui_led5_dropRate",
+				"type" : "slider",
+				"value" : 63
+			},
+			"led6_orientation" : 
+			{
+				"options" : 
+				[
+					{
+						"label" : "ui_led6_orientation_opt_i_1",
+						"value" : 1
+					},
+					{
+						"label" : "ui_led6_orientation_opt_i_2",
+						"value" : 2
+					},
+					{
+						"label" : "ui_led6_orientation_opt_i_7",
+						"value" : 7
+					},
+					{
+						"label" : "ui_led6_orientation_opt_i_8",
+						"value" : 8
+					},
+					{
+						"label" : "ui_led6_orientation_opt_i_3",
+						"value" : 3
+					},
+					{
+						"label" : "ui_led6_orientation_opt_i_6",
+						"value" : 6
+					},
+					{
+						"label" : "ui_led6_orientation_opt_i_4",
+						"value" : 4
+					},
+					{
+						"label" : "ui_led6_orientation_opt_i_5",
+						"value" : 5
+					}
+				],
+				"order" : 144,
+				"text" : "ui_led6_orientation",
+				"type" : "combo",
+				"value" : 1
+			},
+			"led7_ledStroke" : 
+			{
+				"options" : 
+				[
+					{
+						"label" : "ui_led7_ledStroke_opt_i_0",
+						"value" : 0
+					},
+					{
+						"label" : "ui_led7_ledStroke_opt_i_1",
+						"value" : 1
+					}
+				],
+				"order" : 148,
+				"text" : "ui_led7_ledStroke",
+				"type" : "combo",
+				"value" : 0
+			},
+			"led7_ledType" : 
+			{
+				"options" : 
+				[
+					{
+						"label" : "ui_led7_ledType_opt_i_1",
+						"value" : 1
+					},
+					{
+						"label" : "ui_led7_ledType_opt_i_2",
+						"value" : 2
+					},
+					{
+						"label" : "ui_led7_ledType_opt_i_3",
+						"value" : 3
+					},
+					{
+						"label" : "ui_led7_ledType_opt_i_4",
+						"value" : 4
+					},
+					{
+						"label" : "ui_led7_ledType_opt_i_5",
+						"value" : 5
+					}
+				],
+				"order" : 147,
+				"text" : "ui_led7_ledType",
+				"type" : "combo",
+				"value" : 1
+			},
+			"led7_ledbarCount" : 
+			{
+				"options" : 
+				[
+					{
+						"label" : "ui_led7_ledbarCount_opt_i_1",
+						"value" : 1
+					},
+					{
+						"label" : "ui_led7_ledbarCount_opt_i_2",
+						"value" : 2
+					},
+					{
+						"label" : "ui_led7_ledbarCount_opt_i_3",
+						"value" : 3
+					},
+					{
+						"label" : "ui_led7_ledbarCount_opt_i_4",
+						"value" : 4
+					}
+				],
+				"order" : 145,
+				"text" : "ui_led7_ledbarCount",
+				"type" : "combo",
+				"value" : 4
+			},
+			"led7_ledsizeRatio" : 
+			{
+				"max" : 7,
+				"min" : 1,
+				"order" : 146,
+				"text" : "ui_led7_ledsizeRatio",
+				"type" : "slider",
+				"value" : 4
+			},
+			"led_use4Colors" : 
+			{
+				"order" : 136,
+				"text" : "ui_led_use4Colors",
+				"type" : "bool",
+				"value" : true
+			},
+			"marginBottom" : 
+			{
+				"condition" : "tr_switch.value == 2",
+				"editable" : true,
+				"max" : 200,
+				"min" : 0,
+				"order" : 188,
+				"text" : "ui_marginBottom",
+				"type" : "slider",
+				"value" : 0
+			},
+			"marginLeft" : 
+			{
+				"condition" : "tr_switch.value == 2",
+				"editable" : true,
+				"max" : 200,
+				"min" : 0,
+				"order" : 185,
+				"text" : "ui_marginLeft",
+				"type" : "slider",
+				"value" : 0
+			},
+			"marginRight" : 
+			{
+				"condition" : "tr_switch.value == 2",
+				"editable" : true,
+				"max" : 200,
+				"min" : 0,
+				"order" : 186,
+				"text" : "ui_marginRight",
+				"type" : "slider",
+				"value" : 0
+			},
+			"marginTop" : 
+			{
+				"condition" : "tr_switch.value == 2",
+				"editable" : true,
+				"max" : 200,
+				"min" : 0,
+				"order" : 187,
+				"text" : "ui_marginTop",
+				"type" : "slider",
+				"value" : 0
+			},
+			"margins" : 
+			{
+				"condition" : "tr_switch.value == 2",
+				"order" : 184,
+				"text" : "ui_margins",
+				"type" : "text",
+				"value" : false
+			},
+			"reverseAudioData" : 
+			{
+				"order" : 149,
+				"text" : "ui_reverseAudioData",
+				"type" : "bool",
+				"value" : false
+			},
+			"schemecolor" : 
+			{
+				"order" : -1,
+				"text" : "ui_schemecolor",
+				"type" : "color",
+				"value" : "0.06274509803921569 0.12549019607843137 0.1568627450980392"
+			},
+			"slideshow" : 
+			{
+				"condition" : "led0_b0_backgroundSource.value == '' || led0_b0_backgroundSource.value == 'slideshow'",
+				"order" : 106,
+				"text" : "ui_slideshow",
+				"type" : "text"
+			},
+			"slideshowFolder" : 
+			{
+				"condition" : "led0_b0_backgroundSource.value == '' || led0_b0_backgroundSource.value == 'slideshow'",
+				"mode" : "fetchall",
+				"order" : 107,
+				"text" : "ui_slideshowFolder",
+				"type" : "directory"
+			},
+			"slideshowInterval" : 
+			{
+				"condition" : "led0_b0_backgroundSource.value == '' || led0_b0_backgroundSource.value == 'slideshow'",
+				"max" : 120,
+				"min" : 1,
+				"order" : 108,
+				"text" : "ui_slideshowInterval",
+				"type" : "slider",
+				"value" : 5
+			},
+			"slideshowIntervalMultiplier" : 
+			{
+				"condition" : "led0_b0_backgroundSource.value == '' || led0_b0_backgroundSource.value == 'slideshow'",
+				"options" : 
+				[
+					{
+						"label" : "ui_slideshowIntervalMultiplier_opt_i_1",
+						"value" : 1
+					},
+					{
+						"label" : "ui_slideshowIntervalMultiplier_opt_i_60",
+						"value" : 60
+					},
+					{
+						"label" : "ui_slideshowIntervalMultiplier_opt_i_3600",
+						"value" : 3600
+					}
+				],
+				"order" : 109,
+				"text" : "ui_slideshowIntervalMultiplier",
+				"type" : "combo",
+				"value" : 1
+			},
+			"slideshowShowTransitions" : 
+			{
+				"condition" : "slideshowUseTransitions.value && (led0_b0_backgroundSource.value == '' || led0_b0_backgroundSource.value == 'slideshow')",
+				"order" : 112,
+				"text" : "ui_slideshowShowTransitions",
+				"type" : "bool",
+				"value" : false
+			},
+			"slideshowTransFade" : 
+			{
+				"condition" : "slideshowUseTransitions.value && slideshowShowTransitions.value && (led0_b0_backgroundSource.value == '' || led0_b0_backgroundSource.value == 'slideshow')",
+				"order" : 114,
+				"text" : "ui_slideshowTransFade",
+				"type" : "bool",
+				"value" : true
+			},
+			"slideshowTransMoveBottom" : 
+			{
+				"condition" : "slideshowUseTransitions.value && slideshowShowTransitions.value && (led0_b0_backgroundSource.value == '' || led0_b0_backgroundSource.value == 'slideshow')",
+				"order" : 124,
+				"text" : "ui_slideshowTransMoveBottom",
+				"type" : "bool",
+				"value" : true
+			},
+			"slideshowTransMoveLeft" : 
+			{
+				"condition" : "slideshowUseTransitions.value && slideshowShowTransitions.value && (led0_b0_backgroundSource.value == '' || led0_b0_backgroundSource.value == 'slideshow')",
+				"order" : 121,
+				"text" : "ui_slideshowTransMoveLeft",
+				"type" : "bool",
+				"value" : true
+			},
+			"slideshowTransMoveRight" : 
+			{
+				"condition" : "slideshowUseTransitions.value && slideshowShowTransitions.value && (led0_b0_backgroundSource.value == '' || led0_b0_backgroundSource.value == 'slideshow')",
+				"order" : 122,
+				"text" : "ui_slideshowTransMoveRight",
+				"type" : "bool",
+				"value" : true
+			},
+			"slideshowTransMoveTop" : 
+			{
+				"condition" : "slideshowUseTransitions.value && slideshowShowTransitions.value && (led0_b0_backgroundSource.value == '' || led0_b0_backgroundSource.value == 'slideshow')",
+				"order" : 123,
+				"text" : "ui_slideshowTransMoveTop",
+				"type" : "bool",
+				"value" : true
+			},
+			"slideshowTransShuffleBottom" : 
+			{
+				"condition" : "slideshowUseTransitions.value && slideshowShowTransitions.value && (led0_b0_backgroundSource.value == '' || led0_b0_backgroundSource.value == 'slideshow')",
+				"order" : 128,
+				"text" : "ui_slideshowTransShuffleBottom",
+				"type" : "bool",
+				"value" : true
+			},
+			"slideshowTransShuffleLeft" : 
+			{
+				"condition" : "slideshowUseTransitions.value && slideshowShowTransitions.value && (led0_b0_backgroundSource.value == '' || led0_b0_backgroundSource.value == 'slideshow')",
+				"order" : 125,
+				"text" : "ui_slideshowTransShuffleLeft",
+				"type" : "bool",
+				"value" : true
+			},
+			"slideshowTransShuffleRight" : 
+			{
+				"condition" : "slideshowUseTransitions.value && slideshowShowTransitions.value && (led0_b0_backgroundSource.value == '' || led0_b0_backgroundSource.value == 'slideshow')",
+				"order" : 126,
+				"text" : "ui_slideshowTransShuffleRight",
+				"type" : "bool",
+				"value" : true
+			},
+			"slideshowTransShuffleTop" : 
+			{
+				"condition" : "slideshowUseTransitions.value && slideshowShowTransitions.value && (led0_b0_backgroundSource.value == '' || led0_b0_backgroundSource.value == 'slideshow')",
+				"order" : 127,
+				"text" : "ui_slideshowTransShuffleTop",
+				"type" : "bool",
+				"value" : true
+			},
+			"slideshowTransZoomHorzIn" : 
+			{
+				"condition" : "slideshowUseTransitions.value && slideshowShowTransitions.value && (led0_b0_backgroundSource.value == '' || led0_b0_backgroundSource.value == 'slideshow')",
+				"order" : 117,
+				"text" : "ui_slideshowTransZoomHorzIn",
+				"type" : "bool",
+				"value" : true
+			},
+			"slideshowTransZoomHorzOut" : 
+			{
+				"condition" : "slideshowUseTransitions.value && slideshowShowTransitions.value && (led0_b0_backgroundSource.value == '' || led0_b0_backgroundSource.value == 'slideshow')",
+				"order" : 118,
+				"text" : "ui_slideshowTransZoomHorzOut",
+				"type" : "bool",
+				"value" : true
+			},
+			"slideshowTransZoomIn" : 
+			{
+				"condition" : "slideshowUseTransitions.value && slideshowShowTransitions.value && (led0_b0_backgroundSource.value == '' || led0_b0_backgroundSource.value == 'slideshow')",
+				"order" : 115,
+				"text" : "ui_slideshowTransZoomIn",
+				"type" : "bool",
+				"value" : true
+			},
+			"slideshowTransZoomOut" : 
+			{
+				"condition" : "slideshowUseTransitions.value && slideshowShowTransitions.value && (led0_b0_backgroundSource.value == '' || led0_b0_backgroundSource.value == 'slideshow')",
+				"order" : 116,
+				"text" : "ui_slideshowTransZoomOut",
+				"type" : "bool",
+				"value" : true
+			},
+			"slideshowTransZoomVertIn" : 
+			{
+				"condition" : "slideshowUseTransitions.value && slideshowShowTransitions.value && (led0_b0_backgroundSource.value == '' || led0_b0_backgroundSource.value == 'slideshow')",
+				"order" : 119,
+				"text" : "ui_slideshowTransZoomVertIn",
+				"type" : "bool",
+				"value" : true
+			},
+			"slideshowTransZoomVertOut" : 
+			{
+				"condition" : "slideshowUseTransitions.value && slideshowShowTransitions.value && (led0_b0_backgroundSource.value == '' || led0_b0_backgroundSource.value == 'slideshow')",
+				"order" : 120,
+				"text" : "ui_slideshowTransZoomVertOut",
+				"type" : "bool",
+				"value" : true
+			},
+			"slideshowTrans_" : 
+			{
+				"condition" : "slideshowUseTransitions.value && slideshowShowTransitions.value && (led0_b0_backgroundSource.value == '' || led0_b0_backgroundSource.value == 'slideshow')",
+				"order" : 113,
+				"text" : "ui_slideshowTrans_",
+				"type" : "text"
+			},
+			"slideshowTransitionDuration" : 
+			{
+				"condition" : "led0_b0_backgroundSource.value == '' || led0_b0_backgroundSource.value == 'slideshow'",
+				"max" : 10,
+				"min" : 0,
+				"order" : 110,
+				"text" : "ui_slideshowTransitionDuration",
+				"type" : "slider",
+				"value" : 2
+			},
+			"slideshowUseTransitions" : 
+			{
+				"condition" : "led0_b0_backgroundSource.value == '' || led0_b0_backgroundSource.value == 'slideshow'",
+				"order" : 111,
+				"text" : "ui_slideshowUseTransitions",
+				"type" : "bool",
+				"value" : false
+			},
+			"smoothingFactor" : 
+			{
+				"options" : 
+				[
+					{
+						"label" : "ui_smoothingFactor_opt_i_0",
+						"value" : 0
+					},
+					{
+						"label" : "ui_smoothingFactor_opt_i_1",
+						"value" : 1
+					},
+					{
+						"label" : "ui_smoothingFactor_opt_i_2",
+						"value" : 2
+					},
+					{
+						"label" : "ui_smoothingFactor_opt_i_3",
+						"value" : 3
+					}
+				],
+				"order" : 152,
+				"text" : "ui_smoothingFactor",
+				"type" : "combo",
+				"value" : 2
+			},
+			"tr2_bl_x" : 
+			{
+				"condition" : "tr_switch.value == 1",
+				"editable" : true,
+				"max" : 5000,
+				"min" : -5000,
+				"order" : 180,
+				"text" : "ui_tr2_bl_x",
+				"type" : "slider",
+				"value" : -444
+			},
+			"tr2_bl_y" : 
+			{
+				"condition" : "tr_switch.value == 1",
+				"editable" : true,
+				"max" : 5000,
+				"min" : -5000,
+				"order" : 181,
+				"text" : "ui_tr2_bl_y",
+				"type" : "slider",
+				"value" : 30
+			},
+			"tr2_br_x" : 
+			{
+				"condition" : "tr_switch.value == 1",
+				"editable" : true,
+				"max" : 5000,
+				"min" : -5000,
+				"order" : 182,
+				"text" : "ui_tr2_br_x",
+				"type" : "slider",
+				"value" : 500
+			},
+			"tr2_br_y" : 
+			{
+				"condition" : "tr_switch.value == 1",
+				"editable" : true,
+				"max" : 5000,
+				"min" : -5000,
+				"order" : 183,
+				"text" : "ui_tr2_br_y",
+				"type" : "slider",
+				"value" : 220
+			},
+			"tr2_tl_x" : 
+			{
+				"condition" : "tr_switch.value == 1",
+				"editable" : true,
+				"max" : 5000,
+				"min" : -5000,
+				"order" : 176,
+				"text" : "ui_tr2_tl_x",
+				"type" : "slider",
+				"value" : -444
+			},
+			"tr2_tl_y" : 
+			{
+				"condition" : "tr_switch.value == 1",
+				"editable" : true,
+				"max" : 5000,
+				"min" : -5000,
+				"order" : 177,
+				"text" : "ui_tr2_tl_y",
+				"type" : "slider",
+				"value" : -529
+			},
+			"tr2_tr_x" : 
+			{
+				"condition" : "tr_switch.value == 1",
+				"editable" : true,
+				"max" : 5000,
+				"min" : -5000,
+				"order" : 178,
+				"text" : "ui_tr2_tr_x",
+				"type" : "slider",
+				"value" : 500
+			},
+			"tr2_tr_y" : 
+			{
+				"condition" : "tr_switch.value == 1",
+				"editable" : true,
+				"max" : 5000,
+				"min" : -5000,
+				"order" : 179,
+				"text" : "ui_tr2_tr_y",
+				"type" : "slider",
+				"value" : -529
+			},
+			"tr_bl_x" : 
+			{
+				"condition" : "tr_switch.value == 0",
+				"editable" : true,
+				"max" : 1000,
+				"min" : -1000,
+				"order" : 171,
+				"text" : "ui_tr_bl_x",
+				"type" : "slider",
+				"value" : 0
+			},
+			"tr_bl_y" : 
+			{
+				"condition" : "tr_switch.value == 0",
+				"editable" : true,
+				"max" : 1000,
+				"min" : -1000,
+				"order" : 172,
+				"text" : "ui_tr_bl_y",
+				"type" : "slider",
+				"value" : 0
+			},
+			"tr_br_x" : 
+			{
+				"condition" : "tr_switch.value == 0",
+				"editable" : true,
+				"max" : 1000,
+				"min" : -1000,
+				"order" : 173,
+				"text" : "ui_tr_br_x",
+				"type" : "slider",
+				"value" : 0
+			},
+			"tr_br_y" : 
+			{
+				"condition" : "tr_switch.value == 0",
+				"editable" : true,
+				"max" : 1000,
+				"min" : -1000,
+				"order" : 174,
+				"text" : "ui_tr_br_y",
+				"type" : "slider",
+				"value" : 0
+			},
+			"tr_showPositionIndicator" : 
+			{
+				"order" : 165,
+				"text" : "ui_tr_showPositionIndicator",
+				"type" : "bool",
+				"value" : true
+			},
+			"tr_switch" : 
+			{
+				"options" : 
+				[
+					{
+						"label" : "ui_tr_switch_opt_i_2",
+						"value" : 2
+					},
+					{
+						"label" : "ui_tr_switch_opt_i_0",
+						"value" : 0
+					},
+					{
+						"label" : "ui_tr_switch_opt_i_1",
+						"value" : 1
+					}
+				],
+				"order" : 163,
+				"text" : "ui_tr_switch",
+				"type" : "combo",
+				"value" : 1
+			},
+			"tr_tl_0" : 
+			{
+				"order" : 162,
+				"text" : "ui_tr_tl_0",
+				"type" : "text"
+			},
+			"tr_tl_01" : 
+			{
+				"order" : 164,
+				"text" : "ui_tr_tl_01",
+				"type" : "text"
+			},
+			"tr_tl_1" : 
+			{
+				"condition" : "tr_switch.value == 0",
+				"order" : 166,
+				"text" : "ui_tr_tl_1",
+				"type" : "text"
+			},
+			"tr_tl_2" : 
+			{
+				"condition" : "tr_switch.value == 1",
+				"order" : 175,
+				"text" : "ui_tr_tl_2",
+				"type" : "text"
+			},
+			"tr_tl_x" : 
+			{
+				"condition" : "tr_switch.value == 0",
+				"editable" : true,
+				"max" : 1000,
+				"min" : -1000,
+				"order" : 167,
+				"text" : "ui_tr_tl_x",
+				"type" : "slider",
+				"value" : 0
+			},
+			"tr_tl_y" : 
+			{
+				"condition" : "tr_switch.value == 0",
+				"editable" : true,
+				"max" : 1000,
+				"min" : -1000,
+				"order" : 168,
+				"text" : "ui_tr_tl_y",
+				"type" : "slider",
+				"value" : 0
+			},
+			"tr_tr_x" : 
+			{
+				"condition" : "tr_switch.value == 0",
+				"editable" : true,
+				"max" : 1000,
+				"min" : -1000,
+				"order" : 169,
+				"text" : "ui_tr_tr_x",
+				"type" : "slider",
+				"value" : 0
+			},
+			"tr_tr_y" : 
+			{
+				"condition" : "tr_switch.value == 0",
+				"editable" : true,
+				"max" : 1000,
+				"min" : -1000,
+				"order" : 170,
+				"text" : "ui_tr_tr_y",
+				"type" : "slider",
+				"value" : 0
+			},
+			"translation_contributors" : 
+			{
+				"order" : 189,
+				"text" : "ui_translation_contributors",
+				"type" : "text"
+			},
+			"ui_banner_animation_delay" : 
+			{
+				"order" : 206,
+				"text" : "Banner Animation Delay (use positive values without images)",
+				"type" : "textinput",
+				"value" : "-130"
+			},
+			"ui_banner_animation_duration" : 
+			{
+				"order" : 205,
+				"text" : "Banner Animation Duration(s)",
+				"type" : "textinput",
+				"value" : "12"
+			},
+			"ui_banner_offsetx" : 
+			{
+				"fraction" : true,
+				"max" : 100,
+				"min" : 0,
+				"order" : 200,
+				"precision" : 2,
+				"step" : 0.10000000000000001,
+				"text" : "Banner X Offset",
+				"type" : "slider",
+				"value" : 57.700000000000003
+			},
+			"ui_banner_offsety" : 
+			{
+				"fraction" : true,
+				"max" : 100,
+				"min" : 0,
+				"order" : 201,
+				"precision" : 2,
+				"step" : 0.10000000000000001,
+				"text" : "Banner Y Offset",
+				"type" : "slider",
+				"value" : 32.799999999999997
+			},
+			"ui_banner_scale" : 
+			{
+				"fraction" : true,
+				"max" : 200,
+				"min" : 0,
+				"order" : 202,
+				"precision" : 2,
+				"step" : 0.10000000000000001,
+				"text" : "Banner Scale",
+				"type" : "slider",
+				"value" : 100
+			},
+			"ui_banner_text" : 
+			{
+				"order" : 203,
+				"text" : "Banner Text",
+				"type" : "textinput",
+				"value" : "<img src=\"image_icon.png\" height=\"26\"/> SMALL IMAGES ARE SUPPORTED WITH < IMG >TAG <img src=\"image_icon.png\" height=\"26\"/> EMOJIS TOO 🏳️‍🌈"
+			},
+			"ui_banner_text_color" : 
+			{
+				"order" : 204,
+				"text" : "Banner Text Color",
+				"type" : "color",
+				"value" : "0.8588235294117647 0.4745098039215686 0.3686274509803922"
+			},
+			"ui_banner_text_size" : 
+			{
+				"order" : 207,
+				"text" : "Banner Font Size (use 2.35 without emojis)",
+				"type" : "textinput",
+				"value" : "2"
+			},
+			"ui_banner_text_top_padding" : 
+			{
+				"order" : 208,
+				"text" : "Banner Text Top Margin",
+				"type" : "textinput",
+				"value" : "-0.45"
+			},
+			"ui_banner_visibility" : 
+			{
+				"order" : 199,
+				"text" : "Banner Visibility",
+				"type" : "bool",
+				"value" : true
+			},
+			"ui_clock_color" : 
+			{
+				"order" : 191,
+				"text" : "Clock Color",
+				"type" : "color",
+				"value" : "0.24705882352941178 0.9647058823529412 0.9137254901960784"
+			},
+			"ui_clock_offsetx" : 
+			{
+				"fraction" : true,
+				"max" : 100,
+				"min" : 0,
+				"order" : 192,
+				"precision" : 2,
+				"step" : 0.10000000000000001,
+				"text" : "Clock Offset X",
+				"type" : "slider",
+				"value" : 80
+			},
+			"ui_clock_offsety" : 
+			{
+				"fraction" : true,
+				"max" : 100,
+				"min" : 0,
+				"order" : 193,
+				"precision" : 2,
+				"step" : 0.10000000000000001,
+				"text" : "Clock Offset Y",
+				"type" : "slider",
+				"value" : 64
+			},
+			"ui_clock_perspective" : 
+			{
+				"fraction" : false,
+				"max" : 1000,
+				"min" : 0,
+				"order" : 194,
+				"text" : "Clock Perspective Strength",
+				"type" : "slider",
+				"value" : 300
+			},
+			"ui_clock_rotationx" : 
+			{
+				"fraction" : false,
+				"max" : 360,
+				"min" : 0,
+				"order" : 195,
+				"text" : "Clock X Rotation",
+				"type" : "slider",
+				"value" : 350
+			},
+			"ui_clock_rotationy" : 
+			{
+				"fraction" : false,
+				"max" : 360,
+				"min" : 0,
+				"order" : 196,
+				"text" : "Clock Y Rotation",
+				"type" : "slider",
+				"value" : 320
+			},
+			"ui_clock_rotationz" : 
+			{
+				"fraction" : false,
+				"max" : 360,
+				"min" : 0,
+				"order" : 197,
+				"text" : "Clock Z Rotation",
+				"type" : "slider",
+				"value" : 12
+			},
+			"ui_clock_scale" : 
+			{
+				"fraction" : false,
+				"max" : 200,
+				"min" : 0,
+				"order" : 198,
+				"text" : "Clock Scale",
+				"type" : "slider",
+				"value" : 90
+			},
+			"ui_clock_system_toggle" : 
+			{
+				"order" : 209,
+				"text" : "Use System Clock",
+				"type" : "bool",
+				"value" : true
+			},
+			"ui_clock_transparency" : 
+			{
+				"fraction" : false,
+				"max" : 100,
+				"min" : 0,
+				"order" : 190,
+				"text" : "Clock Transparency",
+				"type" : "slider",
+				"value" : 80
+			},
+			"ui_clock_hours" : 
+			{
+				"order" : 210,
+				"text" : "Custom Clock Hours",
+				"type" : "textinput",
+				"value" : "2"
+			},
+			"ui_clock_minutes" : 
+			{
+				"order" : 211,
+				"text" : "Custom Clock Minutes",
+				"type" : "textinput",
+				"value" : "00"
+			},
+			"ui_clock_month" : 
+			{
+				"order" : 212,
+				"text" : "Custom Clock Month",
+				"type" : "textinput",
+				"value" : "April"
+			},
+			"ui_clock_day" : 
+			{
+				"order" : 213,
+				"text" : "Custom Clock Day",
+				"type" : "textinput",
+				"value" : "20"
+			},
+			"ui_clock_year" : 
+			{
+				"order" : 214,
+				"text" : "Custom Clock Year",
+				"type" : "textinput",
+				"value" : "2077"
+			}
+
+		},
+		"supportsaudioprocessing" : true
+	},
+	"preview" : "preview.gif",
+	"tags" : [ "Cyberpunk" ],
+	"title" : "2AM Cyberpunk City /w System Clock and Customizable Skyscraper Text",
+	"type" : "web",
+	"visibility" : "public",
+	"workshopid" : "1747779570"
+}

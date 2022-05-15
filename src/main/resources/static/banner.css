@@ -1,0 +1,94 @@
+
+#banner{
+	font-size: 0;
+	top: 33.5%;
+	left: 58.3%;
+	position: absolute;
+	font-family: 'Yantramanav', sans-serif;
+    z-index: 11;
+	font-weight: 100;
+}
+#banner div{
+	--background-color: #1b1d29;
+	--text-color: #db795e;
+	--display-pixels: #db795e33;
+	margin: 0;
+	padding: 0;
+	display: inline-block;
+	height: 1.8rem;
+	position: relative;
+	color: var(--text-color);
+	overflow: hidden;
+	text-shadow: 0 0 5px var(--text-color);
+    background-color: var(--background-color);
+    background-image: repeating-linear-gradient(to bottom, transparent, transparent 1px, var(--background-color) 1px, var(--background-color) 2px),
+    repeating-linear-gradient(to right, var(--display-pixels), var(--display-pixels) 1px, var(--background-color) 1px, var(--background-color) 2px);
+}
+
+#banner div:first-of-type { 
+	width: 0.75rem;
+	transform: skewY(35deg);
+}
+#banner div:nth-of-type(2) {
+	width: 12.3rem;
+	transform-origin: top left;
+	top: 0.25rem;
+	transform: skewY(8.5deg);
+}
+#banner div:last-of-type {
+	width: 2.35rem;
+	transform-origin: top left;
+	top:2.1rem; 
+	transform: skewY(-5deg);
+}
+  
+#banner div span{
+	margin-top: -0.45rem;
+    position: absolute; 
+    font-size: 2.45rem;
+}
+#banner div:first-of-type span { 
+	width: 3333.33%;   
+	animation: marquee1 10s linear infinite;	
+
+}
+#banner div:nth-of-type(2) span { 
+	width: 203.25%;   
+	animation: marquee2 10s linear infinite;
+}
+#banner div:last-of-type span { 
+	width: 1063.83%;   
+	animation: marquee3 10s linear infinite;
+}
+
+@keyframes marquee3 {
+	from {
+		transform: translateX(10%);
+	}
+
+	to {
+		transform: translateX(-152.2%);
+	}
+}
+@keyframes marquee2 {
+	from {
+		transform: translateX(59.2%);
+	}
+
+	to {
+		transform: translateX(-103%);
+	}
+}
+@keyframes marquee1 {
+	from {
+		transform: translateX(62.2%);
+	}
+
+	to {
+		transform: translateX(-100%);
+	}
+}
+
+video{
+	z-index: 1000;
+}

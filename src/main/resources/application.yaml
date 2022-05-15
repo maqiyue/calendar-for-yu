@@ -1,0 +1,6 @@
+spring:
+  data:
+    mongodb:
+      uri: mongodb://47.93.52.234:27017/cfy
+server:
+  port: 8080

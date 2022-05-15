@@ -1,0 +1,1529 @@
+[Rainmeter]
+@Include=icon.inc
+Update=200
+RightMouseUpAction=[!SkinCustomMenu]
+
+
+[Variables]
+w1 = 
+w2 = 
+w3 = 
+FontFace=IMPACT
+FontColor=255,255,255,200
+icon0101 = 'dllicons\1\[ImageNumberCalc].png'
+text0101 = ""
+
+
+icon0102 = 'dllicons\2\[ImageNumberCalc].png'
+text0102 =  ""
+
+
+icon0103 = 'dllicons\3\[ImageNumberCalc].png'
+text0103 =  ""
+
+icon0104 = 'dllicons\4\[ImageNumberCalc].png'
+text0104 =  ""
+
+
+icon0105 = 'dllicons\5\[ImageNumberCalc].png'
+text0105 =  ""
+
+
+icon0106 = 'dllicons\6\[ImageNumberCalc].png'
+text0106 =  ""
+
+
+icon0201 = 'dllicons\7\[ImageNumberCalc].png'
+text0201 = ""
+
+
+icon0202 = 'dllicons\8\[ImageNumberCalc].png'
+text0202 =  ""
+
+
+icon0203 = 'dllicons\9\[ImageNumberCalc].png'
+text0203 =  ""
+
+icon0204 = 'dllicons\10\[ImageNumberCalc].png'
+text0204 =  ""
+
+
+icon0205 = 'dllicons\11\[ImageNumberCalc].png'
+text0205 =  ""
+
+
+icon0206 = 'dllicons\12\[ImageNumberCalc].png'
+text0206 =  ""
+
+icon0301 = 'dllicons\13\[ImageNumberCalc].png'
+text0301 = ""
+
+
+icon0302 = 'dllicons\14\[ImageNumberCalc].png'
+text0302 =  ""
+
+
+icon0303 = 'dllicons\15\[ImageNumberCalc].png'
+text0303 =  ""
+
+icon0304 = 'dllicons\16\[ImageNumberCalc].png'
+text0304 =  ""
+
+
+icon0305 = 'dllicons\17\[ImageNumberCalc].png'
+text0305 =  ""
+
+
+icon0306 = 'dllicons\18\[ImageNumberCalc].png'
+text0306 =  ""
+
+icon0401 = 'dllicons\19\[ImageNumberCalc].png'
+text0401 = ""
+
+
+icon0402 = 'dllicons\20\[ImageNumberCalc].png'
+text0402 =  ""
+
+
+icon0403 = 'dllicons\21\[ImageNumberCalc].png'
+text0403 =  ""
+
+icon0404 = 'dllicons\22\[ImageNumberCalc].png'
+text0404 =  ""
+
+
+icon0405 = 'dllicons\23\[ImageNumberCalc].png'
+text0405 =  ""
+
+
+icon0406 = 'dllicons\24\[ImageNumberCalc].png'
+text0406 =  ""
+
+icon0501 = 'dllicons\25\[ImageNumberCalc].png'
+text0501 = ""
+
+
+icon0502 = 'dllicons\26\[ImageNumberCalc].png'
+text0502 =  ""
+
+
+icon0503 = 'dllicons\27\[ImageNumberCalc].png'
+text0503 =  ""
+
+icon0504 = 'dllicons\28\[ImageNumberCalc].png'
+text0504 =  ""
+
+
+icon0505 = 'dllicons\29\[ImageNumberCalc].png'
+text0505 =  ""
+
+
+icon0506 = 'dllicons\30\[ImageNumberCalc].png'
+text0506 =  ""
+
+icon0601 = 'dllicons\31\[ImageNumberCalc].png'
+text0601 = ""
+
+
+icon0602 = 'dllicons\32\[ImageNumberCalc].png'
+text0602 =  ""
+
+
+icon0603 = 'dllicons\33\[ImageNumberCalc].png'
+text0603 =  ""
+
+icon0604 = 'dllicons\34\[ImageNumberCalc].png'
+text0604 =  ""
+
+
+icon0605 = 'dllicons\35\[ImageNumberCalc].png'
+text0605 =  ""
+
+
+icon0606 = 'dllicons\36\[ImageNumberCalc].png'
+text0606 =  ""
+
+
+icon0701 = 'dllicons\37\[ImageNumberCalc].png'
+text0701 = ""
+
+
+icon0702 = 'dllicons\38\[ImageNumberCalc].png'
+text0702 =  ""
+
+
+icon0703 = 'dllicons\39\[ImageNumberCalc].png'
+text0703 =  ""
+icon0704 = 'dllicons\40\[ImageNumberCalc].png'
+text0704 =  ""
+
+
+icon0705 = 'dllicons\41\[ImageNumberCalc].png'
+text0705 =  ""
+
+
+icon0706 = 'dllicons\42\[ImageNumberCalc].png'
+text0706 =  ""
+
+icon0801 = 'dllicons\43\[ImageNumberCalc].png'
+text0801 = "Document"
+
+
+icon0802 = 'dllicons\43\[ImageNumberCalc].png'
+text0802 =  "Project"
+
+
+icon0803 = 'dllicons\43\[ImageNumberCalc].png'
+text0803 =  "Download"
+icon0804 = 'dllicons\44\[ImageNumberCalc].png'
+text0804 =  "Translate"
+
+
+icon0805 = 'dllicons\44\[ImageNumberCalc].png'
+text0805 =  "CsdnBlog"
+
+
+icon0806 = 'dllicons\44\[ImageNumberCalc].png'
+text0806 =  "MvnRepo"
+
+
+
+[ImageNumberCalc]
+Measure=Calc
+Formula=Counter % 14
+
+
+
+
+
+;窗口1
+;=====================================
+[0101]
+Meter=Image
+DynamicVariables=1
+ImageName=#icon0101#
+X=51
+Y=68
+H=50
+W=50
+Hidden=0
+LeftMouseDoubleClickAction=!Execute   ["#url0101#"]
+
+
+[0101text]
+Meter=STRING
+Text=#text0101#
+X=51
+Y=108
+FontColor=#FontColor#
+FontFace=#FontFace#
+MeterStyle=Style
+FontSize=
+Angle=6.35
+AntiAlias=1
+Hidden=0
+
+[0102]
+Meter=Image
+DynamicVariables=1
+ImageName=#icon0102#
+X=134
+Y=75
+H=50
+W=50
+Hidden=0
+LeftMouseDoubleClickAction=!Execute   ["#url0102#"]
+
+
+[0102text]
+Meter=STRING
+Text=#text0102#
+X=134
+Y=115
+FontColor=#FontColor#
+FontFace=#FontFace#
+MeterStyle=Style
+FontSize=
+Angle=6.35
+AntiAlias=1
+Hidden=0
+
+[0103]
+Meter=Image
+DynamicVariables=1
+ImageName=#icon0103#
+X=217
+Y=82
+H=50
+W=50
+Hidden=0
+LeftMouseDoubleClickAction=!Execute   ["#url0103#"]
+
+
+[0103text]
+Meter=STRING
+Text=#text0103#
+X=217
+Y=122
+FontColor=#FontColor#
+FontFace=#FontFace#
+MeterStyle=Style
+FontSize=
+Angle=6.35
+AntiAlias=1
+Hidden=0
+
+[0104]
+Meter=Image
+DynamicVariables=1
+ImageName=#icon0104#
+X=51
+Y=144
+H=50
+W=50
+Hidden=0
+LeftMouseDoubleClickAction=!Execute   ["#url0104#"]
+
+
+[0104text]
+Meter=STRING
+Text=#text0104#
+X=51
+Y=184
+FontColor=#FontColor#
+FontFace=#FontFace#
+MeterStyle=Style
+FontSize=
+Angle=6.35
+AntiAlias=1
+Hidden=0
+
+[0105]
+Meter=Image
+DynamicVariables=1
+ImageName=#icon0105#
+X=134
+Y=152
+H=50
+W=50
+Hidden=0
+LeftMouseDoubleClickAction=!Execute   ["#url0105#"]
+
+
+[0105text]
+Meter=STRING
+Text=#text0105#
+X=134
+Y=192
+FontColor=#FontColor#
+FontFace=#FontFace#
+MeterStyle=Style
+FontSize=
+Angle=6.35
+AntiAlias=1
+Hidden=0
+
+[0106]
+Meter=Image
+DynamicVariables=1
+ImageName=#icon0106#
+X=217
+Y=160
+H=50
+W=50
+Hidden=0
+LeftMouseDoubleClickAction=!Execute   ["#url0106#"]
+
+
+[0106text]
+Meter=STRING
+Text=#text0106#
+X=217
+Y=200
+FontColor=#FontColor#
+FontFace=#FontFace#
+MeterStyle=Style
+FontSize=
+Angle=6.35
+AntiAlias=1
+Hidden=0
+
+;窗口2
+[0201]
+Meter=Image
+DynamicVariables=1
+ImageName=#icon0201#
+X=355
+Y=95
+H=50
+W=50
+Hidden=0
+LeftMouseDoubleClickAction=!Execute   ["#url0201#"]
+
+
+[0201text]
+Meter=STRING
+Text=#text0201#
+X=355
+Y=135
+FontColor=#FontColor#
+FontFace=#FontFace#
+MeterStyle=Style
+FontSize=
+Angle=0
+AntiAlias=1
+Hidden=0
+
+[0202]
+Meter=Image
+DynamicVariables=1
+ImageName=#icon0202#
+X=433
+Y=97
+H=50
+W=50
+Hidden=0
+LeftMouseDoubleClickAction=!Execute   ["#url0202#"]
+
+
+[0202text]
+Meter=STRING
+Text=#text0202#
+X=433
+Y=137
+FontColor=#FontColor#
+FontFace=#FontFace#
+MeterStyle=Style
+FontSize=
+Angle=0
+AntiAlias=1
+Hidden=0
+
+[0203]
+Meter=Image
+DynamicVariables=1
+ImageName=#icon0203#
+X=511
+Y=99
+H=50
+W=50
+Hidden=0
+LeftMouseDoubleClickAction=!Execute   ["#url0203#"]
+
+
+[0203text]
+Meter=STRING
+Text=#text0203#
+X=511
+Y=139
+FontColor=#FontColor#
+FontFace=#FontFace#
+MeterStyle=Style
+FontSize=
+Angle=0
+AntiAlias=1
+Hidden=0
+
+[0204]
+Meter=Image
+DynamicVariables=1
+ImageName=#icon0204#
+X=355
+Y=164
+H=50
+W=50
+Hidden=0
+LeftMouseDoubleClickAction=!Execute   ["#url0204#"]
+
+
+[0204text]
+Meter=STRING
+Text=#text0204#
+X=355
+Y=204
+FontColor=#FontColor#
+FontFace=#FontFace#
+MeterStyle=Style
+FontSize=
+Angle=0
+AntiAlias=1
+Hidden=0
+
+[0205]
+Meter=Image
+DynamicVariables=1
+ImageName=#icon0205#
+X=433
+Y=166
+H=50
+W=50
+Hidden=0
+LeftMouseDoubleClickAction=!Execute   ["#url0205#"]
+
+
+[0205text]
+Meter=STRING
+Text=#text0205#
+X=433
+Y=206
+FontColor=#FontColor#
+FontFace=#FontFace#
+MeterStyle=Style
+FontSize=
+Angle=0
+AntiAlias=1
+Hidden=0
+
+[0206]
+Meter=Image
+DynamicVariables=1
+ImageName=#icon0206#
+X=511
+Y=168
+H=50
+W=50
+Hidden=0
+LeftMouseDoubleClickAction=!Execute   ["#url0206#"]
+
+
+[0206text]
+Meter=STRING
+Text=#text0206#
+X=511
+Y=208
+FontColor=#FontColor#
+FontFace=#FontFace#
+MeterStyle=Style
+FontSize=
+Angle=0
+AntiAlias=1
+Hidden=0
+;窗口3
+[0301]
+Meter=Image
+DynamicVariables=1
+ImageName=#icon0301#
+X=644
+Y=100
+H=50
+W=50
+Hidden=0
+LeftMouseDoubleClickAction=!Execute   ["#url0301#"]
+
+
+[0301text]
+Meter=STRING
+Text=#text0301#
+X=644
+Y=140
+FontColor=#FontColor#
+FontFace=#FontFace#
+MeterStyle=Style
+FontSize=
+Angle=0
+AntiAlias=1
+Hidden=0
+
+[0302]
+Meter=Image
+DynamicVariables=1
+ImageName=#icon0302#
+X=722
+Y=99
+H=50
+W=50
+Hidden=0
+LeftMouseDoubleClickAction=!Execute   ["#url0302#"]
+
+
+[0302text]
+Meter=STRING
+Text=#text0302#
+X=722
+Y=139
+FontColor=#FontColor#
+FontFace=#FontFace#
+MeterStyle=Style
+FontSize=
+Angle=0
+AntiAlias=1
+Hidden=0
+
+[0303]
+Meter=Image
+DynamicVariables=1
+ImageName=#icon0303#
+X=800
+Y=98
+H=50
+W=50
+Hidden=0
+LeftMouseDoubleClickAction=!Execute   ["#url0303#"]
+
+
+[0303text]
+Meter=STRING
+Text=#text0303#
+X=800
+Y=138
+FontColor=#FontColor#
+FontFace=#FontFace#
+MeterStyle=Style
+FontSize=
+Angle=0
+AntiAlias=1
+Hidden=0
+
+[0304]
+Meter=Image
+DynamicVariables=1
+ImageName=#icon0304#
+X=644
+Y=165
+H=50
+W=50
+Hidden=0
+LeftMouseDoubleClickAction=!Execute   ["#url0304#"]
+
+
+[0304text]
+Meter=STRING
+Text=#text0304#
+X=644
+Y=205
+FontColor=#FontColor#
+FontFace=#FontFace#
+MeterStyle=Style
+FontSize=
+Angle=0
+AntiAlias=1
+Hidden=0
+
+[0305]
+Meter=Image
+DynamicVariables=1
+ImageName=#icon0305#
+X=722
+Y=164
+H=50
+W=50
+Hidden=0
+LeftMouseDoubleClickAction=!Execute   ["#url0305#"]
+
+
+[0305text]
+Meter=STRING
+Text=#text0305#
+X=722
+Y=204
+FontColor=#FontColor#
+FontFace=#FontFace#
+MeterStyle=Style
+FontSize=
+Angle=0
+AntiAlias=1
+Hidden=0
+
+[0306]
+Meter=Image
+DynamicVariables=1
+ImageName=#icon0306#
+X=800
+Y=163
+H=50
+W=50
+Hidden=0
+LeftMouseDoubleClickAction=!Execute   ["#url0306#"]
+
+
+[0306text]
+Meter=STRING
+Text=#text0306#
+X=800
+Y=203
+FontColor=#FontColor#
+FontFace=#FontFace#
+MeterStyle=Style
+FontSize=
+Angle=0
+AntiAlias=1
+Hidden=0
+
+;窗口4
+;===================================
+[0401]
+Meter=Image
+DynamicVariables=1
+ImageName=#icon0401#
+X=938
+Y=95
+H=50
+W=50
+Hidden=0
+LeftMouseDoubleClickAction=!Execute   ["#url0401#"]
+
+
+[0401text]
+Meter=STRING
+Text=#text0401#
+X=938
+Y=135
+FontColor=#FontColor#
+FontFace=#FontFace#
+MeterStyle=Style
+FontSize=
+Angle=-6.35
+AntiAlias=1
+Hidden=0
+
+[0402]
+Meter=Image
+DynamicVariables=1
+ImageName=#icon0402#
+X=1021
+Y=88
+H=50
+W=50
+Hidden=0
+LeftMouseDoubleClickAction=!Execute   ["#url0402#"]
+
+
+[0402text]
+Meter=STRING
+Text=#text0402#
+X=1021
+Y=128
+FontColor=#FontColor#
+FontFace=#FontFace#
+MeterStyle=Style
+FontSize=
+Angle=-6.35
+AntiAlias=1
+Hidden=0
+
+[0403]
+Meter=Image
+DynamicVariables=1
+ImageName=#icon0403#
+X=1104
+Y=81
+H=50
+W=50
+Hidden=0
+LeftMouseDoubleClickAction=!Execute   ["#url0403#"]
+
+
+[0403text]
+Meter=STRING
+Text=#text0403#
+X=1104
+Y=121
+FontColor=#FontColor#
+FontFace=#FontFace#
+MeterStyle=Style
+FontSize=
+Angle=-6.35
+AntiAlias=1
+Hidden=0
+
+[0404]
+Meter=Image
+DynamicVariables=1
+ImageName=#icon0404#
+X=938
+Y=163
+H=50
+W=50
+Hidden=0
+LeftMouseDoubleClickAction=!Execute   ["#url0404#"]
+
+
+[0404text]
+Meter=STRING
+Text=#text0404#
+X=938
+Y=203
+FontColor=#FontColor#
+FontFace=#FontFace#
+MeterStyle=Style
+FontSize=
+Angle=-6.35
+AntiAlias=1
+Hidden=0
+
+[0405]
+Meter=Image
+DynamicVariables=1
+ImageName=#icon0405#
+X=1021
+Y=155
+H=50
+W=50
+Hidden=0
+LeftMouseDoubleClickAction=!Execute   ["#url0405#"]
+
+
+[0405text]
+Meter=STRING
+Text=#text0405#
+X=1021
+Y=195
+FontColor=#FontColor#
+FontFace=#FontFace#
+MeterStyle=Style
+FontSize=
+Angle=-6.35
+AntiAlias=1
+Hidden=0
+
+[0406]
+Meter=Image
+DynamicVariables=1
+ImageName=#icon0406#
+X=1104
+Y=147
+H=50
+W=50
+Hidden=0
+LeftMouseDoubleClickAction=!Execute   ["#url0406#"]
+
+
+[0406text]
+Meter=STRING
+Text=#text0406#
+X=1104
+Y=187
+FontColor=#FontColor#
+FontFace=#FontFace#
+MeterStyle=Style
+FontSize=
+Angle=-6.35
+AntiAlias=1
+Hidden=0
+[0501]
+Meter=Image
+DynamicVariables=1
+ImageName=#icon0501#
+X=51
+Y=268
+H=50
+W=50
+Hidden=0
+LeftMouseDoubleClickAction=!Execute   ["#url0501#"]
+
+=============
+[0501text]
+Meter=STRING
+Text=#text0501#
+X=51
+Y=308
+FontColor=#FontColor#
+FontFace=#FontFace#
+MeterStyle=Style
+FontSize=
+Angle=0
+AntiAlias=1
+Hidden=0
+
+[0502]
+Meter=Image
+DynamicVariables=1
+ImageName=#icon0502#
+X=134
+Y=268
+H=50
+W=50
+Hidden=0
+LeftMouseDoubleClickAction=!Execute   ["#url0502#"]
+
+
+[0502text]
+Meter=STRING
+Text=#text0502#
+X=134
+Y=308
+FontColor=#FontColor#
+FontFace=#FontFace#
+MeterStyle=Style
+FontSize=
+Angle=0
+AntiAlias=1
+Hidden=0
+
+[0503]
+Meter=Image
+DynamicVariables=1
+ImageName=#icon0503#
+X=217
+Y=268
+H=50
+W=50
+Hidden=0
+LeftMouseDoubleClickAction=!Execute   ["#url0503#"]
+
+
+[0503text]
+Meter=STRING
+Text=#text0503#
+X=217
+Y=308
+FontColor=#FontColor#
+FontFace=#FontFace#
+MeterStyle=Style
+FontSize=
+Angle=0
+AntiAlias=1
+Hidden=0
+
+[0504]
+Meter=Image
+DynamicVariables=1
+ImageName=#icon0504#
+X=51
+Y=343
+H=50
+W=50
+Hidden=0
+LeftMouseDoubleClickAction=!Execute   ["#url0504#"]
+
+
+[0504text]
+Meter=STRING
+Text=#text0504#
+X=51
+Y=383
+FontColor=#FontColor#
+FontFace=#FontFace#
+MeterStyle=Style
+FontSize=
+Angle=0
+AntiAlias=1
+Hidden=0
+
+[0505]
+Meter=Image
+DynamicVariables=1
+ImageName=#icon0505#
+X=134
+Y=342
+H=50
+W=50
+Hidden=0
+LeftMouseDoubleClickAction=!Execute   ["#url0505#"]
+
+
+[0505text]
+Meter=STRING
+Text=#text0505#
+X=134
+Y=382
+FontColor=#FontColor#
+FontFace=#FontFace#
+MeterStyle=Style
+FontSize=
+Angle=0
+AntiAlias=1
+Hidden=0
+
+[0506]
+Meter=Image
+DynamicVariables=1
+ImageName=#icon0506#
+X=217
+Y=341
+H=50
+W=50
+Hidden=0
+LeftMouseDoubleClickAction=!Execute   ["#url0506#"]
+
+
+[0506text]
+Meter=STRING
+Text=#text0506#
+X=217
+Y=381
+FontColor=#FontColor#
+FontFace=#FontFace#
+MeterStyle=Style
+FontSize=
+Angle=0
+AntiAlias=1
+Hidden=0
+
+;窗口6
+;=================
+[0601]
+Meter=Image
+DynamicVariables=1
+ImageName=#icon0601#
+X=355
+Y=274
+H=50
+W=50
+Hidden=0
+LeftMouseDoubleClickAction=!Execute   ["#url0601#"]
+
+
+[0601text]
+Meter=STRING
+Text=#text0601#
+X=355
+Y=314
+FontColor=#FontColor#
+FontFace=#FontFace#
+MeterStyle=Style
+FontSize=
+Angle=0
+AntiAlias=1
+Hidden=0
+
+[0602]
+Meter=Image
+DynamicVariables=1
+ImageName=#icon0602#
+X=433
+Y=274
+H=50
+W=50
+Hidden=0
+LeftMouseDoubleClickAction=!Execute   ["#url0602#"]
+
+
+[0602text]
+Meter=STRING
+Text=#text0602#
+X=433
+Y=314
+FontColor=#FontColor#
+FontFace=#FontFace#
+MeterStyle=Style
+FontSize=
+Angle=0
+AntiAlias=1
+Hidden=0
+
+[0603]
+Meter=Image
+DynamicVariables=1
+ImageName=#icon0603#
+X=511
+Y=274
+H=50
+W=50
+Hidden=0
+LeftMouseDoubleClickAction=!Execute   ["#url0603#"]
+
+
+[0603text]
+Meter=STRING
+Text=#text0603#
+X=511
+Y=314
+FontColor=#FontColor#
+FontFace=#FontFace#
+MeterStyle=Style
+FontSize=
+Angle=0
+AntiAlias=1
+Hidden=0
+
+[0604]
+Meter=Image
+DynamicVariables=1
+ImageName=#icon0604#
+X=355
+Y=342
+H=50
+W=50
+Hidden=0
+LeftMouseDoubleClickAction=!Execute   ["#url0604#"]
+
+
+[0604text]
+Meter=STRING
+Text=#text0604#
+X=355
+Y=382
+FontColor=#FontColor#
+FontFace=#FontFace#
+MeterStyle=Style
+FontSize=
+Angle=0
+AntiAlias=1
+Hidden=0
+
+[0605]
+Meter=Image
+DynamicVariables=1
+ImageName=#icon0605#
+X=433
+Y=342
+H=50
+W=50
+Hidden=0
+LeftMouseDoubleClickAction=!Execute   ["#url0605#"]
+
+
+[0605text]
+Meter=STRING
+Text=#text0605#
+X=433
+Y=382
+FontColor=#FontColor#
+FontFace=#FontFace#
+MeterStyle=Style
+FontSize=
+Angle=0
+AntiAlias=1
+Hidden=0
+
+[0606]
+Meter=Image
+DynamicVariables=1
+ImageName=#icon0606#
+X=511
+Y=342
+H=50
+W=50
+Hidden=0
+LeftMouseDoubleClickAction=!Execute   ["#url0606#"]
+
+
+[0606text]
+Meter=STRING
+Text=#text0606#
+X=511
+Y=382
+FontColor=#FontColor#
+FontFace=#FontFace#
+MeterStyle=Style
+FontSize=
+Angle=0
+AntiAlias=1
+Hidden=0
+;窗口7
+[0701]
+Meter=Image
+DynamicVariables=1
+ImageName=#icon0701#
+X=644
+Y=274
+H=50
+W=50
+Hidden=0
+LeftMouseDoubleClickAction=!Execute   ["#url0701#"]
+
+
+[0701text]
+Meter=STRING
+Text=#text0701#
+X=644
+Y=314
+FontColor=#FontColor#
+FontFace=#FontFace#
+MeterStyle=Style
+FontSize=
+Angle=0
+AntiAlias=1
+Hidden=0
+
+[0702]
+Meter=Image
+DynamicVariables=1
+ImageName=#icon0702#
+X=722
+Y=274
+H=50
+W=50
+Hidden=0
+LeftMouseDoubleClickAction=!Execute   ["#url0702#"]
+
+
+[0702text]
+Meter=STRING
+Text=#text0702#
+X=722
+Y=314
+FontColor=#FontColor#
+FontFace=#FontFace#
+MeterStyle=Style
+FontSize=
+Angle=0
+AntiAlias=1
+Hidden=0
+
+[0703]
+Meter=Image
+DynamicVariables=1
+ImageName=#icon0703#
+X=800
+Y=274
+H=50
+W=50
+Hidden=0
+LeftMouseDoubleClickAction=!Execute   ["#url0703#"]
+
+
+[0703text]
+Meter=STRING
+Text=#text0703#
+X=800
+Y=314
+FontColor=#FontColor#
+FontFace=#FontFace#
+MeterStyle=Style
+FontSize=
+Angle=0
+AntiAlias=1
+Hidden=0
+
+[0704]
+Meter=Image
+DynamicVariables=1
+ImageName=#icon0704#
+X=644
+Y=342
+H=50
+W=50
+Hidden=0
+LeftMouseDoubleClickAction=!Execute   ["#url0704#"]
+
+
+[0704text]
+Meter=STRING
+Text=#text0704#
+X=644
+Y=382
+FontColor=#FontColor#
+FontFace=#FontFace#
+MeterStyle=Style
+FontSize=
+Angle=0
+AntiAlias=1
+Hidden=0
+
+[0705]
+Meter=Image
+DynamicVariables=1
+ImageName=#icon0705#
+X=722
+Y=342
+H=50
+W=50
+Hidden=0
+LeftMouseDoubleClickAction=!Execute   ["#url0705#"]
+
+
+[0705text]
+Meter=STRING
+Text=#text0705#
+X=722
+Y=382
+FontColor=#FontColor#
+FontFace=#FontFace#
+MeterStyle=Style
+FontSize=
+Angle=0
+AntiAlias=1
+Hidden=0
+
+[0706]
+Meter=Image
+DynamicVariables=1
+ImageName=#icon0706#
+X=800
+Y=342
+H=50
+W=50
+Hidden=0
+LeftMouseDoubleClickAction=!Execute   ["#url0706#"]
+
+
+[0706text]
+Meter=STRING
+Text=#text0706#
+X=800
+Y=382
+FontColor=#FontColor#
+FontFace=#FontFace#
+MeterStyle=Style
+FontSize=
+Angle=0
+AntiAlias=1
+Hidden=0
+
+;窗口8
+[0801]
+Meter=Image
+DynamicVariables=1
+ImageName=#icon0801#
+X=938
+Y=274
+H=50
+W=50
+Hidden=0
+LeftMouseDoubleClickAction=!Execute   ["#url0801#"]
+
+
+[0801text]
+Meter=STRING
+Text=#text0801#
+X=963
+Y=316
+FontColor=#FontColor#
+FontFace=#FontFace#
+MeterStyle=Style
+FontSize=
+Angle=0
+AntiAlias=1
+Hidden=0
+StringAlign=CENTER
+
+[0802]
+Meter=Image
+DynamicVariables=1
+ImageName=#icon0802#
+X=1021
+Y=273
+H=50
+W=50
+Hidden=0
+LeftMouseDoubleClickAction=!Execute   ["#url0802#"]
+
+
+[0802text]
+Meter=STRING
+Text=#text0802#
+X=1046
+Y=315
+FontColor=#FontColor#
+FontFace=#FontFace#
+MeterStyle=Style
+FontSize=
+Angle=0
+AntiAlias=1
+Hidden=0
+StringAlign=CENTER
+
+[0803]
+Meter=Image
+DynamicVariables=1
+ImageName=#icon0803#
+X=1104
+Y=272
+H=50
+W=50
+Hidden=0
+LeftMouseDoubleClickAction=!Execute   ["#url0803#"]
+
+
+[0803text]
+Meter=STRING
+Text=#text0803#
+X=1129
+Y=314
+FontColor=#FontColor#
+FontFace=#FontFace#
+MeterStyle=Style
+FontSize=
+Angle=0
+AntiAlias=1
+Hidden=0
+StringAlign=CENTER
+
+[0804]
+Meter=Image
+DynamicVariables=1
+ImageName=#icon0804#
+X=938
+Y=342
+H=50
+W=50
+Hidden=0
+LeftMouseDoubleClickAction=!Execute   ["#url0804#"]
+
+
+[0804text]
+Meter=STRING
+Text=#text0804#
+X=964
+Y=385
+FontColor=#FontColor#
+FontFace=#FontFace#
+MeterStyle=Style
+FontSize=
+Angle=0
+AntiAlias=1
+Hidden=0
+StringAlign=CENTER
+
+[0805]
+Meter=Image
+DynamicVariables=1
+ImageName=#icon0805#
+X=1021
+Y=342
+H=50
+W=50
+Hidden=0
+LeftMouseDoubleClickAction=!Execute   ["#url0805#"]
+
+
+[0805text]
+Meter=STRING
+Text=#text0805#
+X=1048
+Y=385
+FontColor=#FontColor#
+FontFace=#FontFace#
+MeterStyle=Style
+FontSize=
+Angle=0
+AntiAlias=1
+Hidden=0
+StringAlign=CENTER
+
+[0806]
+Meter=Image
+DynamicVariables=1
+ImageName=#icon0806#
+X=1104
+Y=342
+H=50
+W=50
+Hidden=0
+LeftMouseDoubleClickAction=!Execute   ["#url0806#"]
+
+
+[0806text]
+Meter=STRING
+Text=#text0806#
+X=1129
+Y=385
+FontColor=#FontColor#
+FontFace=#FontFace#
+MeterStyle=Style
+FontSize=
+Angle=0
+AntiAlias=1
+Hidden=0
+StringAlign=CENTER
+
+[Sleep_Icon]
+Meter=Image
+ImageName=sleep\[ImageNumberCalc].png
+X=932
+Y=495
+H=50
+W=50
+DynamicVariables=1
+LeftMouseDownAction=!Execute [%windir%\System32\rundll32.exe powrprof.dll,SetSuspendState][!RainmeterRedraw]
+
+[Restart_Icon]
+Meter=Image
+ImageName=restart\[ImageNumberCalc].png
+X=1017
+Y=503
+H=50
+W=50
+DynamicVariables=1
+LeftMouseDownAction=!Execute [%windir%\System32\shutdown.exe -r -t 00]
+
+[Shutdown_Icon]
+Meter=Image
+ImageName=shutdown\[ImageNumberCalc].png
+X=1097
+Y=511
+H=50
+W=50
+DynamicVariables=1
+LeftMouseDownAction=!Execute [%windir%\System32\shutdown.exe -s -t 00]
+
+[MOJI]
+Measure=Plugin
+Plugin=WebParser.dll
+Url=file://C:\Users\maqiy\Documents\Rainmeter\Skins\illustro\moji\DownloadFile\weather.txt
+RegExp=(?siU)https://h5tq.moji.com/tianqi/assets/images/weather/(.*).png.*https://h5tq.moji.com/tianqi/assets/images/weather/(.*).png.*https://h5tq.moji.com/tianqi/assets/images/weather/(.*).png.*
+UpdateRate = 4500
+
+[ID1]
+Measure=Plugin
+Plugin=WebParser.dll
+Url=[MOJI]
+StringIndex=1
+UpdateRate = 4500
+OnChangeAction=[!SetVariable w1 [ID1]]
+
+[ID2]
+Measure=Plugin
+Plugin=WebParser.dll
+Url=[MOJI]
+StringIndex=2
+UpdateRate = 4500
+OnChangeAction=[!SetVariable w2 [ID2]]
+
+[ID3]
+Measure=Plugin
+Plugin=WebParser.dll
+Url=[MOJI]
+StringIndex=3
+;UpdateDivider = 4500
+UpdateRate = 4500
+OnChangeAction=[!SetVariable w3 [ID3]]
+
+
+[WaterIco]
+Meter=IMAGE
+ImageName=moji\water\[ImageNumberCalc].png
+X=414
+Y=491
+W=18
+H=18
+DynamicVariables=1
+
+[WindIco]
+Meter=IMAGE
+ImageName=moji\wind\[ImageNumberCalc].png
+X=338
+Y=491
+W=18
+H=18
+DynamicVariables=1
+
+[WeaIco]
+Meter=IMAGE
+ImageName=moji\#w1#\[ImageNumberCalc].png
+X=430
+Y=432
+W=75
+H=75
+DynamicVariables=1
+
+[WeaIco2]
+Meter=IMAGE
+ImageName=moji\#w2#\[ImageNumberCalc].png
+X=345
+Y=517
+W=45
+H=45
+DynamicVariables=1
+Hidden=0
+
+[WeaIco3]
+Meter=IMAGE
+ImageName=moji\#w3#\[ImageNumberCalc].png
+X=455
+Y=517
+W=45
+H=45
+DynamicVariables=1
+Hidden=0
+
+[Meter-weibo-image]
+Meter=Image
+ImageName=weibo\[ImageNumberCalc].png
+W=40
+H=40
+X=37
+Y=444
+DynamicVariables=1

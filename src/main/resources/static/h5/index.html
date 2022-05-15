@@ -1,0 +1,134 @@
+<html>
+<html>
+<head>
+    <meta http-equiv="COntent-Type" content="text/html" charset="utf-8">
+    <title>便签</title>
+    <meta name="Keywords" content="关键词 关键词">
+    <meta name="description" content="">
+    <meta http-equiv="Access-Control-Allow-Origin" content="*" />
+    <link rel="stylesheet" type="text/css" href="../css/animate.css"/>
+    <link rel="stylesheet" type="text/css" href="../css/note.css"/>
+</head>
+<!--主体  包含具体说明内容-->
+<body class="box">
+<!--	<h1>点击鼠标右键-&#45;&#45;&#45;&#45;添加标签</h1>-->
+<!--menu S-->
+<button id = 'i1' class="bubbly-button" >爱番茄</button>
+<br>
+<button id = 'i2' class="bubbly-button" style="margin-top: 100px;">写封信给她</button>
+<br>
+<!--<button id = 'i3' class="bubbly-button" style="margin-top: 20px;">画一只鱼</button>-->
+<!--<br>-->
+<!--<button id = 'i4' class="bubbly-button" style="margin-top: 50px;">画笔</button>-->
+<!--<br>-->
+<!--<button id = 'i5' class="bubbly-button" style="margin-top: 20px;">橡皮</button>-->
+<!--<br>-->
+<!--<button id = 'i6' class="bubbly-button" style="margin-top: 20px;">取消</button>-->
+<div class="menu">
+    <ul>
+        <li onclick="wll_menu(1);">添加便签</li>
+        <li onclick="wll_menu(2);">清空页面</li>
+        <li onclick="wll_menu(3);">显示全部</li>
+        <li onclick="wll_menu(4);">隐藏完成</li>
+    </ul>
+</div>
+
+<div class="note_menu">
+    <ul>
+        <li onclick="wll_note_menu(1);">标记为已完成</li>
+        <li onclick="wll_note_menu(2);">标记为未完成</li>
+        <li onclick="wll_note_menu(3);">隐藏</li>
+        <li onclick="wll_note_menu(4);">删除</li>
+    </ul>
+</div>
+
+
+<script src="http://img.htmlsucai.com/cdn/jquery/jquery-1.10.2.js"></script>
+<script src="../js/note.js"></script>
+<script src="../js/huaban.js"></script>
+<script type="text/javascript">
+
+    document.body.overflowX="hidden";
+    function init() {
+        var user = getQueryVariable("user")
+        if (user == null) return;
+        var url = host + '/notes/init?user=' + user
+        $.get(url,function (data){
+            var obj = jQuery.parseJSON(data);;
+            for (var i=0;i< obj.length;i++){
+                var item = obj[i];
+                var content = item.content;
+                var left = item.x;
+                var top = item.y;
+                var color = item.pic;
+                var id = item.calendarId;
+                var visibility = item.visibility;
+                var textDecoration = item.textDecoration;
+                var type = item.type;
+                var w = Math.floor(Math.random() * 30);
+                if (type == null || type == 0){
+                    $(".box").append("<div  id='"+id+"' class='b_list animated " + wll[w] + "' style='opacity:0.7; background:"+color+"; left:" + left + ";top:" + top + "; display: "+visibility+"'>" +
+                        "<span id='span"+id+"' class='b_content'  contenteditable='true' style='text-decoration: " + textDecoration + ";'>"+content+"</span>" +
+                        "</div>");
+                }else if (type == 1){
+                    $(".box").append("<div  id='"+id+"' class='b_list animated " + wll[w] + "' style='opacity:0.7; background:"+color+"; left:" + left + ";top:" + top + "; display: "+visibility+"'>" +
+                        "<span id='span"+id+"' class='b_content2'  contenteditable='true' style='background: repeating-linear-gradient("+color+", "+color+" 31px, #eab396 31px, #94ACD4 32px); text-decoration: " + textDecoration + ";'>"+content+"</span>" +
+                        "</div>");
+                }else {
+                    $(".box").append("<div id='"+id+"' class='b_list animated " + wll[w] + "' style='opacity:0.7;background:"+color+"; left:" + left + "px;top:" + top + "px;'>" +
+                        "<canvas class='note_inner_canvas' id='canvas"+id+"'></canvas>" +
+                        "</div>");
+                }
+
+                initItem(id,type)
+            }
+            sunfangSize(obj)
+            jianju('');
+            ceng();
+        })
+
+
+    }
+
+    function newNote(x,y,type){
+        var w = Math.floor(Math.random() * 30);
+        var left = $(".menu").offset().left+x;
+        var top = $(".menu").offset().top+y;
+        var color = colors[Math.floor(Math.random() * 5)];
+        var url = host + '/notes/insert'
+        $.get(url,function (id) {
+            console.log(id);
+            if (type == null || type == 0){
+                $(".box").append("<div id='"+id+"' class='b_list animated " + wll[w] + "' style='opacity:0.7;background:"+color+"; left:" + left + "px;top:" + top + "px;'>" +
+                    "<span id='span"+id+"' class='b_content'  contenteditable='true'></span>" +
+                    "</div>");
+            }else if (type == 1){
+                $(".box").append("<div id='"+id+"' class='b_list animated " + wll[w] + "' style='opacity:0.7;background:"+color+"; left:" + left + "px;top:" + top + "px;'>" +
+                    "<span id='span"+id+"' class='b_content2'  contenteditable='true' style='background: repeating-linear-gradient("+color+", "+color+" 31px, #eab396 31px, #94ACD4 32px);'></span>" +
+                    "</div>");
+            }else {
+                $(".box").append("<div id='"+id+"' class='b_list animated " + wll[w] + "' style='opacity:0.7;background:"+color+"; left:" + left + "px;top:" + top + "px;'>" +
+                    "<canvas class='note_inner_canvas' id='canvas"+id+"'></canvas>" +
+                    "</div>");
+            }
+            save(id)
+            initItem(id,type)
+        })
+    }
+    function initItem(id,type){
+        move(id);
+        note_click(id);
+        hover(id)
+        suofang(id)
+        if (type == 2){
+            pen(id)
+        }
+    }
+    var host = 'http://47.93.52.234:8080';
+    // var host = 'http://192.168.0.108:8080';
+    // var host = 'http://10.161.118.155:8080';
+
+
+</script>
+</body>
+</html>

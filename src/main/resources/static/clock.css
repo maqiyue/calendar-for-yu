@@ -1,0 +1,105 @@
+/*DIGITAL CLOCK FONT*/
+@font-face{
+ font-family:'digital-7';
+ src: url('digital-7.ttf');
+}
+
+* {
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	background-color: #000000;
+	font-family: 'digital-7', sans-serif;
+}
+#canvas{
+	z-index: 2001;
+}
+
+
+.all{
+	text-align: center;
+    position: absolute;
+    top: 690px;
+    left: 1540px;
+    padding: 15px;
+	transform: perspective(300px) rotateX(-10deg) rotateY(-40deg) rotateZ(12deg) scale(0.9);
+	z-index: 1001;
+}
+
+.day{
+	display: inline-block;
+}
+.month{
+	display: inline-block;
+}
+.year{
+	padding-left: 1em;
+	display: inline-block;
+}
+.date>.numbers{
+	display: inline-block;
+}
+.date{
+	color:#1dd7d4;
+	font-size: 20px;
+	font-weight: bolder;
+	text-shadow: 3px 0px rgba(14, 253, 250, 0.05), 0 0 2px rgba(14, 253, 250,0.05);
+	
+}
+
+/* CLOCK */
+div.clock {
+	margin: -10px 0;
+
+}
+
+div.clock div{
+	display: inline-block;
+	position: relative;
+}
+
+div.clock div p{
+	
+	font-size: 100px;
+	position: relative;
+	z-index: 100;
+}
+
+div.clock .placeholder {
+	color: #131212;
+	position: absolute;
+	top: 0;
+	z-index: 50;
+}/*END CLOCK*/
+
+
+/* AM OR PM*/
+.am-pm {
+	font-family: sans-serif;
+	text-transform: uppercase;
+	width: 20px;
+}
+
+div.am-pm div p {
+	font-size: 12px;
+	font-weight: bold;
+	width: 100%;
+}
+
+.am, .pm {
+	color: #131212;
+}
+
+.light-on {
+	text-shadow: 4px 0px rgba(14, 253, 250, 0.3), 0 0 10px rgb(14, 253, 250);
+	color: #1dd7d4;
+
+}
+.colon{
+	font-size: 100px;
+	letter-spacing: -.4em;
+	text-align: center;
+	text-indent: -.4em;
+}

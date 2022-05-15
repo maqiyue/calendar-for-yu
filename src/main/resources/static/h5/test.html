@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <link rel="stylesheet" type="text/css" href="../css/animate.css"/>
+    <link rel="stylesheet" type="text/css" href="../css/note.css"/>
+    <style type="text/css">
+        #d1
+        {
+            width:100px;
+            height:100px;
+            position:absolute;
+            background-color:Red;
+            left:10px;
+            top:50px;
+        <!--filter:alpha(opacity=0);-->
+        }
+    </style>
+</head>
+<body>
+<input id="btn" type="button" value="动画" />
+<input id="btn1" type="button" value="向左"/>
+<input id="btn2" type="button" value="向右"/>
+<div id="d1">
+</div>
+<script src="http://img.htmlsucai.com/cdn/jquery/jquery-1.10.2.js"></script>
+<script type="text/javascript">
+    $(function (){
+        $("#btn").click(function () {
+            //animate里面的参数是按照先静后动来执行的，所以有一个参数是函数参数，先执行前面的后执行动画里面的
+            $("#d1").animate({ "left": 300, "top": 300}, 1000).animate({ "width": 300, "height": 300, "opacity": 10 }, 1000, function () {
+                $(this).css("background-color", "blue");
+            });
+        })
+        //左移
+        $("#btn1").click(function () {
+            $("#d1").animate({ "left": "-=80" },1000);
+
+
+        })
+        //右移
+        $("#btn2").click(function () {
+            $("#d1").animate({ "left": "+=80" }, 1000);
+
+
+        })
+    })
+</script>
+</body>
+</html>
+
+
