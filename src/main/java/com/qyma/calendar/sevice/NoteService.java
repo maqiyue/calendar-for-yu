@@ -56,7 +56,7 @@ public class NoteService {
     }
 
     public NoteCalendar findById(String id) {
-        Query query = new Query();
+        Query query = new Query();//
         query.addCriteria(Criteria.where("calendarId").is(id));
         return template.findOne(query,NoteCalendar.class,"noteCalendar");
     }
